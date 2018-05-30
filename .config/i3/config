@@ -22,8 +22,10 @@ exec --no-startup-id newsboat -x reload && newsboat -X
 exec --no-startup-id insync-headless start
 # Start insync
 
-exec --no-startup-id keynav "loadconfig ~/.config/keynav/keynavrc,daemonize"
-# Start keynav
+exec --no-startup-id synclient PalmDetect=1
+exec --no-startup-id synclient PalmMinWidth=8
+exec --no-startup-id synclient PalmMinZ=50
+# Set Palm detection on touchpad
 
 exec --no-startup-id xset r rate 300 50
 # Increase key rate
@@ -50,7 +52,18 @@ exec --no-startup-id exec redshift -b 1.0:0.8 -l -33:117 -t 5500:3000
 # Starts redshift
 
 exec --no-startup-id xmodmap -e "clear lock"; xmodmap -e "keysym Caps_Lock = Escape"; xmodmap -pke > ~/.Xmodmap
-## Sets capslock as escape
+# Makes Caps an Escape
+exec --no-startup-id xmodmap -e "keycode  71 = 5 percent 5 percent"; xmodmap -pke > ~/.Xmodmap
+# Makes F5 a 5
+exec --no-startup-id xmodmap -e "keycode 72 = 6 asciicircum 6 asciicircum"; xmodmap -pke > ~/.Xmodmap
+# Makes F6 a 6
+exec --no-startup-id xmodmap -e "keycode 95 = minus underscore minus underscore"; xmodmap -pke > ~/.Xmodmap
+# Makes F11 a -_
+exec --no-startup-id xmodmap -e "keycode 96 = equal plus equal plus"; xmodmap -pke > ~/.Xmodmap
+# Makes F12 a plus
+exec --no-startup-id xmodmap -e "keycode 133 = Control_L NoSymbol Control_L"; xmodmap -pke > ~/.Xmodmap
+# Makes Super a Control
+## Sets keys
 #. ---------------------------- #
 # >>>> MOVEMENT SHORTCUTS <<<< #
 #. ---------------------------- #
