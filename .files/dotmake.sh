@@ -19,11 +19,11 @@ cd $dir; git pull --all
 
 echo "Backing up old files....."
 for folder in $(fd --exclude "*git*" --hidden --no-ignore --max-depth 1 --type d --full-path $dir -x echo {/}); do
-    rsync -rhPL $dir/$folder $oldDir > /dev/null 2>&1
+    rsync --human-readable --recursive --copy-links  --partial --info=progress2 $dir/$folder $oldDir
 done
 
 for file in $(fd --exclude "*LIC*" --exclude "*READ*" --hidden --no-ignore --max-depth 1 --type f --full-path $dir -x echo {/}); do
-    rsync -rhPL $dir/$file $oldDir > /dev/null 2>&1
+    rsync --human-readable --recursive --copy-links --partial --info=progress2 $dir/$file $oldDir
 done
 
 echo "Creating new folders....."
