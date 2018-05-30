@@ -1,6 +1,7 @@
 #!/usr/bin/zsh
 ## A script to install all my vim plugins
 
+mkdir ~/.vim/bundle
 cd ~/.vim/bundle
 
 git clone https://github.com/w0rp/ale.git #linter
