@@ -47,14 +47,14 @@ for file in $(git diff --name-only); do
     git commit -vS $file
 done
 
-git add .
-git commit -S .
-# To handle new and deleted files
-git push
-
 # Get list of installed packages
 echo "Getting list of packages...."
 pacman -Qe | awk '{print $1}' > $dir/.files/explicit_packages.txt
 awk 'FNR==NR {a[$0]++; next} !a[$0]' $dir/.files/packages_base.txt $dir/.files/explicit_packages.txt > $dir/.files/packages_unique.txt
 sed -i '/xorg-.*/d' $dir/.files/packages_unique.txt
 rm $dir/.files/explicit_packages.txt
+
+git add .
+git commit -S .
+# To handle new and deleted files
+git push
