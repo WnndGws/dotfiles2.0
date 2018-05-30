@@ -1,0 +1,116 @@
+# vim: filetype=neomuttrc
+# This is the general mutt config which has the settings that all accounts use.
+# ------------------------------------------------------------------------------------------------------------------
+# Unset all keys that will be used for keyboard shortcuts
+bind index,pager g noop
+bind index,pager i noop
+bind index,pager m noop
+bind index,pager + noop
+
+bind index a noop
+bind index \Cf noop
+
+bind index,pager,attach,compose b noop
+
+bind editor <space> noop
+# ------------------------------------------------------------------------------------------------------------------
+source $XDG_CONFIG_HOME/mutt/etc/muttcol
+# muttcol sets the visual aspects of mutt
+
+source $XDG_CONFIG_HOME/mutt/accounts/Gmail.muttrc
+# Source mailboxes' muttrc
+
+#source $XDG_CONFIG_HOME/mutt/etc/aliases
+# I have no aliases
+
+source $XDG_CONFIG_HOME/mutt/credentials/gpg.rc
+# GPG settings file
+# ------------------------------------------------------------------------------------------------------------------
+# General Settings
+set askbcc = yes
+set fast_reply = yes
+set move = yes
+set smart_wrap = yes
+set timeout = 30
+timeout-hook 'exec sync-mailbox'
+shutdown-hook 'exec sync-mailbox'
+set edit_headers = yes
+set forward_format = "Fwd: %s"
+set collapse_unread = yes
+set editor = vim
+set sleep_time = 0
+set sort = 'threads'
+set sort_aux = 'reverse-last-date-received'
+set uncollapse_jump = yes
+set mailcap_path = $HOME/.config/mailcap/mailcap    #Chooses program to open different files with
+set date_format="%Y/%m/%d %I:%M"
+set index_format="%2C %Z %D %-15.15F %s (%-4.4c)"
+set markers = no
+set mark_old = no
+color progress white red
+auto_view text/html
+auto_view application/pdf
+alternative_order text/plain text/enriched text/html
+# ------------------------------------------------------------------------------------------------------------------
+# General remappings
+bind pager h exit
+bind pager j next-page
+bind pager k previous-page
+bind index G last-entry
+bind index l display-message
+bind index gg first-entry
+bind index d half-down
+bind index u half-up
+bind index U undelete-message
+bind index,pager + entire-thread
+bind index,pager R group-reply
+bind index,pager mc mail
+bind index,pager md delete-message
+macro index,pager S '<sync-mailbox>
+macro index,pager b |urlview\n
+#macro index,pager,attach,compose b "\
+    #<enter-command> set my_pipe_decode=\$pipe_decode pipe_decode<Enter>\
+    #<pipe-message> urlview<Enter>\
+    #<enter-command> set pipe_decode=\$my_pipe_decode; unset my_pipe_decode<Enter>"
+# ------------------------------------------------------------------------------------------------------------------
+# Notmuch searching
+macro index / "<enter-command>unset wait_key<enter><shell-escape>read -p 'notmuch query: ' x; echo \$x >~/.cache/mutt_terms<enter><limit>~i \"\`notmuch search --output=messages \$(cat ~/.cache/mutt_terms) | head -n 600 | perl -le '@a=<>;chomp@a;s/\^id:// for@a;$,=\"|\";print@a'\`\"<enter>" "show only messages matching a notmuch pattern"
+macro index am "<limit>all\n" "show all messages (undo limit)"
+macro index gf "<change-vfolder>?" "Change to vfolder overview"
+macro index gi "<change-vfolder>Inbox" "Change to Inbox"
+macro index ga "<change-vfolder>Archive" "Change to Archive"
+macro index gs "<change-vfolder>Sent" "Change to Sent"
+macro index ma "<modify-labels>+archive -unread -inbox\\n" "Archive message"
+macro index mr "<modify-labels>-unread\\n" "Message Read"
+# ------------------------------------------------------------------------------------------------------------------
+# Use goobook as address book
+set query_command="goobook query %s"
+bind editor <Tab> complete-query
+# ------------------------------------------------------------------------------------------------------------------
+# Sidebar mappings
+set sidebar_visible = no
+set sidebar_width = 30
+set sidebar_short_path = yes
+set sidebar_next_new_wrap = yes
+set mail_check_stats = yes
+set sidebar_format = '%B%?F? ?%* %?N?%N/?%S'
+bind index,pager K sidebar-prev
+bind index,pager J sidebar-next
+bind index,pager L sidebar-open
+bind index,pager <F3> sidebar-page-up
+bind index,pager <F4> sidebar-page-down
+bind index,pager \Cp sidebar-prev-new
+bind index,pager \Cn sidebar-next-new
+bind index,pager B sidebar-toggle-visible
+# ------------------------------------------------------------------------------------------------------------------
+# GPG Settings
+set pgp_use_gpg_agent = yes
+set pgp_sign_as = 836257CA099796B5
+set pgp_self_encrypt = yes
+set pgp_timeout = 3600
+set crypt_autosign = yes
+set crypt_opportunistic_encrypt = yes
+# ------------------------------------------------------------------------------------------------------------------
+# Headers
+ignore *
+unignore from date subject to cc Content-Type

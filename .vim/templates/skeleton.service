@@ -1,0 +1,11 @@
+[Unit]
+Description=<++>
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=<++>
+ExecStop=killall <++>
+
+[Install]
+WantedBy=multi-user.target

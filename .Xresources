@@ -1,0 +1,72 @@
+
+! --------------------------- !
+! >>>>> COLOUR SETTINGS <<<<< !
+! ----------------------------!
+
+! special colors
+*.foreground:  #029A20
+*.background:  #021A20
+*.cursorColor:  #93a1a1
+! black
+*.color0:      #2E3436
+*.color8:      #555753
+! red
+*.color1:      #CC0000
+*.color9:      #EF2929
+! green
+*.color2:      #4E9A06
+*.color10:     #8AE234
+! yellow
+*.color3:      #C4A000
+*.color11:     #FCE94F
+! blue
+*.color4:      #3465A4
+*.color12:     #729FCF
+! magenta
+*.color5:      #75507B
+*.color13:     #AD7FA8
+! cyan
+*.color6:      #06989A
+*.color14:     #34E2E2
+! white
+*.color7:      #D3D7CF
+*.color15:     #EEEEEC
+
+!fg = ${xrdb:color7}
+!bg = ${xrdb:color2}
+
+! -------------------------- !
+! >>>>> URxvt SETTINGS <<<<< !
+! -------------------------- !
+
+URxvt*scrollBar:         false
+URxvt*scrollBar_right:   false
+!! No scrollbar
+
+scrollstyle: plain
+!! sets scrollstyle to plain instead of rxvt
+
+URxvt*transparent:       false
+URxvt.shading:           10
+!! Uses real transparency instead of setting background image to match whats behind it
+
+!! URxvt*depth: 32
+URxvt.background: [100]#002b36
+!! Sets opacity to 100%
+
+URxvt.font: xft:Anonymous Pro, xft:Font Awesome
+!! Sets font and size
+
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007
+!! Allows for scrolling in terminal with shift and arrows
+
+*antialias:  true
+*autohint:   true
+
+! ------------------------- !
+! >>>> PERL EXTENSIONS <<<< !
+! ------------------------- !
+
+URxvt.iso14755: False
+!! Disables the insanely annoying Ctrl+Shift shortcut that enters ISO14755 mode

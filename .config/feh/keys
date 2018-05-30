@@ -1,0 +1,22 @@
+# unsetting the keys bound to next/previous image by stating it without assigning any keys:
+next_img
+prev_img
+zoom_in
+zoom_out
+scroll_right
+scroll_left
+scroll_up
+scroll_down
+toggle_fullscreen
+save_filelist # So i can use f to toggle_fullscreen
+
+# custom key mapping:
+zoom_in plus
+zoom_out minus
+scroll_up K
+scroll_down J
+scroll_left H
+scroll_right L
+next_img l
+prev_img h
+toggle_fullscreen f

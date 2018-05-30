@@ -1,0 +1,11 @@
+###############################################################################
+# Commands below this point will open media in a separate window without
+###############################################################################
+
+image/x-imgur-album; feh -g 640x480 %s; test=test -n "$DISPLAY"
+image/*; $HOME/Git/OneOffCodes/Shell/openWithReddit.sh %s
+video/*; $HOME/Git/OneOffCodes/Shell/openWithReddit.sh %s
+
+text/html; w3m -I %{charset} -T text/html; copiousoutput;
+text/plain; vim %s ;
+application/pdf; mv %s %s.pdf && i3 exec mupdf %s.pdf > /dev/null; needsterminal;

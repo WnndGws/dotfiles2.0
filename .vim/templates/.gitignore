@@ -1,0 +1,11 @@
+*.synctex.gz
+*.run.xml
+*.log
+*.fls
+*.blg
+*.bcf
+*.bbl
+*.aux
+*.fdb_latexmk
+
+## Ignore extra latex files

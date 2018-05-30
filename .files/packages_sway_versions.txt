@@ -1,0 +1,126 @@
+
+** = The same in wayland and xorg
+
+|---------------------------------+----------|
+| i3                              | Sway     |
+|---------------------------------+----------|
+| acpilight                       | **       |
+| alsa-utils                      |          |
+| awesome-terminal-fonts          | **       |
+| biber                           | **       |
+| bind-tools                      | **       |
+| bluez-utils                     | **       |
+| brightnessctl                   | **       |
+| budgetwarrior                   | **       |
+| centerim5-git                   | **       |
+| cower                           |          |
+| cpupower                        |          |
+| downgrade                       | **       |
+| expect                          | **       |
+| fasd                            | **       |
+| feh                             | imv      |
+| fetchmirrors                    | **       |
+| fetchpkg                        | **       |
+| firefox                         |          |
+| fzf                             | **       |
+| gallery-dl                      | **       |
+| gcalcli-git                     | **       |
+| git                             | **       |
+| goobook-git                     | **       |
+| gtk2fontsel                     |          |
+| gvfs                            |          |
+| gvfs-mtp                        |          |
+| gvfs-smb                        |          |
+| gvim                            |          |
+| haxor-news                      | **       |
+| htop                            | **       |
+| hyperfine                       |          |
+| i3-gaps                         |          |
+| i3blocks                        |          |
+| i3ipc-python-git                |          |
+| i3lock                          |          |
+| i3status                        |          |
+| ibam                            |          |
+| imagemagick                     |          |
+| insync                          | **       |
+| intel-ucode                     |          |
+| ipython                         | **       |
+| magic-wormhole                  | **       |
+| massren                         | **       |
+| md2pdf                          | **       |
+| mesa                            |          |
+| mpv                             | **       |
+| neofetch                        | **       |
+| neomutt                         | **       |
+| nerd-fonts-complete             | **       |
+| newsboat                        | **       |
+| offlineimap                     | **       |
+| oh-my-zsh-git                   | **       |
+| openssh                         | **       |
+| openvpn                         | **       |
+| p7zip                           | **       |
+| pavucontrol                     |          |
+| polybar                         |          |
+| pulseaudio                      |          |
+| pulseaudio-alsa                 |          |
+| purple-facebook                 |          |
+| purple-hangouts-hg              |          |
+| purple-plugin-pack              |          |
+| pymodoro-git                    |          |
+| python-dnspython                | **       |
+| python-google-api-python-client | **       |
+| python-html5lib                 | **       |
+| python-httplib2                 | **       |
+| python-hypothesis               | **       |
+| python-i3-py                    | **       |
+| python-nltk                     | **       |
+| python-pillow                   | **       |
+| python-pip                      | **       |
+| python-utils                    | **       |
+| python2-oauth2client1412        | **       |
+| qpdfview                        |          |
+| ranger                          | **       |
+| redshift-minimal                |          |
+| ripgrep                         | **       |
+| rsync                           | **       |
+| rtv                             | **       |
+| rxvt-unicode-pixbuf             |          |
+| screenfetch                     |          |
+| scrot                           | swaygrab |
+| spotify                         |          |
+| streamlink                      |          |
+| syslinux                        |          |
+| tealdeer                        |          |
+| texlive-bibtexextra             | **       |
+| texlive-core                    | **       |
+| texlive-fontsextra              | **       |
+| texlive-formatsextra            | **       |
+| texlive-latexextra              | **       |
+| texlive-pictures                | **       |
+| texlive-science                 | **       |
+| transmission-cli                |          |
+| trash-cli                       | **       |
+| trizen                          | **       |
+| ttf-dejavu                      |          |
+| udiskie                         | **       |
+| ufw                             | **       |
+| unclutter                       |          |
+| unzip                           |          |
+| urlscan                         | **       |
+| w3m                             |          |
+| wget                            |          |
+| wireless_tools                  |          |
+| wmctrl                          |          |
+| wpa_actiond                     | **       |
+| wpa_supplicant                  | **       |
+| xclip                           |          |
+| xdg-user-dirs                   |          |
+| xf86-input-synaptics            |          |
+| xf86-video-ati                  |          |
+| xsel                            |          |
+| xterm                           |          |
+| youtube-dl                      | **       |
+| youtube-viewer                  | **       |
+| zsh                             | **       |
+| zsh-syntax-highlighting         | **       |
+|---------------------------------+----------|

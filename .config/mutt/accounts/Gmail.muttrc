@@ -1,0 +1,18 @@
+# vim: filetype=neomuttrc
+# muttrc file for account Gmail
+set realname = "Wynand Gouws"
+set from = "wynand@gouws.com.au"
+set smtp_url = "smtp://wynandgouwswg@gmail.com@smtp.gmail.com:587/"
+set sendmail = "/usr/bin/msmtp -a Gmail"
+set folder = "$HOME/.mail/gmail"
+set header_cache = $HOME/.cache/mutt/accounts/Gmail/cache/headers
+set message_cachedir = $HOME/.cache/mutt/accounts/Gmail/cache/bodies
+set certificate_file = $HOME/.config/mutt/accounts/Gmail/certificates
+source "$HOME/.config/mutt/credentials/getmuttpass Gmail |"
+source ~/.mailboxes
+
+set mbox_type = Maildir
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set virtual_spoolfile=yes
+set folder=~/.mail

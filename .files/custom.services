@@ -1,0 +1,42 @@
+[Unit]
+Description=Weekly vote on installed and uninstalled AUR packages
+Unit=aur-auto-vote.service
+
+[Timer]
+OnCalendar=weekly
+AccuracySec=1d
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+[Unit]
+Description=Sets screen brightness to match battery percentage
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/zsh /home/wynand/Git/OneOffCodes/Shell/battery_brightness.sh
+
+[Install]
+WantedBy=multi-user.target
+
+[Unit]
+Description=Automates voting on installed and uninstalled AUR packages
+Requires=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=root
+# enter your username and password here
+ExecStart=/usr/bin/aur-auto-vote $username
+Environment="AUR_AUTO_VOTE_PASSWORD=$password"
+[Unit]
+Description=Checks battery percentage every 15mins and sets brightness to match
+
+[Timer]
+OnCalendar=*:0/15
+Persistant=true
+
+[Install]
+WantedBy=timers.target

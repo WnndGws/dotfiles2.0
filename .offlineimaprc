@@ -1,0 +1,26 @@
+[general]
+accounts = Gmail
+starttls = yes
+ssl = yes
+pythonfile = ~/.config/neomutt/imappwd.py
+
+[Account Gmail]
+autorefresh = 0.5
+quick = 10
+localrepository = Gmail-local
+remoterepository = Gmail-remote
+postsynchook = ~/.config/neomutt/notmuch-hook.sh
+
+[Repository Gmail-remote]
+type = Gmail
+remoteuser = wynandgouwswg@gmail.com
+sslcacerfile = /etc/ssl/cets/ca-certificates.crt
+remotepasseval = mailpasswd("Gmail")
+port = 993
+sslcacertfile = /etc/ssl/certs/ca-certificates.crt
+folderfilter = lambda foldername: foldername in ['[Gmail]/All Mail']
+nametrans = lambda foldername: re.sub('^\[Gmail\]/All Mail', 'gmail', foldername)
+
+[Repository Gmail-local]
+type = Maildir
+localfolders = ~/.mail

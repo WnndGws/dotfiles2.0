@@ -1,0 +1,326 @@
+
+[colors]
+background = #2E3436
+;; Bar colour
+background-alt = #555753
+;; Bar highlight colour
+foreground = #D3D7CF
+;; Basically text colour
+foreground-alt = #EEEEEC
+;; Text alt colour
+
+primary = #ffb52a
+;; Monitor highlight colour
+secondary = #e60053
+alert = #bd2c40
+
+dark-grey = ${background}
+light-grey = ${background-alt}
+very-light-grey = ${foreground}
+white = ${foreground-alt}
+
+red = #BD2C40
+yellow = #FFB52A
+green = #4E9A06
+blue = #3465A4
+magenta = #75507B
+cyan = #06989A
+orange = #cb4b16
+violet = #6c71c4
+black = #073642
+
+[bar/wyni3_top]
+bottom = false
+monitor = LVDS-1
+;; Puts bar at the bottom
+width = 100%
+height = 35
+radius = 0.0
+fixed-center = true
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 5
+; Little highlight bar thickness
+line-color = #f00
+
+border-size = 3
+border-color = ${colors.background-alt}
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = Font Awesome:pixelsize=10;1
+font-1 = Anonymous Pro:pixelsize=10;1
+
+modules-left =
+modules-center = i3
+modules-right =
+separator = |
+
+;tray-position = right
+tray-padding = 5
+;tray-transparent = true
+;tray-background = #0063ff
+
+wm-restack = i3
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+
+[bar/wyni3]
+bottom = true
+monitor = LVDS-1
+;; Puts bar at the bottom
+width = 100%
+height = 30
+radius = 0.0
+fixed-center = true
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 4
+; Little highlight bar thickness
+line-color = #f00
+
+border-size = 0
+border-color = ${colors.background-alt}
+
+padding-left = 5
+padding-right = 5
+
+module-margin-left = 1
+module-margin-right = 1
+
+font-0 = Font Awesome:pixelsize=10;1
+font-1 = Sauce Code Pro:pixelsize=10;1
+
+modules-left =
+modules-center = date pomodoro redshift battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
+#modules-center = date pomodoro redshift pkg battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
+modules-right =
+separator = |
+
+;tray-position = right
+tray-padding = 5
+;tray-transparent = true
+;tray-background = #0063ff
+
+wm-restack = i3
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+[module/i3]
+type = internal/i3
+format = <label-state> <label-mode>
+index-sort = true
+wrapping-scroll = true
+;fuzzy-match = true
+; Only show workspaces on the same output as the bar
+;pin-workspaces = true
+
+label-mode-padding = 2
+label-mode-foreground = #000
+label-mode-background = ${colors.primary}
+
+; focused = Active workspace on focused monitor
+label-focused = %name%
+label-focused-background = ${colors.background-alt}
+label-focused-underline = ${colors.primary}
+label-focused-padding = 25
+
+; unfocused = Inactive workspace on any monitor
+label-unfocused = %name%
+label-unfocused-padding = 2
+label-unfocused-underline = ${colors.background-alt}
+
+; visible = Active workspace on unfocused monitor
+label-visible = %name%
+label-visible-background = ${self.label-focused-background}
+label-visible-underline = ${self.label-focused-underline}
+label-visible-padding = ${self.label-focused-padding}
+
+; urgent = Workspace with urgency hint set
+label-urgent = %name%
+label-urgent-background = ${colors.alert}
+label-urgent-underline = ${colors.black}
+label-urgent-padding = 2
+
+[module/cpu]
+type = custom/script
+interval = 3
+label = %output%
+exec = ~/.config/polybar/cpu.sh
+
+[module/memory]
+type = internal/memory
+interval = 10
+format-prefix = " "
+format-prefix-foreground = ${colors.foreground-alt}
+format-underline = ${colors.background-alt}
+label =  %percentage_used%%
+
+[module/wlan_essid]
+type = internal/network
+interface = wlp13s0
+interval = 10
+accumulate-stats = true
+
+format-connected = <label-connected>
+format-connected-underline = ${colors.background-alt}
+label-connected =  %essid% (%signal%%)
+#label-connected =  %signal%%
+
+format-disconnected = <label-disconnected>
+;format-disconnected-underline = ${self.format-connected-underline}
+label-disconnected =  N/A
+label-disconnected-foreground = ${colors.foreground-alt}
+ramp-signal-foreground = ${colors.foreground-alt}
+
+[module/wlan]
+type = custom/script
+label = %output%
+interval = 2
+exec = ~/.config/polybar/wlan.sh
+format-underline = ${colors.background-alt}
+
+[module/daily_dl]
+type = custom/script
+label = %output%
+interval = 60
+exec = ~/.config/polybar/daily_downloads.sh
+format-underline = ${colors.background-alt}
+
+[module/vpncheck]
+type = custom/script
+interval = 5
+exec = .config/polybar/vpn_check.sh
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+
+[module/eth]
+type = internal/network
+interface = enp0s25
+interval = 3
+
+format-connected-underline = #55aa55
+format-connected-prefix = " "
+format-connected-prefix-foreground = ${colors.foreground-alt}
+label-connected = %local_ip%
+
+format-disconnected =
+;format-disconnected = <label-disconnected>
+;format-disconnected-underline = ${self.format-connected-underline}
+;label-disconnected = %ifname% disconnected
+;label-disconnected-foreground = ${colors.foreground-alt}
+
+[module/date]
+type = internal/date
+interval = 55
+
+date = " %a %Y-%m-%d"
+date-alt = " %Y-%m-%d"
+
+time = %H:%M
+time-alt = %H:%M:%S
+
+format-prefix = 
+format-prefix-foreground = ${colors.foreground-alt}
+format-underline = ${colors.blue}
+
+label = %date% %time%
+
+[module/battery-shell]
+type=custom/script
+exec=~/.config/polybar/battery_shell.sh
+interval = 60
+
+[module/brightness-shell]
+type=custom/script
+exec=~/.config/polybar/brightness_shell.sh
+;interval=1
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 80
+
+format = <ramp> <label>
+format-underline = ${colors.background-alt}
+format-warn = <ramp> <label-warn>
+format-warn-underline = ${colors.secondary}
+
+label = %temperature%
+label-warn = %temperature%
+
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
+
+[module/pkg]
+type = custom/script
+interval = 3600
+exec = ~/.config/polybar/pkg.sh --checking
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+format-underline = ${colors.red}
+
+[module/suntimes]
+type = custom/script
+interval = 300
+format = <label>
+exec = ~/.config/polybar/suntimes.py
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+format-underline = ${colors.background-alt}
+
+[module/weather]
+type = custom/script
+interval = 600
+exec = ~/.config/polybar/weather.py
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+format-underline = ${colors.background-alt}
+
+[module/pavolume]
+type = custom/script
+tail = true
+label = %output%
+exec = ~/.config/polybar/pavolume.sh --listen
+click-right = exec pavucontrol
+click-left = ~/.config/polybar/pavolume.sh --togmute
+scroll-up = ~/.config/polybar/pavolume.sh --up
+scroll-down = ~/.config/polybar/pavolume.sh --down
+
+[module/pomodoro]
+type = custom/script
+exec = pymodoro
+;exec = while true; do echo "1 1" > ~/.config/pymodoro/pomodoro_session; pymodoro & disown; sleep 120; killall -9 -q pymodoro; done
+label = %output%
+format-underline = ${colors.background-alt}
+tail = true
+;interval = 0
+
+; Start or reset the timer
+click-left = echo "52 17" > ~/.config/pymodoro/pomodoro_session
+
+[module/redshift]
+type = custom/script
+interval = 300
+label = %output%
+exec = ~/.config/polybar/redshift.sh
+click-left = exec killall redshift
+click-right = exec ~/.config/polybar/startRedshift.sh
+
+[settings]
+screenchange-reload = true
+;compositing-background = xor
+;compositing-background = screen
+;compositing-foreground = source
+;compositing-border = over
+[global/wm]
+margin-top = 5
+margin-bottom = 5

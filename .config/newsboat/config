@@ -1,0 +1,62 @@
+#################
+# Created by Me #
+#################
+
+article-sort-order date-desc
+always-display-description true
+refresh-on-startup yes
+suppress-first-reload yes
+auto-reload yes
+reload-time 5
+external-url-viewer "urlscan"
+browser $HOME/Git/OneOffCodes/Shell/dmenu_openwith_prompt.sh
+cleanup-on-quit	yes
+delete-read-articles-on-quit yes 
+mark-as-read-on-hover no
+show-read-feeds no
+show-read-articles yes
+ignore-mode "display"
+download-timeout 120
+
+feedlist-format     "%30t %-10u (%T)"
+articlelist-format  "%4i %f %D   %?T?|%-17T|  ?%t"
+
+bind-key o open-in-browser-and-mark-read
+bind-key O open-all-unread-in-browser-and-mark-read
+bind-key j down
+bind-key k up
+bind-key h quit
+bind-key l open
+bind-key S set-tag
+bind-key A clear-tag
+bind-key u toggle-article-read
+bind-key c mark-feed-read
+bind-key b show-urls
+bind-key t toggle-show-read-feeds	
+
+# macros
+macro f set browser "$HOME/Git/OneOffCodes/Shell/dmenu_openwith_prompt.sh %u" ; open-in-browser ; set browser $HOME/Git/OneOffCodes/Shell/openWith.sh
+#macro f set browser "firefox %u" ; open-in-browser ; set browser $HOME/Git/OneOffCodes/Shell/openWith.sh
+macro d set browser "urxvtc -e youtube-dl %u"; open-in-browser ; set browser $HOME/Git/OneOffCodes/Shell/openWith.sh
+macro p set browser "$HOME/Git/OneOffCodes/Shell/openWith_noImages.sh"; open-in-browser ; set browser "$HOME/Git/OneOffCodes/Shell/openWith.sh"
+
+color background  default    default
+color listnormal  black    default
+color listnormal_unread color7 default
+color listfocus    white    color2 bold
+color info         white    black underline
+color article      default  default
+
+# highlights
+highlight article "^(Title):.*$" blue default
+highlight article "https?://[^ ]+" red default
+highlight article "\\[image\\ [0-9]+\\]" green default
+
+# filters
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCoLrcjPV5PbUrUyXq5mjc_A" "title !~ \"SF\""
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCpdXIv0o46znhDWZH03fF4w" "title !~ \"Coast\""
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCDOGExGCsrrt_RrGDgLuMww" "title !~ \"Rebel\""
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCoh_z6QB0AGB1oxWufvbDUg" "title !~ \"Warriors\" and title !~ \"Sixers\" and title !~ \"Cav\""
+ignore-article "http://feeds.lifehacker.com.au/LifehackerAustralia" "age >= 3"
+ignore-article "https://theconversation.com/au/articles.atom" "age >= 3"
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA" "title !~ \"Savage\""

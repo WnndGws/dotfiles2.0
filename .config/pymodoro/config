@@ -1,0 +1,26 @@
+[DEFAULT]
+oneline = false
+
+[General]
+autohide = false
+session = ~/.config/pymodoro/pomodoro_session
+oneline = false
+
+[Labels]
+pomodoro_prefix = "%{u#FFB52A +u}Work "
+pomodoro_suffix = ""
+break_prefix = "%{u#3465A4 +u}Break "
+break_suffix = ""
+
+[Progress Bar]
+left_to_right = false
+total_marks = 3
+session_character = "#"
+break_character = "#"
+empty_character = "_"
+
+[Sound]
+enable = false
+tick = false
+command = aplay -q %s &
+

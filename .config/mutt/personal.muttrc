@@ -1,0 +1,2 @@
+macro index,pager i1 '<sync-mailbox><enter-command>source /home/wynand/.config/mutt/accounts/Gmail.muttrc<enter><change-folder>!<enter>'
+source /home/wynand/.config/mutt/accounts/Gmail.muttrc

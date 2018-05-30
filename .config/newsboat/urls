@@ -1,0 +1,124 @@
+
+## Funny
+http://www.commitstrip.com/en/feed/ "Funny""~CommitStrip"
+http://www.thehighdefinite.com/feed/ "Funny""~TheHighDefinative"
+http://xkcd.com/rss.xml "Funny""~XKCD"
+http://what-if.xkcd.com/feed.atom "Funny""~WhatIfXKCD"
+http://www.betootaadvocate.com/feed/ "Funny""~Betoota Advocate"
+
+## Tech
+http://feeds.feedburner.com/HowToGeek "Tech""~HowToGeek"
+http://antirez.com/rss "Tech""~Antirez"
+http://sirvizalot.blogspot.com/feeds/posts/default "Tech""~Infographics"
+http://www.optionated.com/feed/ "Tech""~Optionated"
+http://www.randalolson.com/feed/ "Tech""~RandalOlson"
+http://danluu.com/atom.xml "Tech""~Danluu"
+http://feeds.feedburner.com/ItsFoss "Tech""~ItsFOSS"
+https://dev.to/feed "Tech""~Dev.to"
+https://dev.to/t/python "Tech""~Dev.to Python"
+https://dev.to/t/beginners "Tech""~Dev.to Beginners"
+https://dev.to/t/productivity "Tech""~Dev.to Productivity"
+https://dev.to/t/security "Tech""~Dev.to Security"
+https://dev.to/t/git "Tech""~Dev.to Git"
+https://dev.to/t/opensource "Tech""~Dev.to Open Source"
+
+## Ideas
+http://feeds.lifehacker.com.au/LifehackerAustralia "Ideas""~Lifehacker"
+http://feeds.feedburner.com/TheWirecutter "Ideas""~Wirecutter"
+https://blog.adafruit.com/category/raspberry-pi/feed/ "Ideas""~RPi"
+http://www.hackaday.com/rss.xml "Ideas""~HackADay"
+https://theconversation.com/au/articles.atom "Ideas""~The Conversation"
+https://sciencebasedmedicine.org/feed "Ideas""~Science Based Medicine"
+
+## NewsTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-3jIAlnQmbbVMV6gR7K8aQ "NewsTube""~Majority Report"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwWhs_6x42TyRM4Wstoq8HA "NewsTube""~Trevor Noah"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1yBKRuGpC1tSM73A0ZjYjQ "NewsTube""~TYT"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3M7l8ved_rYQ45AVzS0RGA "NewsTube""~Jimmy Dore"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzuqE7-t13O4NIDYJfakrhw "NewsTube""~Democracy Now"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvixJtaXuNdMPUGdOPcY8Ag "NewsTube""~David Pakman"
+
+## Twitter
+https://twitrss.me/twitter_user_to_rss/?user=snowden "Twitter""~Snowden"
+https://twitrss.me/twitter_user_to_rss/?user=realDonaldTrump "Twitter""~realDonaldTrump"
+https://twitrss.me/twitter_user_to_rss/?user=ikenny_ "Twitter""~IanKenny"
+https://twitrss.me/twitter_user_to_rss/?user=melbourneRebels "Twitter""~MelbourneRebels"
+https://twitrss.me/twitter_user_to_rss/?user=DaveWessels "Twitter""~DaveWessels"
+https://twitrss.me/twitter_user_to_rss/?user=scottludlum "Twitter""~ScottLudlum"
+https://twitrss.me/twitter_user_to_rss/?user=windycoys "Twitter""~Windycoys"
+https://twitrss.me/twitter_user_to_rss/?user=testmatchsofa "Twitter""~TestmatchSofa"
+https://twitrss.me/twitter_user_to_rss/?user=karnivool "Twitter""~Karnivool"
+https://twitrss.me/twitter_user_to_rss/?user=nickcave "Twitter""~NickCave"
+https://twitrss.me/twitter_user_to_rss/?user=effc "Twitter""~East Freo FC"
+https://twitrss.me/twitter_user_to_rss/?user=dccommonsense "Twitter""~DC Common Sense"
+https://twitrss.me/twitter_user_to_rss/?user=gizmology "Twitter""~Gizmology"
+
+## Sport
+https://www.youtube.com/feeds/videos.xml?channel_id=UCj-49LnrWljGJwEJ5LqWLvw "NFL""~Samual Gold"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g "NFL""~Brett Kollmann"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDVYQ4Zhbm3S2dlz7P1GBDg "NFL""~NFL"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvv-9nUY-6zssj0uw4PrFKg "Rugby""~1014"
+https://www.theroar.com.au/category/rugby-union/feed/ "Rugby""~The Roar Rugby"
+https://www.theroar.com.au/category/cricket/feed/ "Cricket""~The Roar Cricket"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDOGExGCsrrt_RrGDgLuMww "Highlights""~Super Rugby Highlights"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpdXIv0o46znhDWZH03fF4w "Highlights""~AFL Highlights"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoLrcjPV5PbUrUyXq5mjc_A "Highlights""~MLB Highlights"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoh_z6QB0AGB1oxWufvbDUg "Highlights""~NBA Highlights"
+
+## Linux
+https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg "Linux""~exurb1a"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "Linux""~gotbleu"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Linux""~Luke Smith"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzZEwjZEnPFHlMQYIUaByAw "Linux""~Lets Get Serious"
+https://www.archlinux.org/feeds/news/ "Linux""~Arch Linux News"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg "Linux""~Kris Occhipinti"
+
+#Wrestling
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqdTAVGxQvzhkzrN-pp_xuQ "Wrestling""~Wrestling Worldz"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgcInJTvcYSf807G_m_sqYw "Wrestling""~Wrestling Reality"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0h5dn3zcfhzEywoJ2e6FJQ "Wrestling""~Wrestling Reality II"
+
+## YouTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH5EYEt8Bw-CwP1nTGa2f9g "Youtube""~Karnivool"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw "Youtube""~PewdiePie"
+https://www.youtube.com/feeds/videos.xml?channel_id=UChz00vupzP_mNPIYD8GSmBw "Youtube""~Ronny Dahl"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDWIvJwLJsE4LG1Atne2blQ "Youtube""~H3H3"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA "Youtube""~Adam Savage Tested"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA "Youtube""~iFixIt"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAL3JXZSzSm8AlZyD3nQdBA "Youtube""~Primitive Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UClqhvGmHcvWL9w3R48t9QXQ "Youtube""~Engineering Explained"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCErSSa3CaP_GJxmFpdjG9Jw "Youtube""~Lessons From the Screenplay"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA "Youtube""~ElectroBoom"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNa9i8ifGJRlK2yWgM9DcOA "Youtube""~DanielFromSL"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvKEf8LmSLeALklsFFi9aNQ "Youtube""~Steve Judd"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuPgdqQKpq4T4zeqmTelnFg "Youtube""~KaptainKristian"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMV8B1Q5lEEb5yR8Hqkbdhg "Youtube""~Jelles Marble Runs"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWFKCr40YwOZQx8FHU_ZqqQ "YouTube""~Jerry Rig Everything"
+
+## TWIT
+https://www.youtube.com/feeds/videos.xml?channel_id=UCagoIYmo_gO1iVaCeeSikEg "TWIT Network""~TWIT"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNbqa_9xihC8yaV2o6dlsUg "TWIT Network""~Security Now"
+
+## Education
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1_uAIS3r8Vu6JjXWvastJg "Education""~Mathologer"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A "Education""~Numberphile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyp1gCHZJU_fGWFf2rtMkCg "Education""~Numberphile2"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "Education""~Computerphile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEOXxzW2vU0P-0THehuIIeg "Education""~CaptainDisillusion"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "Education""~Tom Scott"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A "Education""~Standup Maths"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLB7AzTwc6VFZrBsO2ucBMg "Education""~Robert Miles"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA "Education""~VSauce"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA "Education""~Veritasium"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfY8sl5Q6VKndz0nLaGygPw "Education""~The RaspberryPi Guy"
+
+## Animated Education
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvrLvII5oxSWEMEkszrxXEA "Animated Education""~NODE"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w "Animated Education""~CGP Grey"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "Animated Education""~Kurzgesagt"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg "Animated Education""~Real Engineering"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_cznB5YZZmvAmeq7Y3EriQ "Animated Education""~Stated Clearly"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCadiU6WTKl65HUwEih1XLYg "Animated Education""~Picture Fit"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg "Animated Education""~Minute Physics"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w "Animated Education""~Minute Earth"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCViwi-dXACoy9Pee73NvgJw "Animated Education""~This Place"

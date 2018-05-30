@@ -1,0 +1,57 @@
+
+\documentclass[addpoints,answers,12pts]{exam}
+\marksnotpoints{}
+\qformat{\textbf{Question \thequestion}\quad (\totalpoints\ marks)\hfill}
+
+\usepackage{geometry}
+\geometry{a4paper,
+    top=2.5cm,
+    left=1.3cm,
+    right=2.5cm,
+    bottom=2.5cm,}
+
+\usepackage{pgf}
+
+\begin{document}
+
+\begin{center}
+    \fbox{\fbox{\parbox{12cm}{\centering
+        Answer the questions in the spaces provided on the question sheets.
+        If you run out of space for your answer, continue on the back of the page.}}}
+\end{center}
+
+\vspace{0.5cm}
+\makebox[\textwidth]{NAME:\enspace\hrulefill}
+
+\vspace{0.5cm}
+\makebox[\textwidth]{TEACHER'S NAME:\enspace\hrulefill}
+
+\newcommand{\newquestion}[3]{\question[#1]
+#2
+#3
+}
+
+\newcommand{\newpart}[3]{\part[#1]
+#2
+#3
+}
+
+\newcommand\lengthof[1]{\csname pgfmath@randomlist@#1\endcsname}
+\newcommand\nthof[2]{\csname pgfmath@randomlist@#2@#1\endcsname}
+
+\newcommand{\newmcq}[4]{\begin{choices}
+\correctchoice~#1
+\choice~#2
+\choice~#3
+\choice~#4
+\end{choices}}
+
+\begin{questions}
+\newquestion{10}{Why is there air?}
+\end{questions}
+
+\pgfmathsetseed{\number\time}% set a "random" seed based on time
+\pgfmathdeclarerandomlist{myarray}{{1}{two}{2+1}{IV}{cinq}{sechs}}
+\pgfmathrandomitem\myitem{myarray}\myitem{}
+
+\end{document}
