@@ -28,12 +28,12 @@ done
 
 echo "Creating new folders....."
 for folder in $(fd --exclude "*git*" --hidden --no-ignore --max-depth 1 --type d --full-path $dir -x echo {/}); do
-    ln -fs $dir/$folder $HOME/$folder
+    ln -fs $dir/$folder $HOME
 done
 
 echo "Creating new files....."
 for file in $(fd --exclude "*LIC*" --exclude "*READ*" --hidden --no-ignore --max-depth 1 --type f --full-path $dir --exec echo {/}); do
-    ln -fs $dir/$file $HOME/$file
+    ln -fs $dir/$file $HOME
 done
 
 echo "Pushing new files to Git....."
