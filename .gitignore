@@ -5,6 +5,7 @@
 .config/autostart
 .config/gnupg
 .config/zsh
+.config/ipython
 
 
 # Created by https://www.gitignore.io/api/tex,vim,latex,linux,matlab,django,python,archlinuxpackages
