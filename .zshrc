@@ -410,6 +410,9 @@ alias vu="_ systemctl restart --now openvpn.service"
 alias vw="vim \"+VimwikiUISelect\""
 #Opens my Vimwiki
 
+alias ww="fd . -e md -x pandoc -f markdown -t html -o '{/.}.html' '{/.}.md'"
+#WynWiki's my markdown files to html
+
 alias y='streamlink --player "mpv --force-seekable=yes --hr-seek=yes --hr-seek-framedrop=yes --speed=1.2 --no-terminal --force-window --demuxer-thread=yes --demuxer-readahead-secs=180"'
 #Plays youtube videos in non-seethrough mpv
 
