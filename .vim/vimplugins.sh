@@ -31,4 +31,3 @@ git clone https://github.com/lifepillar/vim-solarized8.git #colours
 git clone git://github.com/SirVer/ultisnips.git #snippets engine
 git clone git://github.com/honza/vim-snippets.git #snippets definitions
 git clone https://github.com/ervandew/supertab.git #needed for snippets and neocomplete to work together
-git clone https://github.com/vimwiki/vimwiki.git #VimWiki
