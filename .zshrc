@@ -254,6 +254,9 @@ alias paste="xclip -o -sel clip"
 alias cm="centerim5"
 #Saves typing
 
+alias cl='$HOME/Git/OneOffCodes/Shell/Compile_Latex.sh'
+#Compile and open latex
+
 alias dm='$HOME/Git/dotfiles2.0/.files/dotmake.sh'
 #Saves typing
 
@@ -295,13 +298,13 @@ alias lg='vim "+Gist -l"'
 alias lock="~/Git/OneOffCodes/Shell/lock.sh"
 #Locks PC and mutes
 
-alias lsa='ls -sha --color=auto'
+alias lsa='ls --all --color --human-readable'
 #List all including hidden
 
 alias lsgrep="~/Git/OneOffCodes/Shell/lsgrep.sh"
 #Allows me to find a file or folder, list them, and open a chosen one. My not elegant solution to a common problem
 
-alias ls='ls -sh --color=auto'
+alias ls='ls --color --human-readable'
 #Colours in ls
 
 alias mm='myman try_tldr --program'
