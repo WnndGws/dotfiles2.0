@@ -51,18 +51,21 @@ exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/i3_alternating_windows
 exec --no-startup-id exec redshift -b 1.0:0.8 -l -33:117 -t 5500:3000
 # Starts redshift
 
-exec --no-startup-id xmodmap -e "clear lock"; xmodmap -e "keysym Caps_Lock = Escape"; xmodmap -pke > ~/.Xmodmap
+exec --no-startup-id xmodmap -e "clear lock"; xmodmap -e "keysym Caps_Lock = Escape"
 # Makes Caps an Escape
-exec --no-startup-id xmodmap -e "keycode  71 = 5 percent 5 percent"; xmodmap -pke > ~/.Xmodmap
+exec --no-startup-id xmodmap -e "keycode  71 = 5 percent 5 percent"
 # Makes F5 a 5
-exec --no-startup-id xmodmap -e "keycode 72 = 6 asciicircum 6 asciicircum"; xmodmap -pke > ~/.Xmodmap
+exec --no-startup-id xmodmap -e "keycode 72 = 6 asciicircum 6 asciicircum"
 # Makes F6 a 6
-exec --no-startup-id xmodmap -e "keycode 95 = minus underscore minus underscore"; xmodmap -pke > ~/.Xmodmap
+exec --no-startup-id xmodmap -e "keycode 95 = minus underscore minus underscore"
 # Makes F11 a -_
-exec --no-startup-id xmodmap -e "keycode 96 = equal plus equal plus"; xmodmap -pke > ~/.Xmodmap
+exec --no-startup-id xmodmap -e "keycode 96 = equal plus equal plus"
 # Makes F12 a plus
-exec --no-startup-id xmodmap -e "keycode 133 = Control_L NoSymbol Control_L"; xmodmap -pke > ~/.Xmodmap
+exec --no-startup-id xmodmap -e "keycode 133 = Control_L NoSymbol Control_L"
 # Makes Super a Control
+exec --no-startup-id xmodmap -e "keycode 127 = KP_Insert KP_0 KP_Insert KP_0"
+# Makes Pause Insert
+exec --no-startup-id xmodmap -pke > ~/.Xmodmap
 ## Sets keys
 #. ---------------------------- #
 # >>>> MOVEMENT SHORTCUTS <<<< #
