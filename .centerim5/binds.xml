@@ -8,7 +8,7 @@
 	<bind context='centerim' action='buddylist' key='F1'/>
 	<bind context='centerim' action='buddylist-toggle-offline' key='F5'/>
 	<bind context='centerim' action='conversation-active' key='F2'/>
-	<bind context='centerim' action='conversation-expand' key='F6'/>
+	<bind context='centerim' action='conversation-expand' key='F7'/>
 	<bind context='centerim' action='conversation-next' key='Ctrl-l'/>
 	<bind context='centerim' action='conversation-number1' key='Alt-1'/>
 	<bind context='centerim' action='conversation-number10' key='Alt-0'/>
