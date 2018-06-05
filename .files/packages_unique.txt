@@ -61,6 +61,7 @@ openvpn
 p7zip
 pacman-utils
 pakku
+pandoc
 pavucontrol
 pkgconf
 polybar
@@ -107,6 +108,7 @@ ttf-anonymous-pro
 ttf-font-awesome
 udiskie
 udiskie-dmenu-git
+unclutter
 unzip
 urlscan
 vnstat
