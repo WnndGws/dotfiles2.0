@@ -178,7 +178,9 @@
 	<pref name='centerim5'>
 		<pref name='plugins'>
 			<pref name='loaded' type='pathlist'>
-				<item value='/home/wynand/.centerim5/plugins/command-execute64.so'/>
+				<item value='/usr/lib/purple-2/flip.so'/>
+				<item value='/usr/lib/purple-2/colorize.so'/>
+				<item value='/usr/lib/purple-2/google.so'/>
 				<item value='/usr/lib/purple-2/ssl-nss.so'/>
 				<item value='/usr/lib/purple-2/ssl.so'/>
 			</pref>
