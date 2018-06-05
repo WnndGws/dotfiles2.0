@@ -321,7 +321,7 @@ nnoremap <leader>vtv :VimtexView
 augroup vimtex_event_1
   au!
   au User VimtexEventQuit     call vimtex#compiler#clean(0)
-  au User VimtexEventInitPost call vimtex#compiler#compile()
+  "au User VimtexEventInitPost call vimtex#compiler#compile()
 augroup END
 
 " Close viewers on quit
@@ -336,15 +336,6 @@ augroup vimtex_event_2
   au!
   au User VimtexEventQuit call CloseViewers()
 augroup END
-
-function! VimtexReCompile()
-    au User VimtexEventInitPost call vimtex#compiler#compile()
-    au User VimtexEventQuit     call vimtex#compiler#clean(0)
-    :exec "VimtexView"
-endfunction
-
-autocmd BufWrite *.tex :call VimtexReCompile()
-" To reload new LaTeX file
 
 "------------------------"
 " NEOCOMPLETE
@@ -436,24 +427,3 @@ let g:UltiSnipsListSnippets = "<leader><tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<c-k>"
 
-" ----------------------"
-" VIMWIKI
-let wiki_public = {}
-let wiki_public.path = '$HOME/GoogleDrive/01_Personal/01_Personal/01_Text/wikis/Public'
-let wiki_public.path_html = '$HOME/Git/WnndGws.github.io'
-let wiki_public.auto_export = 1
-let wiki_public.auto_toc = 1
-let wiki_public.template_path = '$HOME/GoogleDrive/01_Personal/01_Personal/01_Text/Templates'
-let wiki_public.template_default = 'template'
-let wiki_public.template_ext = '.html'
-
-let wiki_private = {}
-let wiki_private.path = '$HOME/GoogleDrive/01_Personal/01_Personal/01_Text/wikis/Private'
-let wiki_private.path_html = '$HOME/GoogleDrive/01_Personal/01_Personal/01_Text/wikis/Private_html'
-let wiki_private.auto_export = 1
-let wiki_private.auto_toc = 1
-let wiki_private.template_path = '$HOME/GoogleDrive/01_Personal/01_Personal/01_Text/Templates'
-let wiki_private.template_default = 'template'
-let wiki_private.template_ext = '.html'
-
-let g:vimwiki_list = [wiki_public, wiki_private]
