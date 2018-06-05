@@ -1,3 +1,4 @@
+acpi
 alienfx
 aria2
 asciidoc
@@ -61,10 +62,12 @@ p7zip
 pacman-utils
 pakku
 pavucontrol
+pkgconf
 polybar
 pulseaudio-alsa
 pulseaudio-bluetooth
 purple-facebook
+purple-hangouts-hg
 purple-plugin-pack
 pymodoro-git
 python
