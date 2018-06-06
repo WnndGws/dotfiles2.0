@@ -7,6 +7,7 @@ awesome-terminal-fonts
 bat
 biber
 bind-tools
+black
 bluez
 bluez-utils
 brightnessctl
@@ -16,6 +17,7 @@ cpupower
 displaylink
 dmenu2
 downgrade
+exa
 fasd
 fd
 feh
@@ -81,6 +83,7 @@ python-nltk
 python-pillow
 python-pip
 python-pipenv
+python-requests
 python-utils
 python-wordcloud
 ranger
@@ -92,7 +95,7 @@ rxvt-unicode-patched
 sc-im
 scrot
 shadowfox-updater
-speedread-git
+shellharden
 streamlink
 syslinux
 tealdeer
