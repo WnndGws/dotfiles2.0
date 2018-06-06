@@ -298,13 +298,13 @@ alias lg='vim "+Gist -l"'
 alias lock="~/Git/OneOffCodes/Shell/lock.sh"
 #Locks PC and mutes
 
-alias lsa='ls --all --color --human-readable'
+alias lsa='exa --all --color always --color-scale'
 #List all including hidden
 
-alias lsgrep="~/Git/OneOffCodes/Shell/lsgrep.sh"
-#Allows me to find a file or folder, list them, and open a chosen one. My not elegant solution to a common problem
+alias lsl='exa --all --color always --color-scale --long'
+#List all including hidden in a long list
 
-alias ls='ls --color --human-readable'
+alias ls='exa --color always --color-scale'
 #Colours in ls
 
 alias mm='myman try_tldr --program'
@@ -410,7 +410,7 @@ alias vu="_ systemctl restart --now openvpn.service"
 alias vw="vim \"+VimwikiUISelect\""
 #Opens my Vimwiki
 
-alias ww="fd . -e md -x pandoc -f markdown -t html -o '{/.}.html' '{/.}.md'"
+alias ww="fd . -e md -x pandoc -s -f markdown -t html -o '{/.}.html' '{/.}.md' -c 'pandoc.css'"
 #WynWiki's my markdown files to html
 
 alias y='streamlink --player "mpv --force-seekable=yes --hr-seek=yes --hr-seek-framedrop=yes --speed=1.2 --no-terminal --force-window --demuxer-thread=yes --demuxer-readahead-secs=180"'
