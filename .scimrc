@@ -1,0 +1,14 @@
+set autocalc
+set numeric=0
+set xlsx_readformulas
+set external_functions
+set half_page_scroll
+set ignorecase
+
+nmap "ZZ" ":x!"
+nmap ",w" ":w"
+nmap "ZQ" ":q!"
+
+nmap "pc" "Pc"
+
+color "type=HEADINGS fg=WHITE bg=BLUE"
