@@ -366,6 +366,8 @@ alias sonar_ssh_tun='ssh -L 8081:localhost:8081 gouws.com.au -N'
 alias torrent_ssh_tun='ssh -L 8082:localhost:8082 gouws.com.au -N'
 #Create ssh tunnels to my localhosts
 
+alias scim="sc-im"
+
 alias shutdown_at="~/Git/OneOffCodes/Shell/shutdownAt.sh"
 #Allows user to enter shutdown_in hh:mm:ss and gives a countdown
 alias shutdown_in="~/Git/OneOffCodes/Shell/shutdownIn.sh"
@@ -410,7 +412,7 @@ alias vu="_ systemctl restart --now openvpn.service"
 alias vw="vim \"+VimwikiUISelect\""
 #Opens my Vimwiki
 
-alias ww="fd . -e md -x pandoc -s -f markdown -t html -o '{/.}.html' '{/.}.md' -c 'pandoc.css'"
+alias ww="fd . -e md -x pandoc -s -f markdown -t html5 -o '{/.}.html' '{/.}.md' -c pandoc.css -c zenburn.css"
 #WynWiki's my markdown files to html
 
 alias y='streamlink --player "mpv --force-seekable=yes --hr-seek=yes --hr-seek-framedrop=yes --speed=1.2 --no-terminal --force-window --demuxer-thread=yes --demuxer-readahead-secs=180"'
