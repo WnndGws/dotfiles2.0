@@ -5,10 +5,12 @@ set external_functions
 set half_page_scroll
 set ignorecase
 
-nmap "ZZ" ":x!"
-nmap ",w" ":w"
-nmap "ZQ" ":q!"
+nmap "ZZ" ":x!<cr>"
+nmap ",w" ":w<cr>"
+nmap "ZQ" ":q!<cr>"
 
 nmap "pc" "Pc"
 
 color "type=HEADINGS fg=WHITE bg=BLUE"
+color "type=CELL_SELECTION fg=WHITE bg=MAGENTA"
+color "type=CELL_SELECTION_SC fg=WHITE bg=CYAN"
