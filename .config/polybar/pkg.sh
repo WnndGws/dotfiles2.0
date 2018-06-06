@@ -2,7 +2,7 @@
 
 case "$1" in
     --checking)
-        pac=$(pacman -Qu | wc -l | tail -n 1)
+        pac=$(checkupdates | wc -l | tail -n 1)
         aur=$(cower -q -u --timeout=0 | wc -l )
         check=$(( pac + aur ))
         ;;
