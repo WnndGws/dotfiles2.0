@@ -102,8 +102,8 @@ font-0 = Font Awesome:pixelsize=10;1
 font-1 = Sauce Code Pro:pixelsize=10;1
 
 modules-left =
-modules-center = date pomodoro redshift battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
-#modules-center = date pomodoro redshift pkg battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
+#modules-center = date pomodoro redshift battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
+modules-center = date pomodoro redshift pkg battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
 modules-right =
 separator = |
 
