@@ -6,6 +6,7 @@
 .config/gnupg
 .config/zsh
 .config/ipython
+.config/spotify
 
 
 # Created by https://www.gitignore.io/api/tex,vim,latex,linux,matlab,django,python,archlinuxpackages
