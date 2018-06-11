@@ -244,6 +244,9 @@ alias bluetooth_nexus='$HOME/Git/OneOffCodes/Expects/bluetooth_connect_nexus6p.e
 alias calc="gcalcli --monday --detail_length --refresh calw"
 #Outputs google calendar
 
+alias calcadd="gcalcli add --calendar 'Personal Calendar'"
+#Add events to calendar
+
 alias clean_latex="fd -e aux -e bbl -e bcf -e blg -e fdb_latexmk -e fls -e log -e out -e xml -e gz -e xdv | xargs -I{} rm -f {}"
 #Remove lint latex files
 
@@ -412,7 +415,7 @@ alias vu="_ systemctl restart --now openvpn.service"
 alias vw="vim \"+VimwikiUISelect\""
 #Opens my Vimwiki
 
-alias ww="fd . -e md -x pandoc -s -f markdown -t html5 -o '{/.}.html' '{/.}.md' -c pandoc.css -c zenburn.css"
+alias ww="cd $HOME/Git/WnndGws.github.io; fd . -e md -x pandoc -s -f markdown -t html5 -o '{/.}.html' '{/.}.md' -c pandoc.css -c zenburn.css"
 #WynWiki's my markdown files to html
 
 alias y='streamlink --player "mpv --force-seekable=yes --hr-seek=yes --hr-seek-framedrop=yes --speed=1.2 --no-terminal --force-window --demuxer-thread=yes --demuxer-readahead-secs=180"'
