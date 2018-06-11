@@ -53,8 +53,10 @@ mupdf
 neofetch
 neomutt
 nerd-fonts-complete
+nethogs
 newsboat
 nim
+noto-fonts-emoji
 offlineimap
 oh-my-zsh-git
 openntpd
@@ -96,6 +98,7 @@ sc-im
 scrot
 shadowfox-updater
 shellharden
+spotify
 streamlink
 syslinux
 tealdeer
