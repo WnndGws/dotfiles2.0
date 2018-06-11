@@ -24,7 +24,7 @@ exec --no-startup-id insync-headless start
 
 exec --no-startup-id synclient PalmDetect=1
 exec --no-startup-id synclient PalmMinWidth=8
-exec --no-startup-id synclient PalmMinZ=50
+exec --no-startup-id synclient PalmMinZ=30
 # Set Palm detection on touchpad
 
 exec --no-startup-id xset r rate 300 50
@@ -67,6 +67,9 @@ exec --no-startup-id xmodmap -e "keycode 127 = KP_Insert KP_0 KP_Insert KP_0"
 # Makes Pause Insert
 exec --no-startup-id xmodmap -pke > ~/.Xmodmap
 ## Sets keys
+
+exec --no-startup-id fd . $HOME/Media/Sport/Rugby --hidden -e torrent -x ls {} > $HOME/Media/Sport/Rugby/.torrentlist && aria2c --bt-seed-unverified -i $HOME/Media/Sport/Rugby/.torrentlist -d $HOME/Media/Sport/Rugby
+# Seed My Rugby Torrents
 #. ---------------------------- #
 # >>>> MOVEMENT SHORTCUTS <<<< #
 #. ---------------------------- #
