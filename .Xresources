@@ -54,7 +54,11 @@ URxvt.shading:           10
 URxvt.background: [100]#002b36
 !! Sets opacity to 100%
 
-URxvt.font: xft:Anonymous Pro, xft:Font Awesome
+URxvt.font:\ 
+    xft: Noto Mono,\
+    xft: Noto Color Emoji,\
+    xft:Font Awesome
+    xft:Anonymous Pro,\
 !! Sets font and size
 
 URxvt.keysym.Shift-Up: command:\033]720;1\007
