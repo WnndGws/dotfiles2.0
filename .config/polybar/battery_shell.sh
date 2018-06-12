@@ -8,9 +8,9 @@ if [ -f "$path_ac/online" ]; then
     ac=$(cat "$path_ac/online")
 fi
 
-battery_percent=$(ibam --all | sed -n 1p | awk '{print $3}')
-discharge_time_left=$(ibam --all | sed -n 7p | awk '{print $5}' | rev | cut -d':' -f2-3 | rev)
-charge_time_left=$(ibam --all | sed -n 9p | awk '{print $5}' | rev | cut -d':' -f2-3 | rev)
+battery_percent=$(ibam --all | rg 'Bios percentage' | awk '{print $3}')
+discharge_time_left=$(ibam --all | rg 'Adapted battery' | awk '{print $5}' | rev | cut -d':' -f2-3 | rev)
+charge_time_left=$(ibam --all | rg 'Adapted charge' | awk '{print $5}' | rev | cut -d':' -f2-3 | rev)
 if [[ $charge_time_left == 0:00 ]]; then
     charge_time_left="Full"
 fi
