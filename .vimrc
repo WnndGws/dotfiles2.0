@@ -427,3 +427,10 @@ let g:UltiSnipsListSnippets = "<leader><tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<c-k>"
 
+" ----------------------"
+" VIM-MARKDOWN
+" pandoc , markdown
+command! -nargs=* RunSilent
+      \ | execute ':silent !'.'<args>'
+      \ | execute ':redraw!'
+nmap <Leader>md :RunSilent pandoc -o /tmp/vim-pandoc-out.pdf % && mupdf /tmp/vim-pandoc-out.pdf &<cr>
