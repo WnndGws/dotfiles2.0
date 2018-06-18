@@ -355,7 +355,7 @@ alias rcp="~/Git/OneOffCodes/Shell/rcp.sh"
 alias rmv="~/Git/OneOffCodes/Shell/rmv.sh"
 #Uses rsync to move, allows me to be able to move using wildcards
 
-alias rm='rm -rIv'
+alias rm='trash -riv'
 #Prompt when removing files, force recursive
 
 alias rs='rainbowstream'
