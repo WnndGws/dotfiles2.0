@@ -8,7 +8,8 @@ scroll_left
 scroll_up
 scroll_down
 toggle_fullscreen
-save_filelist # So i can use f to toggle_fullscreen
+save_filelist
+# So i can use f to toggle_fullscreen
 
 # custom key mapping:
 zoom_in plus
