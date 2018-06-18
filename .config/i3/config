@@ -263,7 +263,7 @@ bindsym $mod+Shift+u exec --no-startup-id "python $HOME/Git/OneOffCodes/Python/s
 
 bindsym $mod+Shift+p exec --no-startup-id urxvtc -e ranger
 bindsym $mod+Shift+Return exec --no-startup-id urxvtc -e ranger
-bindsym $mod+ctrl+p exec --no-startup-id "caffeine --activate --time 3:00; plexmediaplayer"
+#bindsym $mod+ctrl+p
 
 #bindsym $mod+Shift+a
 #bindsym $mod+ctrl+a
@@ -303,9 +303,9 @@ bindsym $mod+v exec --no-startup-id "xclip -o -sel clip"
 #bindsym $mod+ctrl+v
 
 bindsym $mod+b exec --no-startup-id urxvtc -e zsh -c ~/Git/OneOffCodes/Shell/chat_urls.sh
-#bindsym $mod+Shift+b
+bindsym $mod+Shift+b exec --no-startup-id xtrlock
 bindsym $mod+ctrl+b exec --no-startup-id urxvtc -e ~/Git/OneOffCodes/Shell/lock.sh -name lock
-assign [title="lock.sh"] number 7
+assign [title="lock.sh"] number 10
 
 #bindsym $mod+n
 #bindsym $mod+Shift+n
