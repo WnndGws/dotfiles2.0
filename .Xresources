@@ -57,7 +57,7 @@ URxvt.background: [100]#002b36
 URxvt.font:\ 
     xft:Anonymous Pro,\
     xft:Font Awesome,\
-    xft:Noto Mono,\
+    xft:NotoSans Nerd Font Mono,\
     xft:Noto Color Emoji
 !! Sets font and size
 
