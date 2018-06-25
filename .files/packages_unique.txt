@@ -5,16 +5,18 @@ asciidoc
 aur-auto-vote-git
 awesome-terminal-fonts
 bat
+beamercolorthemesolarized
 biber
 bind-tools
 black
 bluez
 bluez-utils
 brightnessctl
+castnow-git
 centerim5-git
+chromecastize-git
 cower
 cpupower
-displaylink
 dmenu2
 downgrade
 exa
@@ -62,6 +64,7 @@ oh-my-zsh-git
 openntpd
 openssh
 openvpn
+overlook-fing
 p7zip
 pacman-utils
 pakku
@@ -69,6 +72,7 @@ pandoc
 pavucontrol
 pkgconf
 polybar
+powertop
 pulseaudio-alsa
 pulseaudio-bluetooth
 purple-facebook
@@ -95,6 +99,7 @@ ripgrep
 rsync
 rtv
 rxvt-unicode-patched
+sabnzbd
 sc-im
 scrot
 shadowfox-updater
@@ -110,6 +115,7 @@ texlive-latexextra
 texlive-pictures
 texlive-pstricks
 texlive-science
+tlp
 trash-cli
 ttf-anonymous-pro
 ttf-font-awesome
