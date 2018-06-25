@@ -18,6 +18,7 @@ if has("autocmd")
     autocmd BufNewFile *.py 0r ~/.vim/templates/skeleton.py
     autocmd BufNewFile *.sh 0r ~/.vim/templates/skeleton.sh
     autocmd BufNewFile *soln.md 0r ~/.vim/templates/skeleton_soln.md
+    autocmd BufNewFile *beamer*.md 0r ~/.vim/templates/skeleton_beamer.md
     autocmd BufNewFile README.md 0r ~/.vim/templates/skeleton_readme.md
     autocmd BufNewFile CONTRIBUTING.md 0r ~/.vim/templates/skeleton_contributing.md
   augroup END
