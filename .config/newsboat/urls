@@ -18,7 +18,7 @@ http://createfeed.fivefilters.org/extract.php?url=www.saints.com.au%2Fclub%2Fabo
 http://createfeed.fivefilters.org/extract.php?url=www.sydneyswans.com.au%2Fclub%2Four-people%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~Sydney"
 http://createfeed.fivefilters.org/extract.php?url=www.westernbulldogs.com.au%2Fclub%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~WesternBulldogs"
 http://createfeed.fivefilters.org/extract.php?url=www.westcoasteagles.com.au%2Fthe- club%2Fadministration%2Femployment&in_id_or_class=&url_contains=.pdf "AFL Jobs""~WestCoast"
-"Soccer,rugby,cricket,unis,govt,AIS,transperth"
+#"Soccer,rugby,cricket,unis,govt,AIS,transperth"
 
 ## Funny
 http://www.commitstrip.com/en/feed/ "Funny""~CommitStrip"
