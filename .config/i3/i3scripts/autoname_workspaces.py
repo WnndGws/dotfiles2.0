@@ -63,7 +63,8 @@ WINDOW_ICONS = {
     'spotify': '',
     'keepassxc': '',
     'firefox': '',
-    'scim': ''
+    'scim': '',
+    'aria2c': ''
 }
 
 # This icon is used for any application not in the list above
