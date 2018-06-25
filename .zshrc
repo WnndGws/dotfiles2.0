@@ -224,7 +224,7 @@ bindkey "^[^M" autosuggest-accept
 #. ------------------ #
 # >>>>> ALIASES <<<<< #
 #. ------------------ #
-alias archdate='pakku --noconfirm -Syyuu; pakku -T; wget -O /etc/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts; i3-msg restart'
+alias archdate='pakku --noconfirm -Syyuu; pakku -T; wget -O /etc/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts; i3-msg restart'
 alias ad="archdate"
 #Update command
 
@@ -232,7 +232,7 @@ alias attach_monitor_right='xrandr --output LVDS1 --auto --primary --output DVI-
 alias attach_monitor_left='xrandr --output LVDS1 --auto --primary --output DVI-I-2-1 --auto --left-of LVDS1'
 #Attaches a second screen if it exists
 
-alias bing_wallpaper="$HOME/Git/OneOffCodes/Python/wallpaperMaker/wallpaper_maker.py change_wallpaper --bing --quote-file $HOME/Git/OneOffCodes/Python/wallpaperMaker/quotes.txt"
+alias bing_wallpaper="$HOME/Git/OneOffCodes/Python/wallpaper_maker/wallpaper_maker.py change_wallpaper --bing --quote-file $HOME/Git/OneOffCodes/Python/wallpaperMaker/quotes.txt"
 #Set my bing wallpaper
 
 alias bluesink='$HOME/Git/OneOffCodes/Expects/bluetooth_connect_ticpods.exp && pactl set-card-profile bluez_card.00_11_B1_01_BE_1E a2dp_sink'
