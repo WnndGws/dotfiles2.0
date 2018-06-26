@@ -1,5 +1,4 @@
 acpi
-alienfx
 aria2
 asciidoc
 aur-auto-vote-git
@@ -64,7 +63,6 @@ oh-my-zsh-git
 openntpd
 openssh
 openvpn
-overlook-fing
 p7zip
 pacman-utils
 pakku
@@ -91,6 +89,7 @@ python-pillow
 python-pip
 python-pipenv
 python-requests
+python-requests-html
 python-utils
 python-wordcloud
 ranger
@@ -103,9 +102,8 @@ sabnzbd
 sc-im
 scrot
 shadowfox-updater
-shellharden
+simple-mtpfs
 spotify
-streamlink
 syslinux
 tealdeer
 texlive-bibtexextra
