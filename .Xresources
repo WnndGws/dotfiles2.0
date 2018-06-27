@@ -51,7 +51,8 @@ URxvt.shading:           10
 !! Uses real transparency instead of setting background image to match whats behind it
 
 !! URxvt*depth: 32
-URxvt.background: [100]#002b36
+!URxvt.background: [100]#002b36
+URxvt.background: [100]#000e11
 !! Sets opacity to 100%
 
 URxvt.font:\ 
