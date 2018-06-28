@@ -6,6 +6,7 @@ import os
 import configparser
 import datetime
 import json
+import re
 import requests
 import time
 
@@ -70,7 +71,14 @@ icons_dict = {
     "clear": str(""),
     "clouds": str(""),
 }
-lookup_val = next((k for k in icons_dict if k in CURRENT.lower()), None)
-ICON = icons_dict.get(lookup_val, "")
 
-print(f"{ICON} {CURRENT}, {TEMP}°{UNIT_KEY}")
+for key in icons_dict:
+    for word in CURRENT.lower().split():
+        try:
+            my_regex = r'.*' + re.escape(word) + r'.*'
+            lookup_val = re.findall(my_regex, key)[0]
+            ICON = icons_dict.get(lookup_val, "")
+            print(f"{ICON} {CURRENT}, {TEMP}°{UNIT_KEY}")
+        except:
+            pass
+#lookup_val = next((k for k in icons_dict if k in CURRENT.lower()), None)
