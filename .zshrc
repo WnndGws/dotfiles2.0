@@ -228,8 +228,8 @@ alias archdate='pakku -Syyuu; pakku -T; wget -O /etc/hosts https://raw.githubuse
 alias ad="archdate"
 #Update command
 
-alias attach_monitor_right='xrandr --output LVDS1 --auto --primary --output DVI-I-2-1 --auto --right-of LVDS1'
-alias attach_monitor_left='xrandr --output LVDS1 --auto --primary --output DVI-I-2-1 --auto --left-of LVDS1'
+alias attach_monitor_right='xrandr --output LVDS-1 --primary --mode 1366x768 --pos 0x312 --rotate normal --output DP-1-1 --off --output HDMI-1-1 --mode 1920x1080 --pos 1366x0 --rotate normal'
+#alias attach_monitor_left='xrandr --output LVDS1 --auto --primary --output HDMI-1-1 --auto --left-of LVDS-1'
 #Attaches a second screen if it exists
 
 alias bing_wallpaper="$HOME/Git/OneOffCodes/Python/wallpaper_maker/wallpaper_maker.py change_wallpaper --bing --quote-file $HOME/Git/OneOffCodes/Python/wallpaperMaker/quotes.txt"
