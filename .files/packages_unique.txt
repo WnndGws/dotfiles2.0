@@ -53,11 +53,10 @@ mpv
 mupdf
 neofetch
 neomutt
-nerd-fonts-complete
+nerd-fonts-complete-mono-glyphs
 nethogs
 newsboat
 nim
-noto-fonts-emoji
 offlineimap
 oh-my-zsh-git
 openntpd
@@ -127,12 +126,14 @@ w3m
 wget
 wireless_tools
 wmctrl
+woeusb
 wpa_actiond
 wpa_supplicant
 xclip
 xdg-user-dirs
 xdotool
 xf86-input-synaptics
+xf86-video-nouveau
 xsel
 xtrlock
 youtube-dl
