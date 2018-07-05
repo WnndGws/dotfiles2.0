@@ -42,7 +42,7 @@ exec --no-startup-id exec unclutter -jitter 10 -idle 2
 exec --no-startup-id exec udiskie --no-notify --no-file-manager --all --recursive --no-config
 # use udiskie to automount connected ecternal drives
 
-exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/wallpaper_maker/wallpaper_maker.py change_wallpaper --bing --agenda --quote_file ~/Git/OneOffCodes/Python/wallpaper_maker/quotes.txt --wallpaper_dir ~/GoogleDrive/01_Personal/01_Personal/05_Images/Wallpapers --font /usr/share/fonts/nerd-fonts-complete/ttf/Sauce\ Code\ Pro\ Bold\ Nerd\ Font\ Complete.ttf --font-size 40
+exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/wallpaper_maker/wallpaper_maker.py change_wallpaper --bing --agenda --quote_file ~/Git/OneOffCodes/Python/wallpaper_maker/quotes.txt --wallpaper_dir ~/GoogleDrive/01_Personal/01_Personal/05_Images/Wallpapers --font /usr/share/fonts/TTF/Sauce\ Code\ Pro\ Bold\ Nerd\ Font\ Complete\ Mono.ttf --font-size 40
 # Sets new wallpaper at each startup
 
 exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/i3_alternating_windows/i3_alternating_windows.py
