@@ -27,7 +27,7 @@ exec --no-startup-id synclient PalmMinWidth=8
 exec --no-startup-id synclient PalmMinZ=30
 # Set Palm detection on touchpad
 
-exec --no-startup-id xset r rate 300 50
+exec --no-startup-id xset r rate 500 50
 # Increase key rate
 
 exec --no-startup-id $HOME/Git/OneOffCodes/Expects/bluetooth_connect_nexus6p.exp
@@ -78,7 +78,8 @@ exec --no-startup-id fd . $HOME/Media/Sport/Rugby --hidden -e torrent -x ls {} >
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec --no-startup-id urxvtc
+#bindsym $mod+Return exec --no-startup-id urxvtc
+bindsym $mod+Return exec --no-startup-id WINIT_HIDPI_FACTOR=1.5 alacritty
 
 # kill focused window
 bindsym $mod+q exec --no-startup-id ~/Git/OneOffCodes/Shell/dmenu_yn_prompt.sh 'Quit?' "i3-msg kill"
@@ -261,8 +262,8 @@ bindsym $mod+Shift+u exec --no-startup-id "python $HOME/Git/OneOffCodes/Python/s
 #bindsym $mod+Shift+o
 #bindsym $mod+ctrl+o
 
-bindsym $mod+Shift+p exec --no-startup-id urxvtc -e ranger
-bindsym $mod+Shift+Return exec --no-startup-id urxvtc -e ranger
+bindsym $mod+Shift+p exec --no-startup-id WINIT_HIDPI_FACTOR=1.5 alacritty -e ranger
+bindsym $mod+Shift+Return exec --no-startup-id WINIT_HIDPI_FACTOR=1.5 alacritty -e ranger
 #bindsym $mod+ctrl+p
 
 #bindsym $mod+Shift+a
@@ -270,7 +271,7 @@ bindsym $mod+Shift+Return exec --no-startup-id urxvtc -e ranger
 
 bindsym $mod+s exec --no-startup-id spotify
 #bindsym $mod+Shift+s
-#bindsym $mod+ctrl+s exec --no-startup-id urxvtc -e suspend
+#bindsym $mod+ctrl+s exec --no-startup-id WINIT_HIDPI_FACTOR=1.5 alacritty -e suspend
 
 bindsym $mod+d exec --no-startup-id dmenu_run -q -i -h 40 -p "Launch: " -fn "Sauce Code Pro Nerd Font Complete Mono:pixelsize=14"
 #bindsym $mod+Shift+d
@@ -302,7 +303,7 @@ bindsym $mod+v exec --no-startup-id "xclip -o -sel clip"
 #bindsym $mod+Shift+v
 #bindsym $mod+ctrl+v
 
-bindsym $mod+b exec --no-startup-id urxvtc -e zsh -c ~/Git/OneOffCodes/Shell/chat_urls.sh
+bindsym $mod+b exec --no-startup-id rxvtc -e zsh -c ~/Git/OneOffCodes/Shell/chat_urls.sh
 bindsym $mod+Shift+b exec --no-startup-id xtrlock
 bindsym $mod+ctrl+b exec --no-startup-id urxvtc -e ~/Git/OneOffCodes/Shell/lock.sh -name lock
 assign [title="lock.sh"] number 10
