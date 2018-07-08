@@ -308,18 +308,7 @@ bindsym $mod+Shift+b exec --no-startup-id xtrlock
 bindsym $mod+ctrl+b exec --no-startup-id urxvtc -e ~/Git/OneOffCodes/Shell/lock.sh -name lock
 assign [title="lock.sh"] number 10
 
-set $mode_launcher Neo[m]utt...News[b]oat...[r]tv...[c]enterim5
-bindsym $mod+a mode "$mode_launcher"
-mode "$mode_launcher" {
-    bindsym m exec WINIT_HIDPI_FACTOR=1.5 alacritty --title neomutt -e /usr/bin/zsh -c 'offlineimap -o && offlineimap -u quiet & neomutt && killall -9 offlineimap'; mode "default"
-    bindsym b exec WINIT_HIDPI_FACTOR=1.5 alacritty --title newsboat -e /usr/bin/zsh -c newsboat; mode "default"
-    #bindsym r exec WINIT_HIDPI_FACTOR=1.5 alacritty --title rtv -e /usr/bin/zsh -c 'RTV_BROWSER=/home/wynand/Git/OneOffCodes/Shell/dmenu_openwith_prompt.sh && sleep 1 && rtv'; mode "default"
-    bindsym r exec WINIT_HIDPI_FACTOR=1.5 alacritty; mode "default"
-    bindsym c exec WINIT_HIDPI_FACTOR=1.5 alacritty --title centerim5 -e /usr/bin/zsh -c centerim5; mode "default"
-
-    bindsym Escape mode "default"
-    bindsym Return mode "default"
-}
+#bindsym $mod+n
 #bindsym $mod+Shift+n
 #bindsym $mod+ctrl+n
 
