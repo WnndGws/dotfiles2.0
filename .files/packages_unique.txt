@@ -1,5 +1,4 @@
 acpi
-alacritty-git
 aria2
 asciidoc
 aur-auto-vote-git
