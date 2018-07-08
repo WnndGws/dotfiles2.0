@@ -224,7 +224,7 @@ bindkey "^[^M" autosuggest-accept
 #. ------------------ #
 # >>>>> ALIASES <<<<< #
 #. ------------------ #
-alias archdate='pakku -Syyuu; pakku -T; wget -O /etc/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts; i3-msg restart'
+alias archdate='pakku -Syyuu; pakku -T; wget -O /etc/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts; cat /etc/hosts.spotify >> /etc/hosts; polybar-msg cmd restart'
 alias ad="archdate"
 #Update command
 
