@@ -324,7 +324,6 @@ alias unmount_phone='fusermount -u /mnt/Nexus6p'
 alias nb='newsboat'
 #Saves typing
 
-alias neofetch="neofetch --cpu_temp C --gtk2 off --gtk3 off --refresh_rate on"
 alias nf="neofetch"
 #Neofetch
 
