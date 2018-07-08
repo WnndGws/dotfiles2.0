@@ -30,6 +30,7 @@ violet = #6c71c4
 black = #073642
 
 [bar/wyni3_top]
+enable-ipc = true
 bottom = false
 monitor = LVDS-1
 ;; Puts bar at the bottom
@@ -74,6 +75,7 @@ scroll-down = i3wm-wsprev
 
 
 [bar/wyni3]
+enable-ipc = true
 bottom = true
 monitor = LVDS-1
 ;; Puts bar at the bottom
