@@ -9,6 +9,7 @@
 .config/spotify
 .config/configstore
 .Xmodmap
+*.pem
 
 
 # Created by https://www.gitignore.io/api/tex,vim,latex,linux,matlab,django,python,archlinuxpackages
