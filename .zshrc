@@ -310,6 +310,9 @@ alias lsl='exa --all --color always --color-scale --long'
 alias ls='exa --color always --color-scale'
 #Colours in ls
 
+alias md2pdf='$HOME/Git/OneOffCodes/Shell/md2pdf.sh'
+#Use my own script using pandoc
+
 alias mm='myman try_tldr --program'
 #Uses vimman instead of normal man
 
