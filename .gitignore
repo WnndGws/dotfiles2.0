@@ -10,6 +10,7 @@
 .config/configstore
 .Xmodmap
 *.pem
+*.db
 
 
 # Created by https://www.gitignore.io/api/tex,vim,latex,linux,matlab,django,python,archlinuxpackages
