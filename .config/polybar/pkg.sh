@@ -2,8 +2,8 @@
 
 case "$1" in
     --checking)
-        pac=$(checkupdates | wc -l | tail -n 1)
-        aur=$(cower -q -u --timeout=0 | wc -l )
+        pac=$(checkupdates 2> /dev/null | wc -l | tail -n 1)
+        aur=$(cower -q -u --timeout=0 2> /dev/null | wc -l )
         check=$(( pac + aur ))
         ;;
     --reset)
