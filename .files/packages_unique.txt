@@ -57,6 +57,7 @@ nerd-fonts-complete-mono-glyphs
 nethogs
 newsboat
 nim
+noto-fonts-emoji
 offlineimap
 oh-my-zsh-git
 openntpd
