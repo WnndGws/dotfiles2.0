@@ -8,6 +8,7 @@
 .config/ipython
 .config/spotify
 .config/configstore
+.config/cmus
 .Xmodmap
 *.pem
 *.db
