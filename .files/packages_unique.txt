@@ -14,6 +14,7 @@ brightnessctl
 castnow-git
 centerim5-git
 chromecastize-git
+cmus
 cower
 cpupower
 dmenu2
