@@ -55,12 +55,7 @@ URxvt.shading:           10
 URxvt.background: [100]#000e11
 !! Sets opacity to 100%
 
-URxvt.font:\ 
-    xft:CodeNewRoman Nerd Font,\
-    xft:Noto Color Emoji,\ 
-    xft:Noto Sans Symbols,\
-    xft:Noto Sans,\
-    xft:Font Awesome
+URxvt.font:xft:CodeNewRoman Nerd Font,xft:Noto Color Emoji,xft:Noto Sans Symbols,xft:Noto Sans,xft:Font Awesome
 !! Sets font and size
 
 URxvt.keysym.Shift-Up: command:\033]720;1\007
