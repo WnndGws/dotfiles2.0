@@ -65,6 +65,11 @@ URxvt.keysym.Shift-Down: command:\033]721;1\007
 *antialias:  true
 *autohint:   true
 
+! ------------------------ !
+! >>>> XTERM SETTINGS <<<< !
+! ------------------------ !
+xterm*faceName: CodeNewRoman,Noto Color Emoji,Noto Sans
+
 ! ------------------------- !
 ! >>>> PERL EXTENSIONS <<<< !
 ! ------------------------- !
