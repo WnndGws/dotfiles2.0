@@ -54,7 +54,7 @@ highlight article "\\[image\\ [0-9]+\\]" green default
 
 # filters
 ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCoLrcjPV5PbUrUyXq5mjc_A" "title !~ \"SF\""
-ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCpdXIv0o46znhDWZH03fF4w" "title !~ \"West\""
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCpdXIv0o46znhDWZH03fF4w" "title !~ \"Eagles\""
 ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCDOGExGCsrrt_RrGDgLuMww" "title !~ \"Rebel\""
 ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCoh_z6QB0AGB1oxWufvbDUg" "title !~ \"Warriors\" and title !~ \"Sixers\" and title !~ \"Lakers\""
 ignore-article "http://feeds.lifehacker.com.au/LifehackerAustralia" "age >= 3"
