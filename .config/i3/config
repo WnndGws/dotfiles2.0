@@ -27,6 +27,10 @@ exec --no-startup-id synclient PalmMinWidth=8
 exec --no-startup-id synclient PalmMinZ=30
 # Set Palm detection on touchpad
 
+exec --no-startup-id synclient TapButton3=2
+exec --no-startup-id synclient ClickFinger3=2
+# Enable Middle-click by double tapping 3 fingers
+
 exec --no-startup-id xset r rate 500 50
 # Increase key rate
 
