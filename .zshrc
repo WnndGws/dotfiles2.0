@@ -257,6 +257,9 @@ alias paste="xclip -o -sel clip"
 alias cm="centerim5"
 #Saves typing
 
+alias cammu="bat .centerim5/clogs/Hangouts/wynandgouwswg/104062054821796402056 | urlscan -cn | uniq | tail | urlscan -c"
+#Extract urls itiot sends me
+
 alias cl='$HOME/Git/OneOffCodes/Shell/Compile_Latex.sh'
 #Compile and open latex
 
@@ -338,6 +341,8 @@ alias o='fasd -a -e xdg-open'
 #Quick opening files with xdg-open
 
 alias paorph='pacman --query --unrequired --deps --quiet'
+alias po='paorph'
+alias porm='paorph | xargs -I{} pakku -R --noconfirm {}'
 #Pacaur orphans
 
 alias play_DCAU="~/Git/OneOffCodes/Shell/playlistPlay.sh ~/wynZFS/Media/WatchOrders/DCAU.order"
