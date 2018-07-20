@@ -327,7 +327,7 @@ alias mp='mount_phone'
 alias unmount_phone='fusermount -u /mnt/Nexus6p'
 #Allows me to mtp mount and unmount phone easily
 
-alias nb='newsboat'
+alias nb='killall newsboat; newsboat'
 #Saves typing
 
 alias nf="neofetch"
