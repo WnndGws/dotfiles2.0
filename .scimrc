@@ -1,9 +1,9 @@
-set autocalc
+set autocalc=1
 set numeric=0
-set xlsx_readformulas
-set external_functions
-set half_page_scroll
-set ignorecase
+set xlsx_readformulas=1
+set external_functions=1
+set half_page_scroll=1
+set ignorecase=1
 
 nmap "ZZ" ":x!<cr>"
 nmap ",w" ":w<cr>"
