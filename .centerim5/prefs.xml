@@ -36,7 +36,7 @@
 			</pref>
 		</pref>
 		<pref name='savedstatus'>
-			<pref name='default' type='int' value='1521946190'/>
+			<pref name='default' type='int' value='1532223476'/>
 			<pref name='startup' type='int' value='0'/>
 			<pref name='startup_current_status' type='bool' value='1'/>
 			<pref name='idleaway' type='int' value='1521946191'/>
@@ -54,7 +54,7 @@
 			<pref name='log_ims' type='bool' value='1'/>
 			<pref name='log_chats' type='bool' value='1'/>
 			<pref name='log_system' type='bool' value='0'/>
-			<pref name='format' type='string' value='html'/>
+			<pref name='format' type='string' value='txt'/>
 		</pref>
 		<pref name='network'>
 			<pref name='stun_server' type='string' value=''/>
@@ -188,7 +188,7 @@
 		</pref>
 		<pref name='dimensions'>
 			<pref name='buddylist_width' type='int' value='20'/>
-			<pref name='log_height' type='int' value='25'/>
+			<pref name='log_height' type='int' value='88'/>
 			<pref name='show_header' type='bool' value='1'/>
 			<pref name='show_footer' type='bool' value='1'/>
 		</pref>
@@ -196,7 +196,7 @@
 			<pref name='debug' type='bool' value='0'/>
 			<pref name='filename' type='string' value='debug.log'/>
 			<pref name='log_level_cim' type='string' value='info'/>
-			<pref name='log_level_purple' type='string' value='critical'/>
+			<pref name='log_level_purple' type='string' value='warning'/>
 			<pref name='log_level_glib' type='string' value='warning'/>
 		</pref>
 		<pref name='chat'>
@@ -209,7 +209,7 @@
 			<pref name='show_offline_buddies' type='bool' value='0'/>
 			<pref name='list_mode' type='string' value='normal'/>
 			<pref name='group_sort_mode' type='string' value='name'/>
-			<pref name='buddy_sort_mode' type='string' value='status'/>
+			<pref name='buddy_sort_mode' type='string' value='name'/>
 			<pref name='colorization_mode' type='string' value='status'/>
 		</pref>
 	</pref>
