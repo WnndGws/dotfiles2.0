@@ -1,4 +1,4 @@
-2048-rs
+2048-qt
 acpi
 aria2
 asciidoc
@@ -70,6 +70,7 @@ pacman-utils
 pakku
 pandoc
 pavucontrol
+picard
 pkgconf
 polybar
 powertop
