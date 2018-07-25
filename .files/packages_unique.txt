@@ -130,6 +130,7 @@ w3m
 wget
 wireless_tools
 wmctrl
+woeusb
 wpa_actiond
 wpa_supplicant
 xclip
