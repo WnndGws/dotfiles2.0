@@ -342,7 +342,7 @@ alias o='fasd -a -e xdg-open'
 
 alias paorph='pacman --query --unrequired --deps --quiet'
 alias po='paorph'
-alias porm='paorph | xargs -I{} pakku -R --noconfirm {}'
+alias porm='paorph | xargs -I{} pakku -R --noconfirm {}; paorph | xargs -I{} pakku -R --noconfirm {}; paorph | xargs -I{} pakku -R --noconfirm {}'
 #Pacaur orphans
 
 alias play_DCAU="~/Git/OneOffCodes/Shell/playlistPlay.sh ~/wynZFS/Media/WatchOrders/DCAU.order"
