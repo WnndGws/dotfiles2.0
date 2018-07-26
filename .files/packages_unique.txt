@@ -1,4 +1,3 @@
-2048-qt
 acpi
 aria2
 asciidoc
@@ -136,8 +135,6 @@ wpa_supplicant
 xclip
 xdg-user-dirs
 xdotool
-xf86-input-synaptics
-xf86-video-nouveau
 xsel
 xtrlock
 youtube-dl
