@@ -1,11 +1,6 @@
 #!/usr/bin/zsh
 # Script used to keep all my dotfiles in order
 
-
-if [[ $(ssh-add -l) == 0 ]]; then
-    ssh-add
-fi
-
 cd $HOME
 
 dir=$HOME/Git/dotfiles2.0
@@ -20,9 +15,10 @@ cd $dir; git pull --all
 # Install packages
 echo "Installing packages....."
 git clone https://github.com/kitsunyan/pakku
+sudo pacman -S nim asciidoc
 cd pakku
 make
-make install
+sudo make install
 cd $dir; rm -rf pakku
 pakku -Syyuu
 cat ./.files/packages_unique.txt | xargs -I{} pakku -S --noconfirm --needed {}
