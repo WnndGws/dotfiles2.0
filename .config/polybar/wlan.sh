@@ -3,11 +3,11 @@
 
 interface=$1
 
-received1=$(cat /sys/class/net/wlp13s0/statistics/rx_bytes)
-transmitted1=$(cat /sys/class/net/wlp13s0/statistics/tx_bytes)
+received1=$(cat /sys/class/net/wlp0s20u14/statistics/rx_bytes)
+transmitted1=$(cat /sys/class/net/wlp0s20u14/statistics/tx_bytes)
 sleep 1
-received2=$(cat /sys/class/net/wlp13s0/statistics/rx_bytes)
-transmitted2=$(cat /sys/class/net/wlp13s0/statistics/tx_bytes)
+received2=$(cat /sys/class/net/wlp0s20u14/statistics/rx_bytes)
+transmitted2=$(cat /sys/class/net/wlp0s20u14/statistics/tx_bytes)
 
 received_per_sec=$(bc <<< ($received2-$received1)/1024)
 transmitted_per_sec=$(bc <<< ($transmitted2-$transmitted1)/1024)

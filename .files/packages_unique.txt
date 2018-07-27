@@ -1,4 +1,6 @@
 acpi
+alsa-utils
+arandr
 aria2
 asciidoc
 aur-auto-vote-git
@@ -31,6 +33,10 @@ gallery-dl
 gcalcli
 git
 goobook-git
+grub
+gvfs
+gvfs-mtp
+gvfs-smb
 gvim
 haxor-news
 htop
@@ -47,9 +53,12 @@ intel-ucode
 ipython
 jsoncpp
 linux-headers
+linux-lts
+linux-lts-headers
 magic-wormhole
 massren
 md2pdf
+mesa
 mpv
 mupdf
 neofetch
@@ -64,6 +73,7 @@ oh-my-zsh-git
 openntpd
 openssh
 openvpn
+os-prober
 p7zip
 pacman-utils
 pakku
@@ -73,13 +83,13 @@ picard
 pkgconf
 polybar
 powertop
+pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 purple-facebook
 purple-hangouts-hg
 purple-plugin-pack
 pymodoro-git
-python
 python-dateutil
 python-dnspython
 python-google-api-python-client
@@ -90,7 +100,6 @@ python-nltk
 python-pillow
 python-pip
 python-pipenv
-python-requests
 python-requests-html
 python-utils
 python-wordcloud
@@ -102,6 +111,7 @@ rtv
 rxvt-unicode-patched
 sabnzbd
 sc-im
+screenfetch
 scrot
 shadowfox-updater
 simple-mtpfs
@@ -118,6 +128,7 @@ texlive-science
 tlp
 trash-cli
 ttf-anonymous-pro
+ttf-dejavu
 ttf-font-awesome
 udiskie
 udiskie-dmenu-git
@@ -136,6 +147,7 @@ xclip
 xdg-user-dirs
 xdotool
 xsel
+xterm
 xtrlock
 youtube-dl
 youtube-viewer

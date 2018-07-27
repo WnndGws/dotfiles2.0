@@ -13,6 +13,9 @@ font pango:Anonymous Pro 11
 # >>>> EXTERNAL STARTUPS <<<< #
 #. -------------------------- #
 
+exec --no-startup-id xrandr --output DisplayPort-0 --off --output DVI-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DVI-0 --off --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate normal
+# Screens on desktop
+
 exec_always --no-startup-id ~/Git/dotfiles2.0/.config/i3/i3scripts/autoname_workspaces.py
 # Use pretty icons in i3 workspaces
 

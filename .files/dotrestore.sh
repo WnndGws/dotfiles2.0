@@ -12,17 +12,6 @@ mkdir -p $oldDir
 echo "Pulling from git....."
 cd $dir; git pull --all
 
-# Install packages
-echo "Installing packages....."
-git clone https://github.com/kitsunyan/pakku
-sudo pacman -S nim asciidoc
-cd pakku
-make
-sudo make install
-cd $dir; rm -rf pakku
-pakku -Syyuu
-cat ./.files/packages_unique.txt | xargs -I{} pakku -S --noconfirm --needed {} 2>> failed_packages.txt
-
 echo "Creating new folders....."
 for folder in $(fd --exclude "*git*" --hidden --no-ignore --max-depth 1 --type d --full-path $dir -x echo {/}); do
     ln -fs $dir/$folder $HOME
