@@ -52,7 +52,6 @@ insync
 intel-ucode
 ipython
 jsoncpp
-linux-headers
 linux-lts
 linux-lts-headers
 magic-wormhole
