@@ -49,12 +49,8 @@ icons_dict = {
     "clear": str(""),
     "clouds": str(""),
 }
-for key in icons_dict:
-    for word in CURRENT.split():
-        try:
-            lookup_val = re.findall(r'.*word.*', key)[0]
-        else:
-            pass
+
+lookup_val = "clear"
 
 #lookup_val = next((k for k in icons_dict if k in CURRENT.lower()), None)
 ICON = icons_dict.get(lookup_val, "")
