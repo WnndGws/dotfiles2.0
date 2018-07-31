@@ -1,6 +1,5 @@
 acpi
 alsa-utils
-arandr
 aria2
 asciidoc
 aur-auto-vote-git
@@ -21,6 +20,7 @@ cower
 cpupower
 dmenu2
 downgrade
+dpkg
 exa
 fasd
 fd
@@ -39,6 +39,7 @@ gvfs-mtp
 gvfs-smb
 gvim
 haxor-news
+headphones
 htop
 hyperfine
 i3-gaps
@@ -52,11 +53,11 @@ insync
 intel-ucode
 ipython
 jsoncpp
+kodi
 linux-lts
 linux-lts-headers
 magic-wormhole
 massren
-md2pdf
 mesa
 mpv
 mupdf
@@ -102,6 +103,7 @@ python-pipenv
 python-requests-html
 python-utils
 python-wordcloud
+radarr
 ranger
 redshift-minimal
 ripgrep
@@ -109,11 +111,12 @@ rsync
 rtv
 rxvt-unicode-patched
 sabnzbd
+samba
 sc-im
 screenfetch
 scrot
-shadowfox-updater
 simple-mtpfs
+sonarr
 spotify
 syslinux
 tealdeer
@@ -139,7 +142,6 @@ w3m
 wget
 wireless_tools
 wmctrl
-woeusb
 wpa_actiond
 wpa_supplicant
 xclip
@@ -150,5 +152,7 @@ xterm
 xtrlock
 youtube-dl
 youtube-viewer
+zfs-dkms
+zfs-utils
 zsh
 zsh-syntax-highlighting
