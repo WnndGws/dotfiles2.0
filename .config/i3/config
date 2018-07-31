@@ -75,8 +75,6 @@ exec --no-startup-id xmodmap -e "keycode 127 = KP_Insert KP_0 KP_Insert KP_0"
 exec --no-startup-id xmodmap -pke > ~/.Xmodmap
 ## Sets keys
 
-exec --no-startup-id fd . $HOME/Media/Sport/Rugby --hidden -e torrent -x ls {} > $HOME/Media/Sport/Rugby/.torrentlist && aria2c --bt-seed-unverified -i $HOME/Media/Sport/Rugby/.torrentlist -d $HOME/Media/Sport/Rugby
-# Seed My Rugby Torrents
 #. ---------------------------- #
 # >>>> MOVEMENT SHORTCUTS <<<< #
 #. ---------------------------- #
@@ -90,7 +88,8 @@ bindsym $mod+Return exec --no-startup-id urxvtc
 
 # kill focused window
 bindsym $mod+q exec --no-startup-id ~/Git/OneOffCodes/Shell/dmenu_yn_prompt.sh 'Quit?' "i3-msg kill"
-bindsym $mod+p exec --no-startup-id ~/Git/OneOffCodes/Shell/dmenu_yn_prompt.sh 'Quit?' "i3-msg kill"
+bindsym $mod+p exec --no-startup-id kodi-standalone
+# Start Kodi
 
 # start dmenu (a program launcher)
 # bindsym $mod+d
@@ -327,8 +326,8 @@ bindsym $mod+m exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
 bindsym Print exec --no-startup-id "sleep 0.1; urxvtc -e ~/Git/OneOffCodes/Python/Screenshots/screenshots.py"
 assign [title="screenshots.py"] number 9
 
-bindsym $mod+bracketright exec --no-startup-id pactl set-sink-volume 2 +5%
-bindsym $mod+bracketleft exec --no-startup-id pactl set-sink-volume 2 -5%
+bindsym $mod+bracketright exec --no-startup-id pactl set-sink-volume 1 +5%
+bindsym $mod+bracketleft exec --no-startup-id pactl set-sink-volume 1 -5%
 # Set volume with keyboard
 
 bindsym $mod+semicolon exec --no-startup-id brightnessctl s -5%
