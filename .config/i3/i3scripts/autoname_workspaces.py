@@ -57,6 +57,7 @@ WINDOW_ICONS = {
     'rtv': '',
     'rainbowstream': '',
     'plex': '',
+    'Kodi': '',
     'steam': '',
     'pdf': '',
     'neomutt': '',
