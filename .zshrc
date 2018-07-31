@@ -269,6 +269,10 @@ alias dm='$HOME/Git/dotfiles2.0/.files/dotmake.sh'
 alias failed_ctl='systemctl list-units --state=failed'
 #To list any failed systemctl units
 
+alias fo='$BROWSER "$(fzf)"'
+alias fcd='cd "$(fzf)"'
+# Use fuzzy finder
+
 alias gi="cat $HOME/Git/dotfiles2.0/.files/gitignores.txt >> .gitignore"
 #Create a gitignore file
 
@@ -385,8 +389,8 @@ alias shutdown_in="~/Git/OneOffCodes/Shell/shutdownIn.sh"
 alias shutdown="~/Git/OneOffCodes/Shell/dmenu_yn_prompt.sh 'Do You want to shut down?' \"~/Git/OneOffCodes/Shell/shutdownIn.sh 0:05\""
 #Is the same as normal shutdown, except instead of just saying a min it counts down. Much more convenient
 
-alias //="sudo"
-#Use as Sudo
+alias sleep_until="~/Git/OneOffCodes/Shell/sleep_until.sh"
+#Sleep until a certain time
 
 alias suspend="_ rtcwake --date +1month -m mem; ~/Git/OneOffCodes/Shell/lock.sh; _ systemctl restart openvpn.service"
 #Use rtc wake as suspend
@@ -441,10 +445,6 @@ alias yv='youtube-viewer --results=50 --order=date'
 alias zsh_time='time "zsh -i -c exit"'
 alias zt='zsh_time'
 #Times my zsh load time
-
-fo() { vim $(fzf --no-multi --query="$1"); }
-fc() { cd $(dirname $(fzf +m -q "$1")); }
-#Using fzf to find and open files/dirs
 #. -------------------- #
 # >>>>>END ALIASES<<<<< #
 #. -------------------- #
