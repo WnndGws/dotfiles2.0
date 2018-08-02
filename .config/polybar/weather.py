@@ -78,8 +78,8 @@ for key in icons_dict:
             my_regex = r'.*' + re.escape(word) + r'.*'
             lookup_val = re.findall(my_regex, key)[0]
             ICON = icons_dict.get(lookup_val, "")
-            if len(CURRENT) > 15:
-                CURRENT = CURRENT[:5] + "...." + CURRENT[-5:]
+            #if len(CURRENT) > 15:
+                #CURRENT = CURRENT[:5] + "...." + CURRENT[-5:]
             print(f"{ICON} {CURRENT}, {TEMP}°{UNIT_KEY}")
         except:
             pass
