@@ -22,13 +22,13 @@ elif [[ -f $basedir/.vpn_connected*.ini ]]; then
     country=$(dig +short myip.opendns.com @resolver1.opendns.com | xargs -I{} geoiplookup {} | awk '{print $4}' | rev | cut -c 2- | rev)
     rm -f ./.vpn*.ini
     touch ./.vpn_disconnected_$country.ini
-    colour="%{u#cb4b16 +u}"
+    colour="%{u#bd2c40 +u}"
     icon=""
 
 #If wasn't connected, still isn't
 else
     country=$(find $basedir -type f -name "*.vpn_disconnected*" | cut -d"_" -f3 | rev | cut -d"." -f2 | cut -d"_" -f1 | rev)
-    colour="%{u#cb4b16 +u}"
+    colour="%{u#bd2c40 +u}"
     icon=""
 fi
 
