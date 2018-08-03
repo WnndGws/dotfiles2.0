@@ -47,7 +47,7 @@ bind -f common enter win-toggle
 ##############
 set display_artist_sort_name=true
 set format_current=%a - %l - %02n. %t%= %{bitrate}Kbps %g %y
-set format_title=%a-@l-@n_%t - cmus
-set show_all_tracks=false
+set format_title=%a-%l-%n_%t - cmus
+set show_all_tracks=true
 set show_current_bitrate=true
 set show_remaining_time=true
