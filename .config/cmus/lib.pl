@@ -1,4 +1,207 @@
 /home/wynand/wynZFS/Media/Audio/Music/Karnivool/2005 - Themata/11 Omitted For Clarity.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/18 The Roots - Act Fore... The End?.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/13 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/14 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/15 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/16 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/17 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/18 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/19 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/20 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/21 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/22 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/23 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/24 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/25 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/26 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/27 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/28 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/29 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/30 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/31 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/32 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/33 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/34 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/35 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/36 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/37 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/38 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/39 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/40 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/41 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/42 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/43 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/44 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/45 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/46 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/47 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/48 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/49 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/50 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/51 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/52 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/53 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/54 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/55 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/56 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/57 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/58 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/59 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/60 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/61 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/62 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/63 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/64 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/65 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/66 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/67 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/68 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/69 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/70 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/71 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/72 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/73 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/74 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/75 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/76 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/77 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/78 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/79 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/80 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/81 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/82 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/83 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/84 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/85 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/86 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/87 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/88 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/89 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/91 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/92 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/93 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/94 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/95 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/96 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/97 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/98 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/99 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/01 Come On, Come Out.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/02 The Minnow & The Trout.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/03 Whisper.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/04 You Picked Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/05 Rangers.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/06 Almost Lover.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/07 Think Of You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/08 Ashes And Wine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/09 Liar, Liar.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/10 Last Of Days.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/11 Lifesize.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/12 Near To You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/13 Hope For The Hopeless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/14 Borrowed Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/01 Courage.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/02 Movies.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/03 Flesh And Bone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/04 Whisper.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/05 Summer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/06 Sticks And Stones.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/07 Attitude.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/08 Stranded.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/09 Wish.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/10 Calico.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/11 (Happy) Death Day.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/12 Smooth Criminal.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2001 - ANThology/13 Universe _ Orange Appeal.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/01 1000 Days.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/02 Drifting Apart.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/03 Quiet.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/04 Glow.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/05 These Days.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/06 Sarah Wynn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/07 Never Meant.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/08 Goodbye.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/09 Tia Lupe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/10 Rubber Mallet.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/11 S.S. Recognize.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2003 - truANT/12 Hope.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/01 Bad Morning.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/02 Forgive & Forget.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/03 What I Feel Is Mine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/04 It Could Happen.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/05 Around The Block.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/06 San Sebastian.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/07 Lord Knows.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/08 Getting Closer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/09 Crickets.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/10 Supreme Lifestyle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/11 Consti2tion.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/12 State Of Emergency.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/13 Sleepwalker.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alien Ant Farm/2005 - Up In The Attic/14 She's Only Evil.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/01 Ties That Bind.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/02 Come To Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/03 Brand New Start.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/04 Buried Alive.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/05 Coming Home.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/06 Before Tomorrow Comes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/07 Rise Today.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/08 Blackbird.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/09 One By One.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/10 Watch Over You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/11 Break Me Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/12 White Knuckles.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/13 Wayward One.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/14 The Damage Done.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2007 - Blackbird/15 New Way To Live.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/01 Cry Of Achilles.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/02 Addicted To Pain.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/03 Bleed It Dry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/04 Lover.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/05 The Uninvited.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/06 Peace Is Broken.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/07 Calm The Fire.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/08 Waters Rising.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/09 Farther Than The Sun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/10 Cry A River.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/11 All Ends Well.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Alter Bridge/2013 - Fortress/12 Fortress.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 1)/1-01 The Package.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 1)/1-02 Weak And Powerless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 1)/1-03 The Noose.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 1)/1-04 Blue.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 1)/1-05 Vanishing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 1)/1-06 A Stranger.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 2)/2-01 The Outsider.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 2)/2-02 Crimes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 2)/2-03 The Nurse Who Loved Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 2)/2-04 Pet.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 2)/2-05 Lullaby.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2003 - Thirteenth Step (Disc 2)/2-06 Gravity.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/01 Annihilation.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/02 Imagine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/03 Peace Love And Understanding.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/04 What's Going On.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/05 Passive.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/06 Gimmie Gimmie Gimmie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/07 People Are People.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/08 Freedom Of Choice.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/09 Let's Have A War.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/10 Counting Bodies Like Sheep To The Rhythm Of The War Drums.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/11 When The Levee Breaks.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2004 - eMOTIVe/12 Fiddle And The Drum.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 1)/1-01 The Hollow.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 1)/1-02 Magdalena.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 1)/1-03 Rose.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 1)/1-04 Judith.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 1)/1-05 Orestes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 1)/1-06 3 Libras.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 2)/2-01 Sleeping Beauty (Extended Intro).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 2)/2-02 Thomas.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 2)/2-03 Renholder.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 2)/2-04 Thinking Of You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 2)/2-05 Brena.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/A Perfect Circle/2000 - Mer De Noms (Disc 2)/2-06 Over (Alt.).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2003 - Arcade Fire/01 Old Flame.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2003 - Arcade Fire/02 I'm Sleeping In A Submarine.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2003 - Arcade Fire/03 No Cars Go.flac
@@ -17,7 +220,9 @@
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2004 - Funeral (Disc 1)/1-09 Rebellion (Lies).flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2004 - Funeral (Disc 1)/1-10 In The Backseat.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2004 - Funeral (Disc 2)/2-01 My Buddy (Alvino Rey Orchestra).flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arcade Fire/2004 - Funeral (Disc 2)/2-02 Neighborhood #3 (Power Out) (August Session).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2004 - Funeral (Disc 2)/2-03 Brazil.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arcade Fire/2004 - Funeral (Disc 2)/2-04 Neighborhood #3 (Power Out) (Live).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2007 - Neon Bible/01 Black Mirror.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2007 - Neon Bible/02 Keep The Car Running.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2007 - Neon Bible/03 Neon Bible.flac
@@ -59,6 +264,59 @@
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2013 - Reflektor (Disc 2)/2-04 Porno.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2013 - Reflektor (Disc 2)/2-05 Afterlife.flac
 /home/wynand/wynZFS/Media/Audio/Music/Arcade Fire/2013 - Reflektor (Disc 2)/2-06 Supersymmetry _ [Unknown].flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arcade Fire & David Bowie/2005 - Live EP (Live At Fashion Rocks)/01 Life On Mars?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arcade Fire & David Bowie/2005 - Live EP (Live At Fashion Rocks)/02 Wake Up.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arcade Fire & David Bowie/2005 - Live EP (Live At Fashion Rocks)/03 Five Years.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/01 The View From The Afternoon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/02 I Bet You Look Good On The Dancefloor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/03 Fake Tales Of San Francisco.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/04 Dancing Shoes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/05 You Probably Couldn't See For The Lights But You Were Staring Straight At Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/06 Still Take You Home.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/07 Riot Van.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/08 Red Light Indicates Doors Are Secured.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/09 Mardy Bum.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/10 Perhaps Vampires Is A Bit Strong But....mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/11 When The Sun Goes Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/12 From The Ritz To The Rubble.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2006 - Whatever People Say I Am, That's What I'm Not/13 A Certain Romance.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/01 Brianstorm.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/02 Teddy Picker.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/03 D Is For Dangerous.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/04 Balaclava.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/05 Fluorescent Adolescent.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/06 Only Ones Who Know.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/07 Do Me A Favour.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/08 This House Is A Circus.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/09 If You Were There, Beware.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/10 The Bad Thing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/11 Old Yellow Bricks.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2007 - Favourite Worst Nightmare/12 505.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/01 My Propeller.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/02 Crying Lightning.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/03 Dangerous Animals.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/04 Secret Door.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/05 Potion Approaching.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/06 Fire And The Thud.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/07 Cornerstone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/08 Dance Little Liar.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/09 Pretty Visitors.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/10 The Jeweller's Hands.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/11 I Haven't Got My Strange.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2009 - Humbug/12 Red Right Hand.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/01 She's Thunderstorms.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/02 Black Treacle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/03 Brick By Brick.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/04 The Hellcat Spangled Shalalala.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/05 Don't Sit Down 'Cause I've Moved Your Chair.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/06 Library Pictures.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/07 All My Own Stunts.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/08 Reckless Serenade.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/09 Piledriver Waltz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/10 Love Is A Laserquest.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/11 Suck It And See.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/12 That's Where You're Wrong.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Arctic Monkeys/2011 - Suck It And See/13 The Blond-O-Sonic Shimmer Trap.mp3
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1990 - People's Instinctive Travels And The Paths Of Rhythm/01 Push It Along.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1990 - People's Instinctive Travels And The Paths Of Rhythm/02 Luck Of Lucien.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1990 - People's Instinctive Travels And The Paths Of Rhythm/03 After Hours.flac
@@ -122,21 +380,21 @@
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/04 A Tribe Called Quest With Busta Rhymes & Redman - Steppin' It Up.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/05 A Tribe Called Quest - Like It Like That.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/06 A Tribe Called Quest - Common Ground (Get It Goin' On).flac
-/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/07 A Tribe Called Quest Feat. Spanky - 4 Moms.flac
+/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/07 A Tribe Called Quest - 4 Moms (Feat. Spanky).flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/08 A Tribe Called Quest - His Name Is Mutty Ranks.flac
-/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/09 A Tribe Called Quest Feat. N.O.R.E. - Give Me.flac
-/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/10 A Tribe Called Quest Feat. D-Life - Pad & Pen.flac
+/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/09 A Tribe Called Quest - Give Me (Feat. N.O.R.E.).flac
+/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/10 A Tribe Called Quest - Pad & Pen (Feat. D-Life).flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/11 A Tribe Called Quest - Busta's Lament.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/12 A Tribe Called Quest - Hot 4 U.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/13 A Tribe Called Quest - Against The World.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/14 A Tribe Called Quest - The Love.flac
-/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/15 A Tribe Called Quest Feat. Punchline, Wordsworth, Jane Doe & Mos Def - Rock Rock Y'all.flac
+/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/15 A Tribe Called Quest - Rock Rock Y'all (Feat. Punchline, Wordsworth, Jane Doe & Mos Def).flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/16 A Tribe Called Quest - Scenario (Remix).flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/17 A Tribe Called Quest - Money Maker.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/18 A Tribe Called Quest - Hot Sex.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/19 A Tribe Called Quest - Oh My God (Remix).flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/20 A Tribe Called Quest - Jazz (We've Got) (Re-Recording Radio).flac
-/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/21 A Tribe Called Quest Feat. Busta Rhymes - One Two S**T.flac
+/home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/1998 - The Love Movement/21 A Tribe Called Quest - One Two S**T (Feat. Busta Rhymes).flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/2016 - We Got It From Here... Thank You 4 Your Service (Disc 1)/1-01 The Space Program.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/2016 - We Got It From Here... Thank You 4 Your Service (Disc 1)/1-02 We The People.....flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/2016 - We Got It From Here... Thank You 4 Your Service (Disc 1)/1-03 Whateva Will Be.flac
@@ -153,6 +411,38 @@
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/2016 - We Got It From Here... Thank You 4 Your Service (Disc 2)/2-06 Conrad Tokyo.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/2016 - We Got It From Here... Thank You 4 Your Service (Disc 2)/2-07 Ego.flac
 /home/wynand/wynZFS/Media/Audio/Music/A Tribe Called Quest/2016 - We Got It From Here... Thank You 4 Your Service (Disc 2)/2-08 The Donald.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/01 War Pigs.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/02 Paranoid.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/03 Planet Caravan.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/04 Iron Man.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/05 Electric Funeral.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/06 Hand Of Doom.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/07 Rat Salad.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Paranoid/08 Fairies Wear Boots.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/01 Sweet Leaf.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/02 After Forever (Including The Elegy).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/03 Embryo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/04 Children Of The Grave.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/05 Orchid.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/06 Lord Of This World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/07 Solitude.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1971 - Master Of Reality/08 Into The Void.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-01 Black Sabbath.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-02 The Wizard.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-03 Behind The Wall Of Sleep.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-04 N.I.B..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-05 Evil Woman (Don't Play Your Games With Me).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-06 Sleeping Village.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 1_ Original Album)/1-07 Warning.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-01 Wicked World (Single B-Side, TF1067).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-02 Black Sabbath (Studio Outtake).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-03 Black Sabbath (Instrumental).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-04 The Wizard (Studio Outtake).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-05 Behind The Wall Of Sleep (Studio Outtake).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-06 N.I.B. (Instrumental).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-07 Evil Woman (Alternative Version).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-08 Sleeping Village (Intro).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Black Sabbath/1970 - Black Sabbath (Disc 2_ Bonus Tracks)/2-09 Warning, Part 1.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Bringing It All Back Home/01 Subterranean Homesick Blues.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Bringing It All Back Home/02 She Belongs To Me.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Bringing It All Back Home/03 Maggie's Farm.flac
@@ -164,6 +454,50 @@
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Bringing It All Back Home/09 Gates Of Eden.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Bringing It All Back Home/10 It's Alright, Ma (I'm Only Bleeding).flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Bringing It All Back Home/11 It's All Over Now, Baby Blue.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/01 John Wesley Harding.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/02 As I Went Out One Morning.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/03 I Dreamed I Saw St. Augustine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/04 All Along The Watchtower.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/05 The Ballad Of Frankie Lee And Judas Priest.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/06 Drifter's Escape.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/07 Dear Landlord.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/08 I Am A Lonesome Hobo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/09 I Pity The Poor Immigrant.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/10 The Wicked Messenger.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/11 Down Along The Cove.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1967 - John Wesley Harding/12 I'll Be Your Baby Tonight.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/01 A Satisfied Mind.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/02 Saved.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/03 Covenant Woman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/04 What Can I Do For You?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/05 Solid Rock.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/06 Pressing On.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/07 In The Garden.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/08 Saving Grace.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1980 - Saved/09 Are You Ready.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/01 Shot Of Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/02 Heart Of Mine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/03 Property Of Jesus.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/04 Lenny Bruce.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/05 Watered-Down Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/06 The Groom's Still Waiting At The Altar.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/07 Dead Man, Dead Man.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/08 In The Summertime.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/09 Trouble.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1981 - Shot Of Love/10 Every Grain Of Sand.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/01 Blowin' In The Wind.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/02 Rocks And Gravel.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/03 Hard Rain's A-Gonna Fall.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/04 Down The Highway.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/05 Bob Dylan's Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/06 Let Me Die In My Footsteps.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/07 Don't Think Twice, It's All Right.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/08 Gamblin' Willie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/09 Oxford Town.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/10 Corrina, Corrina.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/11 Talkin' John Birch Society Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/12 Honey, Just Allow Me One More Chance.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1963 - The Freewheelin' Bob Dylan/13 I Shall Be Free.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Highway 61 Revisited/01 Like A Rolling Stone.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Highway 61 Revisited/02 Tombstone Blues.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Highway 61 Revisited/03 It Takes A Lot To Laugh, It Takes A Train To Cry.flac
@@ -173,6 +507,16 @@
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Highway 61 Revisited/07 Highway 61 Revisited.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Highway 61 Revisited/08 Just Like Tom Thumb's Blues.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1965 - Highway 61 Revisited/09 Desolation Row.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/01 The Times They Are A-Changin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/02 Ballad Of Hollis Brown.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/03 With God On Our Side.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/04 One Too Many Mornings.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/05 North Country Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/06 Only A Pawn In Their Game.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/07 Boots Of Spanish Leather.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/08 When The Ship Comes In.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/09 The Lonesome Death Of Hattie Carroll.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - The Times They Are A-Changin'/10 Restless Farewell.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1975 - Blood On The Tracks/01 Tangled Up In Blue.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1975 - Blood On The Tracks/02 Simple Twist Of Fate.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1975 - Blood On The Tracks/03 You're A Big Girl Now.flac
@@ -183,6 +527,133 @@
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1975 - Blood On The Tracks/08 If You See Her, Say Hello.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1975 - Blood On The Tracks/09 Shelter From The Storm.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1975 - Blood On The Tracks/10 Buckets Of Rain.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/01 Tight Connection To My Heart (Has Anybody Seen My Love).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/02 Seeing The Real You At Last.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/03 I'll Remember You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/04 Clean Cut Kid.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/05 Never Gonna Be The Same Again.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/06 Trust Yourself.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/07 Emotionally Yours.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/08 When The Night Comes Falling From The Sky.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/09 Something's Burning, Baby.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1985 - Empire Burlesque/10 Dark Eyes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/01 Jokerman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/02 Sweetheart Like You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/03 Neighborhood Bully.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/04 License To Kill.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/05 Man Of Peace.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/06 Union Sundown.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/07 I And I.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1983 - Infidels/08 Don't Fall Apart On Me Tonight.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/01 You're No Good.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/02 Talkin' New York.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/03 In My Time Of Dyin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/04 Man Of Constant Sorrow.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/05 Fixin' To Die.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/06 Pretty Peggy-O.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/07 Highway 51.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/08 Gospel Plow.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/09 Baby, Let Me Follow You Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/10 House Of The Risin' Sun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/11 Freight Train Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/12 Song To Woody.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1962 - Bob Dylan/13 See That My Grave Is Kept Clean.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/01 Let's Stick Together.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/02 When Did You Leave Heaven?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/03 Sally Sue Brown.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/04 Death Is Not The End.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/05 Had A Dream About You, Baby.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/06 Ugliest Girl In The World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/07 Silvio.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/08 Ninety Miles An Hour (Down A Dead End Street).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/09 Shenandoah.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1988 - Down In The Groove/10 Rank Strangers To Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/01 Political World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/02 Where Teardrops Fall.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/03 Everything Is Broken.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/04 Ring Them Bells.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/05 Man In The Long Black Coat.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/06 Most Of The Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/07 What Good Am I?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/08 Disease Of Conceit.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/09 What Was It You Wanted.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1989 - Oh Mercy/10 Shooting Star.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/01 Wiggle Wiggle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/02 Under The Red Sky.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/03 Unbelievable.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/04 Born In Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/05 T.V. Talkin' Song.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/06 10,000 Men.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/07 2 X 2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/08 God Knows.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/09 Handy Dandy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1990 - Under The Red Sky/10 Cat's In The Well.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/01 You Wanna Ramble.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/02 They Killed Him.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/03 Driftin' Too Far From Shore.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/04 Precious Memories.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/05 Maybe Someday.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/06 Brownsville Girl.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/07 Got My Mind Made Up.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1986 - Knocked Out Loaded/08 Under Your Spell.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/01 All The Tired Horses.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/02 Alberta #1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/03 I Forgot More Than You'll Ever Know.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/04 Days Of 49.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/05 Early Mornin' Rain.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/06 In Search Of Little Sadie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/07 Let It Be Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/08 Little Sadie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/09 Woogie Boogie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/10 Belle Isle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/11 Living The Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/12 Like A Rolling Stone (Live).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/13 Copper Kettle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/14 Gotta Travel On.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/15 Blue Moon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/16 The Boxer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/17 The Mighty Quinn (Quinn The Eskimo) (Live).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/18 Take Me As I Am (Or Let Me Go).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/19 Take A Message To Mary.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/20 It Hurts Me Too.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/21 Minstrel Boy (Live).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/22 She Belongs To Me (Live).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/23 Wigwam.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - Self Portrait/24 Alberta #2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/01 Frankie & Albert.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/02 Jim Jones.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/03 Blackjack Davey.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/04 Canadee-I-O.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/05 Sittin' On Top Of The World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/06 Little Maggie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/07 Hard Times.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/08 Step It Up And Go.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/09 Tomorrow Night.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/10 Arthur McBride.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/11 You're Gonna Quit Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/12 Diamond Joe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1992 - Good As I Been To You/13 Froggie Went A Courtin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/01 World Gone Wrong.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/02 Love Henry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/03 Ragged & Dirty.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/04 Blood In My Eyes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/05 Broke Down Engine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/06 Delia.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/07 Stack A Lee.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/08 Two Soldiers.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/09 Jack-A-Roe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1993 - World Gone Wrong/10 Lone Pilgrim.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/01 Love Sick.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/02 Dirt Road Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/03 Standing In The Doorway.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/04 Million Miles.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/05 Tryin' To Get To Heaven.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/06 'til I Fell In Love With You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/07 Not Dark Yet.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/08 Cold Irons Bound.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/09 Make You Feel My Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/10 Can't Wait.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1997 - Time Out Of Mind/11 Highlands.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1966 - Blonde On Blonde/01 Rainy Day Women #12 & 35.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1966 - Blonde On Blonde/02 Pledging My Time.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1966 - Blonde On Blonde/03 Visions Of Johanna.flac
@@ -197,6 +668,135 @@
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1966 - Blonde On Blonde/12 4th Time Around.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1966 - Blonde On Blonde/13 Obviously Five Believers.flac
 /home/wynand/wynZFS/Media/Audio/Music/Bob Dylan/1966 - Blonde On Blonde/14 Sad-Eyed Lady Of The Lowlands.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/01 Gotta Serve Somebody.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/02 Precious Angel.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/03 I Believe In You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/04 Slow Train.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/05 Gonna Change My Way Of Thinking.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/06 Do Right To Me Baby (Do Unto Others).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/07 When You Gonna Wake Up.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/08 Man Gave Names To All The Animals.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1979 - Slow Train Coming/09 When He Returns.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/01 On A Night Like This.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/02 Going, Going, Gone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/03 Tough Mama.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/04 Hazel.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/05 Something There Is About You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/06 Forever Young.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/07 Forever Young.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/08 Dirge.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/09 You Angel You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/10 Never Say Goodbye.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1974 - Planet Waves/11 Wedding Song.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/01 Thunder On The Mountain.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/02 Spirit On The Water.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/03 Rollin' And Tumblin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/04 When The Deal Goes Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/05 Someday Baby.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/06 Workingman's Blues #2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/07 Beyond The Horizon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/08 Nettie Moore.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/09 The Levee's Gonna Break.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2006 - Modern Times/10 Ain't Talkin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/01 If Not For You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/02 Day Of The Locusts.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/03 Time Passes Slowly.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/04 Went To See The Gypsy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/05 Winterlude.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/06 If Dogs Run Free.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/07 New Morning.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/08 Sign On The Window.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/09 One More Weekend.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/10 The Man In Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/11 Three Angels.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1970 - New Morning/12 Father Of Night.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/01 Beyond Here Lies Nothin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/02 Life Is Hard.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/03 My Wife's Home Town.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/04 If You Ever Go To Houston.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/05 Forgetful Heart.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/06 Jolene.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/07 This Dream Of You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/08 Shake Shake Mama.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/09 I Feel A Change Comin' On.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2009 - Together Through Life/10 It's All Good.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 1)/1-01 Tweedle Dee & Tweedle Dum.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 1)/1-02 Mississippi.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 1)/1-03 Summer Days.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 1)/1-04 Bye And Bye.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 1)/1-05 Lonesome Day Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 1)/1-06 Floater (Too Much To Ask).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 2)/2-01 High Water (For Charlie Patton).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 2)/2-02 Moonlight.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 2)/2-03 Honest With Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 2)/2-04 Po' Boy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 2)/2-05 Cry A While.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2001 - _Love And Theft_ (Disc 2)/2-06 Sugar Baby.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 1)/1-01 All I Really Want To Do.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 1)/1-02 Black Crow Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 1)/1-03 Spanish Harlem Incident.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 1)/1-04 Chimes Of Freedom.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 1)/1-05 I Shall Be Free No. 10.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 1)/1-06 To Ramona.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 2)/2-01 Motorpsycho Nitemare.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 2)/2-02 My Back Pages.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 2)/2-03 I Don't Believe You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 2)/2-04 Ballad In Plain D.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1964 - Another Side Of Bob Dylan (Disc 2)/2-05 It Ain't Me Babe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/01 Duquesne Whistle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/02 Soon After Midnight.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/03 Narrow Way.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/04 Long And Wasted Years.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/05 Pay In Blood.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/06 Scarlet Town.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/07 Early Roman Kings.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/08 Tin Angel.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/09 Tempest.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/2012 - Tempest/10 Roll On John.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/01 Hurricane.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/02 Isis.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/03 Mozambique.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/04 One More Cup Of Coffee.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/05 Oh, Sister.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/06 Joey.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/07 Romance In Durango.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/08 Black Diamond Bay.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan/1976 - Desire/09 Sara.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-01 Odds And Ends.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-02 Orange Juice Blues (Blues For Breakfast).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-03 Million Dollar Bash.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-04 Yazoo Street Scandal.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-05 Goin' To Acapulco.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-06 Katie's Been Gone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-07 Lo And Behold!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-08 Bessie Smith.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-09 Clothes Line Saga.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-10 Apple Suckling Tree.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-11 Please, Mrs. Henry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 1)/1-12 Tears Of Rage.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-01 Too Much Of Nothing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-02 Yea! Heavy And A Bottle Of Bread.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-03 Ain't No More Cane.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-04 Crash On The Levee (Down In The Flood).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-05 Ruben Remus.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-06 Tiny Montgomery.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-07 You Ain't Goin' Nowhere.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-08 Don't Ya Tell Henry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-09 Nothing Was Delivered.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-10 Open The Door, Homer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-11 Long Distance Operator.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bob Dylan & The Band/1975 - The Basement Tapes (Disc 2)/2-12 This Wheel's On Fire.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/01 A Minor Place.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/02 Nomadic Revery (All Around).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/03 I See A Darkness.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/04 Another Day Full Of Dread.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/05 Death To Everyone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/06 Knockturne.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/07 Madeleine-Mary.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/08 Song For The New Breed.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/09 Today I Was An Evil One.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/10 Black.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bonnie _Prince_ Billy/1999 - I See A Darkness/11 Raining In Darling.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Boogie Down Productions/1987 - Criminal Minded/01 Poetry.flac
 /home/wynand/wynZFS/Media/Audio/Music/Boogie Down Productions/1987 - Criminal Minded/02 South Bronx.flac
 /home/wynand/wynZFS/Media/Audio/Music/Boogie Down Productions/1987 - Criminal Minded/03 9mm Goes Bang.flac
@@ -207,6 +807,197 @@
 /home/wynand/wynZFS/Media/Audio/Music/Boogie Down Productions/1987 - Criminal Minded/08 The Bridge Is Over.flac
 /home/wynand/wynZFS/Media/Audio/Music/Boogie Down Productions/1987 - Criminal Minded/09 Super-Hoe.flac
 /home/wynand/wynZFS/Media/Audio/Music/Boogie Down Productions/1987 - Criminal Minded/10 Criminal Minded.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/01 My Philosophy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/02 Ya Slippin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/03 Stop The Violence.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/04 Illegal Business.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/05 Nervous.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/06 I'm Still #1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/07 Part Time Suckers.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/08 Jimmy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/09 T'cha - T'cha.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1988 - By All Means Necessary/10 Necessary.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/01 The Style You Haven't Done Yet.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/02 Why Is That?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/03 The Blueprint.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/04 Jack Of Spades.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/05 Jah Rulez.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/06 Breath Control.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/07 Who Protects Us From You?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/08 You Must Learn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/09 Hip Hop Rules.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/10 Bo! Bo! Bo!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/11 Gimme, Dat (Woy).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/12 Ghetto Music.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1989 - Ghetto Music_ The Blueprint Of Hip Hop/13 World Peace.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/01 Boogie Down Productions - Exhibit A.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/02 Boogie Down Productions - Blackman In Effect.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/03 Boogie Down Productions - Ya Know The Rules.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/04 Boogie Down Productions - Exhibit B.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/05 Boogie Down Productions - Beef.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/06 Boogie Down Productions - House Nigga's.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/07 Boogie Down Productions - Exhibit C.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/08 Boogie Down Productions - Love's Gonna Get Cha (Material Love).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/09 Boogie Down Productions - 100 Guns.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/10 Boogie Down Productions - Ya Strugglin' (Feat. Kwame Toure).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/11 Boogie Down Productions - Breath Control II.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/12 Boogie Down Productions - Exhibit D.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/13 Boogie Down Productions - Edutainment.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/14 Boogie Down Productions - The Homeless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/15 Boogie Down Productions - Exhibit E.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/16 Boogie Down Productions - The Kenny Parker Show.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/17 Boogie Down Productions - Original Lyrics (Feat. Special "K").mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/18 Boogie Down Productions - The Racist.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/19 Boogie Down Productions - 7 Dee Jays.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/20 Boogie Down Productions - 30 Cops Or More.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1990 - Edutainment/21 Boogie Down Productions - Exhibit F.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/01 KRS-One Intro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/02 Lick A Shot.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/03 The Eye Opener.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/04 Jack Of Spades.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/05 My Philosophy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/06 Still #1 (Freestyle).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/07 Poetry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/08 House Nigga's.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/09 Criminal Minded.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/10 Jimmy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/11 The Bridge Is Over.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/12 Ya Know The Rules.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/13 Kenny Parker Intro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/14 South Bronx.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/15 Reggae Medley (Includes 9mm).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/16 Super Hoe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/17 Up To Date.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/18 Why Is That.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/19 Stop The Violence.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/20 Bo Bo Bo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/21 Come To The Teacher.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/22 Breath Control.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/23 Self Destruction.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1991 - Live Hardcore Worldwide/24 [untitled].mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/01 Boogie Down Productions - The Original Way.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/02 Boogie Down Productions - Duck Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/03 Boogie Down Productions - Drug Dealer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/04 Boogie Down Productions - Like A Throttle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/05 Boogie Down Productions - Build And Destroy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/06 Boogie Down Productions - Ruff Ruff (Feat. Freddie Foxxx).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/07 Boogie Down Productions - 13 And Good.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/08 Boogie Down Productions - Poisonous Products.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/09 Boogie Down Productions - Questions And Answers.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/10 Boogie Down Productions - Say Gal.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/11 Boogie Down Productions - We In There.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/12 Boogie Down Productions - Sex And Violence.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/13 Boogie Down Productions - How Not To Get Jerked.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/14 Boogie Down Productions - Who Are The Pimps?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Boogie Down Productions/1992 - Sex And Violence/15 Boogie Down Productions - The Real Holy Place.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/00 [voices].mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/01 Sowing Season.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/02 Millstone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/03 Jesus.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/04 Degausser.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/05 Limousine (MS Rebridge).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/06 You Won't Know.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/07 Welcome To Bangkok.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/08 Not The Sun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/09 Luca.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/10 [untitled].mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/11 The Archers Bows Have Broken.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Brand New/2006 - The Devil And God Are Raging Inside Me/12 Handcuffs.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/01 At The Bottom Of Everything.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/02 We Are Nowhere And It's Now.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/03 Old Soul Song (For The New World Order).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/04 Lua.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/05 Train Under Water.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/06 First Day Of My Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/07 Another Travelin' Song.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/08 Land Locked Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/09 Poison Oak.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Bright Eyes/2005 - I'm Wide Awake, It's Morning/10 Road To Joy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/01 Comanche.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/02 Ruby Sees All.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/03 Up So Close.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/04 Pentagram.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/05 Jolene.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/06 Haze Of Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/07 You Part The Waters.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/08 Is This Love?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/09 Jesus Wrote A Blank Check.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/10 Rock 'N' Roll Lifestyle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/11 I Bombed Korea.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/12 Mr. Mastodon Farm.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1994 - Motorcade Of Generosity/13 Ain't No Good.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/01 Frank Sinatra.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/02 The Distance.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/03 Friend Is A Four Letter Word.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/04 Open Book.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/05 Daria.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/06 Race Car Ya-Yas.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/07 I Will Survive.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/08 Stickshifts And Safetybelts.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/09 Perhaps, Perhaps, Perhaps.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/10 It's Coming Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/11 Nugget.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/12 She'll Come Back To Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/13 Italian Leather Sofa.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1996 - Fashion Nugget/14 Sad Songs And Waltzes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/01 Satan Is My Motor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/02 Mexico.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/03 Never There.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/04 Guitar.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/05 You Turn The Screws.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/06 Walk On By.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/07 Sheep Go To Heaven.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/08 When You Sleep.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/09 Hem Of Your Garment.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/10 Alpha Beta Parking Lot.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/11 Let Me Go.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/12 Cool Blue Reason.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/1998 - Prolonging The Magic/13 Where Would I Be?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/01 Opera Singer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/02 Meanwhile, Rick James....mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/03 Shadow Stabbing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/04 Short Skirt_Long Jacket.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/05 Commissioning A Symphony In C.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/06 Arco Arena.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/07 Comfort Eagle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/08 Long Line Of Cars.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/09 Love You Madly.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/10 Pretty Pink Ribbon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2001 - Comfort Eagle/11 World Of Two.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/01 Wheels.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/02 No Phone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/03 Take It All Away.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/04 Dime.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/05 Carbon Monoxide.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/06 The Guitar Man.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/07 Waiting.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/08 She'll Hang The Baskets.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/09 End Of The Movie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/10 Palm Of Your Hand.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2004 - Pressure Chief/11 Tougher Than It Is.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/01 CAKE - War Pigs.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/02 CAKE - Ruby, Don't Take Your Love To Town.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/03 CAKE - Mahna, Mahna.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/04 CAKE - Excuse Me, I Think I've Got A Heartache.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/05 CAKE - Conroy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/06 CAKE - Strangers In The Night.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/07 CAKE - Multiply The Heartaches.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/08 CAKE - Never, Never Gonna Give You Up.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/09 CAKE - Thrills.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/10 CAKE - Short Skirt, Long Jacket (Live).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/11 CAKE - It's Coming Down (Live).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2007 - B-Sides And Rarities/12 CAKE - War Pigs (Live) (Feat. Steven Drozd).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/01 Federal Funding.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/02 Long Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/03 Got To Move.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/04 What's Now Is Now.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/05 Mustache Man (Wasted).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/06 Teenage Pregnancy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/07 Sick Of You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/08 Easy To Crash.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/09 Bound Away.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/10 The Winter.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/CAKE/2011 - Showroom Of Compassion/11 Italian Guy.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2011 - Camp/01 Outside.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2011 - Camp/02 Fire Fly.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2011 - Camp/03 Bonfire.flac
@@ -224,7 +1015,7 @@
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/02 Childish Gambino - I. Crawl.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/03 Childish Gambino - II. Worldstar.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/04 Childish Gambino - Dial Up.flac
-/home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/05 Childish Gambino Feat. Chance The Rapper - I. The Worst Guys.flac
+/home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/05 Childish Gambino - I. The Worst Guys (Feat. Chance The Rapper).flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/06 Childish Gambino - II. Shadows.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/07 Childish Gambino - III. Telegraph Ave. ("Oakland" By Lloyd).flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/08 Childish Gambino - IV. Sweatpants.flac
@@ -236,8 +1027,8 @@
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/14 Childish Gambino - I. Flight Of The Navigator.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/15 Childish Gambino - II. Zealots Of Stockholm (Free Information).flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/16 Childish Gambino - III. Urn.flac
-/home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/17 Childish Gambino Feat. Jhene Aiko - Pink Toes.flac
-/home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/18 Childish Gambino Feat. Azealia Banks - Earth: The Oldest Computer (The Last Night).flac
+/home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/17 Childish Gambino - Pink Toes (Feat. Jhene Aiko).flac
+/home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/18 Childish Gambino - Earth: The Oldest Computer (The Last Night) (Feat. Azealia Banks).flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2013 - Because The Internet/19 Childish Gambino - Life: The Biggest Troll (Andrew Auernheimer).flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2016 - _Awaken, My Love!_/01 Me And Your Mama.flac
 /home/wynand/wynZFS/Media/Audio/Music/Childish Gambino/2016 - _Awaken, My Love!_/02 Have Some Love.flac
@@ -297,6 +1088,55 @@
 /home/wynand/wynZFS/Media/Audio/Music/Cog/2010 - The Sound Of Three_ 12 Years With You/11 What If.flac
 /home/wynand/wynZFS/Media/Audio/Music/Cog/2010 - The Sound Of Three_ 12 Years With You/12 Bird Of Feather.flac
 /home/wynand/wynZFS/Media/Audio/Music/Cog/2010 - The Sound Of Three_ 12 Years With You/13 Problem Reaction Solution.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-01 David Bowie - Space Oddity.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-02 David Bowie - The Man Who Sold The World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-03 David Bowie - Changes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-04 David Bowie - Life On Mars?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-05 David Bowie - Moonage Daydream.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-06 David Bowie - Suffragette City.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-07 David Bowie - Ziggy Stardust.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-08 David Bowie - All The Young Dudes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-09 David Bowie - The Jean Genie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-10 David Bowie - Panic In Detroit.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-11 David Bowie - Rebel Rebel.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-12 David Bowie - Diamond Dogs.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-13 David Bowie - Young Americans.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-14 David Bowie - Fame.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-15 David Bowie - Golden Years.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-16 David Bowie - TVC15.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-17 David Bowie - Sound And Vision.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-18 David Bowie - "Heroes".mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 1)/1-19 David Bowie - D.J..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-01 David Bowie - Ashes To Ashes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-02 David Bowie - Fashion.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-03 David Bowie - Scary Monsters (And Super Creeps).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-04 Queen & David Bowie - Under Pressure.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-05 David Bowie - Cat People (Putting Out Fire).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-06 David Bowie - Let's Dance.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-07 David Bowie - China Girl.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-08 David Bowie - Modern Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-09 David Bowie - Blue Jean.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-10 David Bowie & Pat Metheny Group - This Is Not America.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-11 David Bowie & Mick Jagger - Dancing In The Street.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-12 David Bowie - Absolute Beginners.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-13 David Bowie - Time Will Crawl.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-14 Tin Machine - Under The God.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-15 David Bowie - Jump They Say.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-16 David Bowie - The Hearts Filthy Lesson.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-17 David Bowie - I'm Afraid Of Americans (V1).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-18 David Bowie - Thursday's Child.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/2002 - Best Of Bowie (Disc 2)/2-19 David Bowie - Slow Burn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/01 Five Years.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/02 Soul Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/03 Moonage Daydream.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/04 Starman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/05 It Ain't Easy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/06 Lady Stardust.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/07 Star.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/08 Hang On To Yourself.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/09 Ziggy Stardust.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/10 Suffragette City.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/David Bowie/1972 - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars/11 Rock 'N' Roll Suicide.mp3
 /home/wynand/wynZFS/Media/Audio/Music/David Bowie/2016 - Legacy (Disc 1)/1-01 David Bowie - Space Oddity.flac
 /home/wynand/wynZFS/Media/Audio/Music/David Bowie/2016 - Legacy (Disc 1)/1-02 David Bowie - The Man Who Sold The World.flac
 /home/wynand/wynZFS/Media/Audio/Music/David Bowie/2016 - Legacy (Disc 1)/1-03 David Bowie - Changes.flac
@@ -358,22 +1198,175 @@
 /home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2000 - Deltron 3030/19 Love Story.flac
 /home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2000 - Deltron 3030/20 Memory Loss.flac
 /home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2000 - Deltron 3030/21 The Assman 640 Speaks.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/01 Deltron 3030 Feat. Joseph Gordon-Levitt - Stardate.flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/01 Deltron 3030 - Stardate (Feat. Joseph Gordon-Levitt).flac
 /home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/02 Deltron 3030 - The Return.flac
 /home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/03 Deltron 3030 - Pay The Price.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/04 Deltron 3030 Feat. Aaron Bruno - Nobody Can.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/05 Deltron 3030 Feat. David Cross & Amber Tamblyn - Lawnchair Quarterback, Part 1.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/06 Deltron 3030 Feat. Zack De La Rocha - Melding Of The Minds.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/07 Deltron 3030 Feat. Mary Elizabeth Winstead - The Agony.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/08 Deltron 3030 Feat. The Lonely Island - Back In The Day.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/09 Deltron 3030 Feat. Black Rob - Talent Supersedes.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/10 Deltron 3030 Feat. Mary Elizabeth Winstead - Look Across The Sky.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/11 Deltron 3030 Feat. David Chang - The Future Of Food.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/12 Deltron 3030 Feat. Damon Albarn & Casual - What Is This Loneliness.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/13 Deltron 3030 Feat. Emily Wells - My Only Love.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/14 Deltron 3030 Feat. David Cross & Amber Tamblyn - Lawnchair Quarterback, Part 2.flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/04 Deltron 3030 - Nobody Can (Feat. Aaron Bruno).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/05 Deltron 3030 - Lawnchair Quarterback, Part 1 (Feat. David Cross & Amber Tamblyn).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/06 Deltron 3030 - Melding Of The Minds (Feat. Zack De La Rocha).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/07 Deltron 3030 - The Agony (Feat. Mary Elizabeth Winstead).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/08 Deltron 3030 - Back In The Day (Feat. The Lonely Island).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/09 Deltron 3030 - Talent Supersedes (Feat. Black Rob).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/10 Deltron 3030 - Look Across The Sky (Feat. Mary Elizabeth Winstead).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/11 Deltron 3030 - The Future Of Food (Feat. David Chang).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/12 Deltron 3030 - What Is This Loneliness (Feat. Damon Albarn & Casual).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/13 Deltron 3030 - My Only Love (Feat. Emily Wells).flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/14 Deltron 3030 - Lawnchair Quarterback, Part 2 (Feat. David Cross & Amber Tamblyn).flac
 /home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/15 Deltron 3030 - City Rising From The Ashes.flac
-/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/16 Deltron 3030 Feat. Jamie Cullum - Do You Remember.flac
+/home/wynand/wynZFS/Media/Audio/Music/Deltron 3030/2013 - Event 2/16 Deltron 3030 - Do You Remember (Feat. Jamie Cullum).flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/01 Foux Du Fafa.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/02 Inner City Pressure.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/03 Hiphopopotamus Vs. Rhymenoceros (Feat. Rhymenoceros And The Hiphopopotamus).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/04 Think About It.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/05 Ladies Of The World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/06 Mutha'Uckas.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/07 The Prince Of Parties.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/08 Leggy Blonde (Feat. Rhys Darby).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/09 Robots.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/10 Boom.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/11 A Kiss Is Not A Contract.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/12 The Most Beautiful Girl (In The Room).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/13 Business Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/14 Bowie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2008 - Flight Of The Conchords/15 Au Revoir.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/01 Hurt Feelings.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/02 Sugalumps.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/03 We're Both In Love With A Sexy Lady.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/04 I Told You I Was Freaky.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/05 Demon Woman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/06 Rambling Through The Avenues Of Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/07 Fashion Is Danger.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/08 Petrov, Yelyena, And Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/09 Too Many Dicks (On The Dance Floor).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/10 You Don't Have To Be A Prostitute.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/11 Friends.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/12 Carol Brown.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Flight Of The Conchords/2009 - I Told You I Was Freaky/13 Angels.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/01 Deathless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/02 Narke.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/03 Spirals.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/04 Piano.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/05 Sugar.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/06 Breaking To Breathe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/07 Xtoto.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/08 Bezhumous.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/09 Short Cuts To Feeling.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/10 The Beautiful Fall.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Floating Me/2011 - Floating Me/11 Across The Gulf.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/01 This Is A Call.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/02 I'll Stick Around.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/03 Big Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/04 Alone + Easy Target.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/05 Good Grief.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/06 Floaty.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/07 Weenie Beenie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/08 Oh, George.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/09 For All The Cows.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/10 X-Static.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/11 Wattershed.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1995 - Foo Fighters/12 Exhausted.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-01 Doll.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-02 Monkey Wrench.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-03 Hey, Johnny Park!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-04 My Poor Brain.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-05 Wind Up.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-06 Up In Arms.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-07 My Hero.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-08 See You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-09 Enough Space.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-10 February Stars.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-11 Everlong.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-12 Walking After You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 1)/1-13 New Way Home.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 2)/2-01 Requiem.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 2)/2-02 Drive Me Wild.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 2)/2-03 Down In The Park.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1997 - The Colour And The Shape (Disc 2)/2-04 Baker Street.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/01 All My Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/02 Low.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/03 Have It All.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/04 Times Like These.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/05 Disenchanted Lullaby.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/06 Tired Of You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/07 Halo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/08 Lonely As You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/09 Overdrive.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/10 Burn Away.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2002 - One By One/11 Come Back.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-01 In Your Honour.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-02 No Way Back.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-03 Best Of You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-04 DOA.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-05 Hell.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-06 The Last Song.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-07 Free Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-08 Resolve.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-09 The Deepest Blues Are Black.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-10 End Over End.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 1)/1-11 The Sign.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-01 Still.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-02 What If I Do?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-03 Miracle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-04 Another Round.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-05 Friend Of A Friend.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-06 Over And Out.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-07 On The Mend.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-08 Virginia Moon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-09 Cold Day In The Sun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2005 - In Your Honour (Disc 2)/2-10 Razor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/01 The Pretender.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/02 Let It Die.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/03 Erase_Replace.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/04 Long Road To Ruin.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/05 Come Alive.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/06 Stranger Things Have Happened.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/07 Cheer Up, Boys (Your Make Up Is Running).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/08 Summer's End.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/09 Ballad Of The Beaconsfield Miners.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/10 Statues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/11 But, Honestly.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/12 Home.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2007 - Echoes, Silence, Patience & Grace/13 Once & For All (Demo).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/01 Stacked Actors.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/02 Breakout.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/03 Learn To Fly.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/04 Gimme Stitches.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/05 Generator.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/06 Aurora.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/07 Live-In Skin.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/08 Next Year.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/09 Headwires.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/10 Ain't It The Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/11 M.I.A..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/1999 - There Is Nothing Left To Lose/12 Fraternity.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/01 Bridge Burning.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/02 Rope.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/03 Dear Rosemary.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/04 White Limo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/05 Arlandria.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/06 These Days.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/07 Back & Forth.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/08 A Matter Of Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/09 Miss The Misery.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/10 I Should Have Known.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Foo Fighters/2011 - Wasting Light/11 Walk.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/01 Ghostface Killah - Iron Maiden (Feat. Raekwon & Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/02 Ghostface Killah - Wildflower.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/03 Ghostface Killah - The Faster Blade (Feat. Raekwon).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/04 Ghostface Killah - 260 (Feat. Raekwon).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/05 Ghostface Killah - Assassination Day (Feat. Raekwon, RZA & Inspectah Deck).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/06 Ghostface Killah - Poisonous Darts.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/07 Ghostface Killah - Winter Warz (Feat. Cappadonna, U-God & Masta Killa).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/08 Ghostface Killah - Box In Hand (Feat. Method Man & Streetlife).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/09 Ghostface Killah - Fish (Feat. Raekwon & Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/10 Ghostface Killah - Camay (Feat. Raekwon & Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/11 Ghostface Killah - Daytona 500 (Feat. Raekwon & Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/12 Ghostface Killah - Motherless Child (Feat. Raekwon).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/13 Ghostface Killah - Black Jesus (Feat. Raekwon & U-God).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/14 Ghostface Killah - After The Smoke Is Clear (Feat. The Delfonics).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/15 Ghostface Killah - All That I Got Is You (Feat. Mary J. Blige).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/16 Ghostface Killah - The Soul Controller (Feat. Force MD's).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ghostface Killah/1996 - Ironman/17 Ghostface Killah - Marvel.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Godspeed You Black Emperor!/1997 - F♯ A♯ ∞/01 Nervous, Sad, Poor....flac
 /home/wynand/wynZFS/Media/Audio/Music/Godspeed You Black Emperor!/1997 - F♯ A♯ ∞/02 Bleak, Uncertain, Beautiful....flac
 /home/wynand/wynZFS/Media/Audio/Music/Godspeed You Black Emperor!/1997 - F♯ A♯ ∞/01 The Dead Flag Blues.flac
@@ -445,72 +1438,210 @@
 /home/wynand/wynZFS/Media/Audio/Music/Grinderman/2010 - Grinderman 2/07 Kitchenette.flac
 /home/wynand/wynZFS/Media/Audio/Music/Grinderman/2010 - Grinderman 2/08 Palaces Of Montezuma.flac
 /home/wynand/wynZFS/Media/Audio/Music/Grinderman/2010 - Grinderman 2/09 Bellringer Blues.flac
-/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/01 JAY-Z & Kanye West Feat. Frank Ocean - No Church In The Wild.flac
-/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/02 JAY-Z & Kanye West Feat. Beyonce - Lift Off.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/01 GZA_Genius - Liquid Swords.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/02 GZA_Genius - Duel Of The Iron Mic (Feat. Ol' Dirty Bastard, Masta Killa & Inspectah Deck).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/03 GZA_Genius - Living In The World Today.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/04 GZA_Genius - Gold.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/05 GZA_Genius - Cold World (Feat. Inspectah Deck).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/06 GZA_Genius - Labels.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/07 GZA_Genius - 4th Chamber (Feat. Ghostface Killah, Killah Priest & RZA).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/08 GZA_Genius - Shadowboxin' (Feat. Method Man).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/09 GZA_Genius - Killah Hills 10304.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/10 GZA_Genius - Investigative Reports (Feat. U-God, Raekwon & Ghostface Killah).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/11 GZA_Genius - Swordsman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/12 GZA_Genius - I Gotcha Back.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Genius_GZA/1995 - Liquid Swords/13 GZA_Genius - B.I.B.L.E. (Basic Instructions Before Leaving Earth).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/01 Hilltop Hoods - The Hard Road Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/02 Hilltop Hoods - Stopping All Stations Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/03 Hilltop Hoods - Conversations From A Speakeasy Restrung (Feat. Okwerdz & Omni).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/04 Hilltop Hoods - An Audience With The Devil Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/05 Hilltop Hoods - Monsters Ball Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/06 Hilltop Hoods - Breathe Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/07 Hilltop Hoods - Another Great Intro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/08 Hilltop Hoods - What A Great Night Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/09 Hilltop Hoods - Obese Lowlifes Restrung (Feat. Mystro & Braintax).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/10 Hilltop Hoods - City Of Light Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/11 Hilltop Hoods - Clown Prince Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/12 Hilltop Hoods - The Captured Vibe Restrung (Medley) (Feat. DJ Reflux).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/13 Hilltop Hoods - Recapturing The Vibe Restrung (Medley).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Hilltop Hoods/2007 - The Hard Road_ Restrung/14 Hilltop Hoods - Roll On Up Restrung.mp3
+/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/01 JAY-Z & Kanye West - No Church In The Wild (Feat. Frank Ocean).flac
+/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/02 JAY-Z & Kanye West - Lift Off (Feat. Beyonce).flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/03 JAY-Z & Kanye West - Niggas In Paris.flac
-/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/04 JAY-Z & Kanye West Feat. Otis Redding - Otis.flac
+/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/04 JAY-Z & Kanye West - Otis (Feat. Otis Redding).flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/05 JAY-Z & Kanye West - Gotta Have It.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/06 JAY-Z & Kanye West - New Day.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/07 JAY-Z & Kanye West - That's My Bitch.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/08 JAY-Z & Kanye West - Welcome To The Jungle.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/09 JAY-Z & Kanye West - Who Gon Stop Me.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/10 JAY-Z & Kanye West - Murder To Excellence.flac
-/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/11 JAY-Z & Kanye West Feat. Frank Ocean - Made In America.flac
-/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/12 JAY-Z & Kanye West Feat. Mr Hudson - Why I Love You.flac
+/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/11 JAY-Z & Kanye West - Made In America (Feat. Frank Ocean).flac
+/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/12 JAY-Z & Kanye West - Why I Love You (Feat. Mr Hudson).flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/13 JAY-Z & Kanye West - Illest Motherfucker Alive.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/14 JAY-Z & Kanye West - H_A_M.flac
 /home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/15 JAY-Z & Kanye West - Primetime.flac
-/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/16 JAY-Z & Kanye West Feat. Curtis Mayfield - The Joy.flac
+/home/wynand/wynZFS/Media/Audio/Music/Jay-Z & Kanye West/2011 - Watch The Throne/16 JAY-Z & Kanye West - The Joy (Feat. Curtis Mayfield).flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/01 Delia's Gone.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/02 Let The Train Blow The Whistle.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/03 The Beast In Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/04 Drive On.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/05 Why Me Lord.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/06 Thirteen.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/07 Oh, Bury Me Not (Introduction: A Cowboy's Prayer).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/08 Bird On A Wire.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/09 Tennessee Stud.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/10 Down There By The Train.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/11 Redemption.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/12 Like A Soldier.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1994 - American Recordings/13 The Man Who Couldn't Cry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/01 The Man Comes Around.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/02 Hurt.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/03 Give My Love To Rose.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/04 Bridge Over Troubled Water.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/05 I Hung My Head.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/06 First Time Ever I Saw Your Face.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/07 Personal Jesus.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/08 In My Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/09 Sam Hall.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/10 Danny Boy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/11 Desperado.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/12 I'm So Lonesome I Could Cry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/13 Tear Stained Letter.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/14 Streets Of Laredo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2002 - American IV_ The Man Comes Around/15 We'll Meet Again.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/01 Rowboat.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/02 Sea Of Heartbreak.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/03 Rusty Cage.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/04 The One Rose (That's Left In My Heart).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/05 Country Boy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/06 Memories Are Made Of This.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/07 Spiritual.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/08 The Kneeling Drunkard's Plea.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/09 Southern Accents.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/10 Mean Eyed Cat.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/11 Meet Me In Heaven.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/12 I Never Picked Cotton.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/13 Unchained.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/1996 - Unchained/14 I've Been Everywhere.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/01 Help Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/02 God's Gonna Cut You Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/03 Like The 309.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/04 If You Could Read My Mind.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/05 Further On Up The Road.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/06 On The Evening Train.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/07 I Came To Believe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/08 Love's Been Good To Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/09 A Legend In My Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/10 Rose Of My Heart.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/11 Four Strong Winds.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2006 - American V_ A Hundred Highways/12 I'm Free From The Chain Gang Now.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/01 I Won't Back Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/02 Solitary Man.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/03 That Lucky Old Sun (Just Rolls Around Heaven All Day).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/04 One.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/05 Nobody.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/06 I See A Darkness.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/07 The Mercy Seat.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/08 Would You Lay With Me (In A Field Of Stone).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/09 Field Of Diamonds.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/10 Before My Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/11 Country Trash.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/12 Mary Of The Wild Moor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/13 I'm Leavin' Now.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2000 - American III_ Solitary Man/14 Wayfaring Stranger.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/01 Ain't No Grave.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/02 Redemption Day.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/03 For The Good Times.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/04 I Corinthians 15:55.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/05 Can't Help But Wonder Where I'm Bound.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/06 Satisfied Mind.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/07 I Don't Hurt Anymore.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/08 Cool Water.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/09 Last Night I Had The Strangest Dream.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Johnny Cash/2010 - American VI_ Ain't No Grave/10 Aloha Oe.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/01 Kanye West - Intro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/02 Kanye West - We Don't Care.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/03 Kanye West - Graduation Day.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/04 Kanye West - All Falls Down (Feat. Syleena Johnson).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/05 Kanye West - I'll Fly Away.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/06 Kanye West - Spaceship (Feat. GLC & Consequence).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/07 Kanye West - Jesus Walks.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/08 Kanye West - Never Let Me Down (Feat. JAY-Z & J. Ivy).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/09 Kanye West - Get Em High (Feat. Talib Kweli & Common).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/10 Kanye West - Workout Plan.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/11 Kanye West - The New Workout Plan.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/12 Kanye West - Slow Jamz (Feat. Twista & Jamie Foxx).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/13 Kanye West - Breathe In Breathe Out (Feat. Ludacris).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/14 Kanye West - School Spirit (Skit 1).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/15 Kanye West - School Spirit.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/16 Kanye West - School Spirit (Skit 2).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/17 Kanye West - Lil Jimmy (Skit).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/18 Kanye West - Two Words (Feat. Mos Def, Freeway & The Boys Choir Of Harlem).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/19 Kanye West - Through The Wire.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/20 Kanye West - Family Business.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2003 - The College Dropout/21 Kanye West - Last Call.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/01 Kanye West - Wake Up Mr. West.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/02 Kanye West Feat. Adam Levine - Heard 'Em Say.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/03 Kanye West Feat. Lupe Fiasco - Touch The Sky.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/04 Kanye West Feat. Jamie Foxx - Gold Digger.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/02 Kanye West - Heard 'Em Say (Feat. Adam Levine).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/03 Kanye West - Touch The Sky (Feat. Lupe Fiasco).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/04 Kanye West - Gold Digger (Feat. Jamie Foxx).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/05 Kanye West - Skit #1.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/06 Kanye West Feat. Paul Wall & GLC - Drive Slow.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/07 Kanye West Feat. Common - My Way Home.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/08 Kanye West Feat. The Game - Crack Music.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/06 Kanye West - Drive Slow (Feat. Paul Wall & GLC).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/07 Kanye West - My Way Home (Feat. Common).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/08 Kanye West - Crack Music (Feat. The Game).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/09 Kanye West - Roses.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/10 Kanye West Feat. Brandy - Bring Me Down.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/10 Kanye West - Bring Me Down (Feat. Brandy).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/11 Kanye West - Addiction.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/12 Kanye West - Skit #2.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/13 Kanye West Feat. JAY-Z - Diamonds From Sierra Leone (Remix).flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/14 Kanye West Feat. Nas & Really Doe - We Major.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/13 Kanye West - Diamonds From Sierra Leone (Remix) (Feat. JAY-Z).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/14 Kanye West - We Major (Feat. Nas & Really Doe).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/15 Kanye West - Skit #3.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/16 Kanye West - Hey Mama.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/17 Kanye West - Celebration.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/18 Kanye West - Skit #4.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/19 Kanye West Feat. Consequence & Cam'ron - Gone.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/19 Kanye West - Gone (Feat. Consequence & Cam'ron).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/20 Kanye West - Diamonds From Sierra Leone.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2005 - Late Registration/21 Kanye West - Late.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/01 Kanye West - Good Morning.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/02 Kanye West - Champion.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/03 Kanye West - Stronger.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/04 Kanye West - I Wonder.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/05 Kanye West Feat. T-Pain - Good Life.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/05 Kanye West - Good Life (Feat. T-Pain).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/06 Kanye West - Can't Tell Me Nothing.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/07 Kanye West Feat. Lil Wayne - Barry Bonds.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/08 Kanye West Feat. Mos Def - Drunk And Hot Girls.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/09 Kanye West Feat. Dwele - Flashing Lights.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/10 Kanye West Feat. DJ Premier - Everything I Am.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/07 Kanye West - Barry Bonds (Feat. Lil Wayne).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/08 Kanye West - Drunk And Hot Girls (Feat. Mos Def).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/09 Kanye West - Flashing Lights (Feat. Dwele).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/10 Kanye West - Everything I Am (Feat. DJ Premier).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/11 Kanye West - The Glory.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/12 Kanye West Feat. Chris Martin - Homecoming.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/12 Kanye West - Homecoming (Feat. Chris Martin).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2007 - Graduation/13 Kanye West - Big Brother.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 1)/1-01 Kanye West - Say You Will.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 1)/1-02 Kanye West - Welcome To Heartbreak (Feat. Kid Cudi).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 1)/1-03 Kanye West - Heartless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 1)/1-04 Kanye West - Amazing (Feat. Young Jeezy).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 1)/1-05 Kanye West - Love Lockdown.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 1)/1-06 Kanye West - Paranoid (Feat. Mr Hudson).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 2)/2-01 Kanye West - RoboCop.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 2)/2-02 Kanye West - Street Lights.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 2)/2-03 Kanye West - Bad News.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 2)/2-04 Kanye West - See You In My Nightmares (Feat. Lil Wayne).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 2)/2-05 Kanye West - Coldest Winter.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Kanye West/2008 - 808s & Heartbreak (Disc 2)/2-06 Kanye West - Pinocchio Story (Freestyle Live From Singapore).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/01 Kanye West - Dark Fantasy.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/02 Kanye West Feat. Kid Cudi & Raekwon - Gorgeous.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/02 Kanye West - Gorgeous (Feat. Kid Cudi & Raekwon).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/03 Kanye West - Power.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/04 Kanye West - All Of The Lights (Interlude).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/05 Kanye West - All Of The Lights.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/06 Kanye West Feat. JAY-Z, Rick Ross, Nicki Minaj & Bon Iver - Monster.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/07 Kanye West Feat. JAY-Z, Pusha T, Cyhi The Prynce, Swizz Beatz & RZA - So Appalled.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/08 Kanye West Feat. Rick Ross - Devil In A New Dress.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/09 Kanye West Feat. Pusha T - Runaway.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/06 Kanye West - Monster (Feat. JAY-Z, Rick Ross, Nicki Minaj & Bon Iver).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/07 Kanye West - So Appalled (Feat. JAY-Z, Pusha T, Cyhi The Prynce, Swizz Beatz & RZA).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/08 Kanye West - Devil In A New Dress (Feat. Rick Ross).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/09 Kanye West - Runaway (Feat. Pusha T).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/10 Kanye West - Hell Of A Life.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/11 Kanye West Feat. John Legend - Blame Game.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/12 Kanye West Feat. Bon Iver - Lost In The World.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/11 Kanye West - Blame Game (Feat. John Legend).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/12 Kanye West - Lost In The World (Feat. Bon Iver).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2010 - My Beautiful Dark Twisted Fantasy/13 Kanye West - Who Will Survive In America.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/01 Kanye West - On Sight.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/02 Kanye West - Black Skinhead.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/03 Kanye West Feat. [Unknown] - I Am A God.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/03 Kanye West - I Am A God (Feat. [Unknown]).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/04 Kanye West - New Slaves.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/05 Kanye West - Hold My Liquor.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/06 Kanye West - I'm In It.flac
@@ -518,24 +1649,24 @@
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/08 Kanye West - Guilt Trip.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/09 Kanye West - Send It Up.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2013 - Yeezus/10 Kanye West - Bound 2.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/01 Kanye West Feat. Chance The Rapper & Kirk Franklin - Ultralight Beam.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/02 Kanye West Feat. Kid Cudi - Father Stretch My Hands, Pt. 1.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/03 Kanye West Feat. Desiigner - Pt. 2.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/04 Kanye West Feat. Rihanna - Famous.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/01 Kanye West - Ultralight Beam (Feat. Chance The Rapper & Kirk Franklin).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/02 Kanye West - Father Stretch My Hands, Pt. 1 (Feat. Kid Cudi).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/03 Kanye West - Pt. 2 (Feat. Desiigner).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/04 Kanye West - Famous (Feat. Rihanna).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/05 Kanye West - Feedback.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/06 Kanye West - Low Lights.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/07 Kanye West Feat. Young Thug - Highlights.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/08 Kanye West Feat. Desiigner - Freestyle 4.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/07 Kanye West - Highlights (Feat. Young Thug).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/08 Kanye West - Freestyle 4 (Feat. Desiigner).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/09 Kanye West - I Love Kanye.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/10 Kanye West Feat. Chris Brown - Waves.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/11 Kanye West Feat. The Weeknd - FML.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/12 Kanye West Feat. Ty Dolla $ign - Real Friends.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/13 Kanye West Feat. Frank Ocean & Caroline Shaw - Wolves.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/10 Kanye West - Waves (Feat. Chris Brown).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/11 Kanye West - FML (Feat. The Weeknd).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/12 Kanye West - Real Friends (Feat. Ty Dolla $ign).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/13 Kanye West - Wolves (Feat. Frank Ocean & Caroline Shaw).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/14 Kanye West - Siiiiiiiiilver Surffffeeeeer Intermission.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/15 Kanye West - 30 Hours.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/16 Kanye West Feat. Kendrick Lamar - No More Parties In LA.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/16 Kanye West - No More Parties In LA (Feat. Kendrick Lamar).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/17 Kanye West - Facts (Charlie Heat Version).flac
-/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/18 Kanye West Feat. Post Malone & Ty Dolla $ign - Fade.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kanye West/2016 - The Life Of Pablo/18 Kanye West - Fade (Feat. Post Malone & Ty Dolla $ign).flac
 /home/wynand/wynZFS/Media/Audio/Music/Karnivool/2005 - Themata/01 C.O.T.E..flac
 /home/wynand/wynZFS/Media/Audio/Music/Karnivool/2005 - Themata/02 Themata.flac
 /home/wynand/wynZFS/Media/Audio/Music/Karnivool/2005 - Themata/03 Shutterspeed.flac
@@ -589,30 +1720,30 @@
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-02 Kendrick Lamar - Bitch, Don't Kill My Vibe.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-03 Kendrick Lamar - Backseat Freestyle.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-04 Kendrick Lamar - The Art Of Peer Pressure.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-05 Kendrick Lamar Feat. Jay Rock - Money Trees.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-06 Kendrick Lamar Feat. Drake - Poetic Justice.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-05 Kendrick Lamar - Money Trees (Feat. Jay Rock).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-06 Kendrick Lamar - Poetic Justice (Feat. Drake).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-07 Kendrick Lamar - Good Kid.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-08 Kendrick Lamar Feat. MC Eiht - M.A.A.D City.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-08 Kendrick Lamar - M.A.A.D City (Feat. MC Eiht).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-09 Kendrick Lamar - Swimming Pools (Drank).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-10 Kendrick Lamar - Sing About Me, I'm Dying Of Thirst.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-11 Kendrick Lamar Feat. Anna Wise - Real.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-12 Kendrick Lamar Feat. Dr. Dre - Compton.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-01 Kendrick Lamar Feat. Dr. Dre - The Recipe.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-11 Kendrick Lamar - Real (Feat. Anna Wise).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 1)/1-12 Kendrick Lamar - Compton (Feat. Dr. Dre).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-01 Kendrick Lamar - The Recipe (Feat. Dr. Dre).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-02 Kendrick Lamar - Black Boy Fly.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-03 Kendrick Lamar Feat. Mary J. Blige - Now Or Never.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-04 Kendrick Lamar Feat. JAY-Z - Bitch, Don't Kill My Vibe (Remix).flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/01 Kendrick Lamar Feat. George Clinton & Thundercat - Wesley's Theory.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-03 Kendrick Lamar - Now Or Never (Feat. Mary J. Blige).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2012 - Good Kid, m.A.A.d City (Disc 2)/2-04 Kendrick Lamar - Bitch, Don't Kill My Vibe (Remix) (Feat. JAY-Z).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/01 Kendrick Lamar - Wesley's Theory (Feat. George Clinton & Thundercat).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/02 Kendrick Lamar - For Free? (Interlude).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/03 Kendrick Lamar - King Kunta.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/04 Kendrick Lamar Feat. Bilal, Anna Wise & Snoop Dogg - Institutionalized.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/05 Kendrick Lamar Feat. Bilal, Anna Wise & Thundercat - These Walls.flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/04 Kendrick Lamar - Institutionalized (Feat. Bilal, Anna Wise & Snoop Dogg).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/05 Kendrick Lamar - These Walls (Feat. Bilal, Anna Wise & Thundercat).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/06 Kendrick Lamar - U.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/07 Kendrick Lamar - Alright.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/08 Kendrick Lamar - For Sale? (Interlude).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/09 Kendrick Lamar - Momma.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/10 Kendrick Lamar - Hood Politics.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/11 Kendrick Lamar Feat. James Fauntleroy & Ronald Isley - How Much A Dollar Cost.flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/12 Kendrick Lamar Feat. Rapsody - Complexion (A Zulu Love).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/11 Kendrick Lamar - How Much A Dollar Cost (Feat. James Fauntleroy & Ronald Isley).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/12 Kendrick Lamar - Complexion (A Zulu Love) (Feat. Rapsody).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/13 Kendrick Lamar - The Blacker The Berry.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/14 Kendrick Lamar - You Ain't Gotta Lie (Momma Said).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2015 - To Pimp A Butterfly/15 Kendrick Lamar - I.flac
@@ -622,12 +1753,12 @@
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/03 Kendrick Lamar - YAH..flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/04 Kendrick Lamar - ELEMENT..flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/05 Kendrick Lamar - FEEL..flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/06 Kendrick Lamar Feat. Rihanna - LOYALTY..flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/06 Kendrick Lamar - LOYALTY. (Feat. Rihanna).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/07 Kendrick Lamar - PRIDE..flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/08 Kendrick Lamar - HUMBLE..flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/09 Kendrick Lamar - LUST..flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/10 Kendrick Lamar Feat. Zacari - LOVE..flac
-/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/11 Kendrick Lamar Feat. U2 - XXX..flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/10 Kendrick Lamar - LOVE. (Feat. Zacari).flac
+/home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/11 Kendrick Lamar - XXX. (Feat. U2).flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/12 Kendrick Lamar - FEAR..flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/13 Kendrick Lamar - GOD..flac
 /home/wynand/wynZFS/Media/Audio/Music/Kendrick Lamar/2017 - DAMN_/14 Kendrick Lamar - DUCKWORTH..flac
@@ -647,6 +1778,22 @@
 /home/wynand/wynZFS/Media/Audio/Music/Kimya Dawson/2011 - Thunder Thighs/14 Reflections.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kimya Dawson/2011 - Thunder Thighs/15 Unrefined.flac
 /home/wynand/wynZFS/Media/Audio/Music/Kimya Dawson/2011 - Thunder Thighs/16 Utopian Futures.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/01 Boogie Down Productions - My Philosophy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/02 Boogie Down Productions - I'm Still #1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/03 Boogie Down Productions - South Bronx.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/04 KRS-One - Sound Of Da Police.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/05 Boogie Down Productions - Love's Gonna Get'cha (Material Love).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/06 KRS-One - Step Into A World (Rapture's Delight).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/07 Boogie Down Productions - You Must Learn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/08 Boogie Down Productions - Jack Of Spades.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/09 Boogie Down Productions - The Bridge Is Over.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/10 Boogie Down Productions - Jimmy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/11 Boogie Down Productions - Criminal Minded.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/12 KRS-One - Black Cop.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/13 KRS-One - MC's Act Like They Don't Know.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/14 Boogie Down Productions - Why Is That?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/15 KRS-One - Outta Here.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/KRS-One/2000 - A Retrospective/16 Boogie Down Productions - Essays On BDP-Ism (Feat. DJ Scott La Rock).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Lana Del Rey/2012 - Born To Die_ The Paradise Edition (Disc 1_ Born To Die)/1-01 Born To Die.flac
 /home/wynand/wynZFS/Media/Audio/Music/Lana Del Rey/2012 - Born To Die_ The Paradise Edition (Disc 1_ Born To Die)/1-02 Off To The Races.flac
 /home/wynand/wynZFS/Media/Audio/Music/Lana Del Rey/2012 - Born To Die_ The Paradise Edition (Disc 1_ Born To Die)/1-03 Blue Jeans.flac
@@ -806,8 +1953,8 @@
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/06 Cyanide.flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/07 The Unforgiven III.flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/08 The Judas Kiss.flac
-/home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/09 Suicide & Redemption.flac
-/home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/10 Suicide & Redemption.flac
+/home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/09 Suicide & Redemption (Feat. Guitar Solo: James Hetfield).flac
+/home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/10 Suicide & Redemption (Feat. Guitar Solo: Kirk Hammett).flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2008 - Death Magnetic/11 My Apocalypse.flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/1998 - Garage Inc_/01 Free Speech For The Dumb.flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/1998 - Garage Inc_/02 It's Electric.flac
@@ -876,6 +2023,43 @@
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2016 - Hardwired... To Self-Destruct (Disc 3)/3-12 Creeping Death (Live).flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2016 - Hardwired... To Self-Destruct (Disc 3)/3-13 Metal Militia (Live).flac
 /home/wynand/wynZFS/Media/Audio/Music/Metallica/2016 - Hardwired... To Self-Destruct (Disc 3)/3-14 Hardwired (Live).flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/01 Method Man - Tical.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/02 Method Man - Biscuits.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/03 Method Man - Bring The Pain.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/04 Method Man - All I Need.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/05 Method Man - What The Blood Clot.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/06 Method Man - Meth Vs. Chef (Feat. Raekwon).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/07 Method Man - Sub Crazy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/08 Method Man - Release Yo' Delf.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/09 Method Man - P.L.O. Style (Feat. Carlton Fisk).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/10 Method Man - I Get My Thang In Action.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/11 Method Man - Mr. Sandman (Feat. Carlton Fisk, Inspectah Deck, RZA & Streetlife).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/12 Method Man - Stimulation.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man/1994 - Tical/13 Method Man - Method Man (Remix).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/01 Method Man & Redman - A Special Joint (Intro).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/02 Method Man & Redman - Blackout.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/03 Method Man & Redman - Mi Casa.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/04 Method Man & Redman - Y.O.U..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/05 Method Man & Redman - 4 Seasons (Feat. Ja Rule & LL Cool J).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/06 Method Man & Redman - Cereal Killer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/07 Method Man & Redman - Da Rockwilder.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/08 Method Man & Redman - Tear It Off.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/09 Method Man & Redman - Where We At (Skit).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/10 Method Man & Redman - 1, 2, 1, 2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/11 Method Man & Redman - Maaad Crew.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/12 Method Man & Redman - Run 4 Cover (Feat. Ghostface Killah & Streetlife).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/13 Method Man & Redman - The ?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/14 Method Man & Redman - Dat's Dat Shit (Feat. Mally G).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/15 Method Man & Redman - Cheka.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/16 Method Man & Redman - Fire Ina Hole.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/17 Method Man & Redman - Well All Rite Cha.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/18 Method Man & Redman - Big Dogs.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Method Man & Redman/1999 - Blackout!/19 Method Man & Redman - How High (Remix).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Miles Davis/1959 - Kind Of Blue/01 So What.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Miles Davis/1959 - Kind Of Blue/02 Freddie Freeloader.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Miles Davis/1959 - Kind Of Blue/03 Blue In Green.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Miles Davis/1959 - Kind Of Blue/04 All Blues.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Miles Davis/1959 - Kind Of Blue/05 Flamenco Sketches.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Modest Mouse/1996 - This Is A Long Drive For Someone With Nothing To Think About/01 Dramamine.flac
 /home/wynand/wynZFS/Media/Audio/Music/Modest Mouse/1996 - This Is A Long Drive For Someone With Nothing To Think About/02 Breakthrough.flac
 /home/wynand/wynZFS/Media/Audio/Music/Modest Mouse/1996 - This Is A Long Drive For Someone With Nothing To Think About/03 Custom Concern.flac
@@ -1134,9 +2318,9 @@
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1993 - Live Seeds/13 New Morning.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/01 Nick Cave & The Bad Seeds - Song Of Joy.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/02 Nick Cave & The Bad Seeds - Stagger Lee.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/03 Nick Cave & The Bad Seeds Feat. PJ Harvey - Henry Lee.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/03 Nick Cave & The Bad Seeds - Henry Lee (Feat. PJ Harvey).flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/04 Nick Cave & The Bad Seeds - Lovely Creature.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/05 Nick Cave & The Bad Seeds Feat. Kylie Minogue - Where The Wild Roses Grow.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/05 Nick Cave & The Bad Seeds - Where The Wild Roses Grow (Feat. Kylie Minogue).flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/06 Nick Cave & The Bad Seeds - The Curse Of Millhaven.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/07 Nick Cave & The Bad Seeds - The Kindness Of Strangers.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/08 Nick Cave & The Bad Seeds - Crow Jane.flac
@@ -1356,6 +2540,70 @@
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/07 Finishing Jubilee Street.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/08 Higgs Boson Blues.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/09 Push The Sky Away.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-01 Mr Self Destruct.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-02 Piggy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-03 Heresy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-04 March Of The Pigs.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-05 Closer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-06 Ruiner.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-07 The Becoming.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-08 I Do Not Want This.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-09 Big Man With A Gun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-10 A Warm Place.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-11 Eraser.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-12 Reptile.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-13 The Downward Spiral.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-14 Hurt.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-01 Burn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-02 Closer (Precursor).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-03 Piggy (Nothing Can Stop Me Now).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-04 A Violet Fluid.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-05 Dead Souls.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-06 Hurt (Quiet).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-07 Closer To God.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-08 All The Pigs, All Lined Up.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-09 Memorabilia.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-10 The Downward Spiral (The Bottom).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-11 Ruiner (Demo).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-12 Liar (Reptile Demo).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 2_ Remixes, B-Sides, Demos, And Non-Album Tracks)/2-13 Heresy (Demo).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/01 Intro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/02 Shimmy Shimmy Ya.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/03 Baby C'mon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/04 Brooklyn Zoo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/05 Hippa To Da Hoppa.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/06 Raw Hide.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/07 Damage.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/08 Don't U Know.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/09 The Stomp.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/10 Goin' Down.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/11 Drunk Game (Sweet Sugar Pie).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/12 Snakes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/13 Brooklyn Zoo II (Tiger Crane).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/14 Protect Ya Neck II The Zoo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/15 Cuttin' Headz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/16 Dirty Dancin'.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Ol' Dirty Bastard/1995 - Return To The 36 Chambers_ The Dirty Version/17 Harlem World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/01 Music Box.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/02 Candyman Suite: Cabrini Green.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/03 Candyman Suite: Helen's Theme.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/04 Candyman Suite: Face To Razor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/05 Candyman Suite: Floating Candyman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/06 Candyman Suite: Return To Cabrini.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/07 Candyman Suite: It Was Always You, Helen.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/08 Candyman II: Daniel's Flashback.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/09 Candyman II: The Slave Quarters.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/10 Candyman II: Annie's Theme.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/11 Candyman II: All Falls Apart.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/12 Candyman II: The Demise Of Candyman.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/2001 - The Music Of Candyman/13 Candyman II: Reverend's Walk.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/01 Metamorphosis: One.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/02 Metamorphosis: Two.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/03 Metamorphosis: Three.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/04 Metamorphosis: Four.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/05 Metamorphosis: Five.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/06 Mad Rush.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Philip Glass/1989 - Solo Piano/07 Wichita Sutra Vortex.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Pink Floyd/1968 - A Saucerful Of Secrets/01 Let There Be More Light.flac
 /home/wynand/wynZFS/Media/Audio/Music/Pink Floyd/1968 - A Saucerful Of Secrets/02 Remember A Day.flac
 /home/wynand/wynZFS/Media/Audio/Music/Pink Floyd/1968 - A Saucerful Of Secrets/03 Set The Controls For The Heart Of The Sun.flac
@@ -1656,6 +2904,23 @@
 /home/wynand/wynZFS/Media/Audio/Music/Radiohead/2016 - A Moon Shaped Pool/09 Present Tense.flac
 /home/wynand/wynZFS/Media/Audio/Music/Radiohead/2016 - A Moon Shaped Pool/10 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief.flac
 /home/wynand/wynZFS/Media/Audio/Music/Radiohead/2016 - A Moon Shaped Pool/11 True Love Waits.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/01 Striving For Perfection.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/02 Knuckleheadz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/03 Knowledge God.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/04 Criminology.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/05 Incarcerated Scarfaces.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/06 Rainy Dayz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/07 Guillotine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/08 Can It Be All So Simple (Remix).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/09 Shark Niggas (Biters).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/10 Ice Water.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/11 Glaciers Of Ice.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/12 Verbal Intercourse.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/13 Wisdom Body.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/14 Spot Rusherz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/15 Ice Cream.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/16 Wu-Gambinos.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Raekwon/1995 - Only Built 4 Cuban Linx Instrumentals/17 Heaven & Hell.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/1992 - Rage Against The Machine/01 Bombtrack.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/1992 - Rage Against The Machine/02 Killing In The Name.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/1992 - Rage Against The Machine/03 Take The Power Back.flac
@@ -1702,7 +2967,7 @@
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2000 - Renegades/11 Rage Against The Machine - Street Fighting Man.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2000 - Renegades/12 Rage Against The Machine - Maggie's Farm.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2000 - Renegades/13 Rage Against The Machine - Kick Out The Jams (Live, Grand Olympic Auditorium).flac
-/home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2000 - Renegades/14 Rage Against The Machine Feat. Cypress Hill - How I Could Just Kill A Man (Live, Grand Olympic Auditorium).flac
+/home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2000 - Renegades/14 Rage Against The Machine - How I Could Just Kill A Man (Live, Grand Olympic Auditorium) (Feat. Cypress Hill).flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2003 - Live At The Grand Olympic Auditorium/01 Bulls On Parade.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2003 - Live At The Grand Olympic Auditorium/02 Bullet In The Head.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2003 - Live At The Grand Olympic Auditorium/03 Born Of A Broken Man.flac
@@ -1720,40 +2985,85 @@
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2003 - Live At The Grand Olympic Auditorium/15 No Shelter.flac
 /home/wynand/wynZFS/Media/Audio/Music/Rage Against The Machine/2003 - Live At The Grand Olympic Auditorium/16 Freedom.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/01 Run The Jewels - Run The Jewels.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/02 Run The Jewels Feat. Big Boi - Banana Clipper.flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/02 Run The Jewels - Banana Clipper (Feat. Big Boi).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/03 Run The Jewels - 36" Chain.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/04 Run The Jewels - DDFH.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/05 Run The Jewels - Sea Legs.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/06 Run The Jewels Feat. Until The Ribbon Breaks - Job Well Done.flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/06 Run The Jewels - Job Well Done (Feat. Until The Ribbon Breaks).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/07 Run The Jewels - No Come Down.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/08 Run The Jewels - Get It.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/09 Run The Jewels Feat. Prince Paul - Twin Hype Back.flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/09 Run The Jewels - Twin Hype Back (Feat. Prince Paul).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2013 - Run The Jewels/10 Run The Jewels - A Christmas Fucking Miracle.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/01 Run The Jewels - Jeopardy.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/02 Run The Jewels - Oh My Darling Don't Cry.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/03 Run The Jewels - Blockbuster Night Part 1.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/04 Run The Jewels Feat. Zack De La Rocha - Close Your Eyes (And Count To Fuck).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/04 Run The Jewels - Close Your Eyes (And Count To Fuck) (Feat. Zack De La Rocha).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/05 Run The Jewels - All My Life.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/06 Run The Jewels - Lie, Cheat, Steal.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/07 Run The Jewels Feat. BOOTS - Early.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/08 Run The Jewels Feat. Travis Barker - All Due Respect.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/09 Run The Jewels Feat. Gangsta Boo - Love Again (Akinyele Back).flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/10 Run The Jewels Feat. Diane Coffee - Crown.flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/07 Run The Jewels - Early (Feat. BOOTS).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/08 Run The Jewels - All Due Respect (Feat. Travis Barker).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/09 Run The Jewels - Love Again (Akinyele Back) (Feat. Gangsta Boo).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/10 Run The Jewels - Crown (Feat. Diane Coffee).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2014 - Run The Jewels 2/11 Run The Jewels - Angel Duster.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/01 Run The Jewels Feat. Joi - Down.flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/01 Run The Jewels - Down (Feat. Joi).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/02 Run The Jewels - Talk To Me.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/03 Run The Jewels - Legend Has It.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/04 Run The Jewels - Call Ticketron.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/05 Run The Jewels Feat. Danny Brown - Hey Kids (Bumaye).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/05 Run The Jewels - Hey Kids (Bumaye) (Feat. Danny Brown).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/06 Run The Jewels - Stay Gold.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/07 Run The Jewels - Don't Get Captured.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/08 Run The Jewels Feat. Babatunde Adebimpe - Thieves! (Screamed The Ghost).flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/09 Run The Jewels Feat. BOOTS - 2100.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/10 Run The Jewels Feat. Trina - Panther Like A Panther (Miracle Mix).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/08 Run The Jewels - Thieves! (Screamed The Ghost) (Feat. Babatunde Adebimpe).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/09 Run The Jewels - 2100 (Feat. BOOTS).flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/10 Run The Jewels - Panther Like A Panther (Miracle Mix) (Feat. Trina).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/11 Run The Jewels - Everybody Stay Calm.flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/12 Run The Jewels - Oh Mama.flac
-/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/13 Run The Jewels Feat. Kamasi Washington - Thursday In The Danger Room.flac
+/home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/13 Run The Jewels - Thursday In The Danger Room (Feat. Kamasi Washington).flac
 /home/wynand/wynZFS/Media/Audio/Music/Run The Jewels/2016 - Run The Jewels 3/14 Run The Jewels - A Report To The Shareholders _ Kill Your Masters.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/01 Across The Night.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/02 The Greatest View.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/03 Without You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/04 World Upon Your Shoulders.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/05 One Way Mule.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/06 Tuna In The Brine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/07 Too Much Of Not Enough.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/08 Luv Your Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/09 The Lever.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/10 My Favourite Thing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2002 - Diorama/11 After All These Years _ [Untitled].mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/01 Young Modern Station.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/02 Straight Lines.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/03 If You Keep Losing Sleep.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/04 Reflections Of A Sound.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/05 Those Thieving Birds, Part 1 _ Strange Behaviour _ Those Thieving Birds, Part 2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/06 The Man That Knew Too Much.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/07 Waiting All Day.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/08 Mind Reader.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/09 Low.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/10 Insomnia.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silverchair/2007 - Young Modern/11 All Across The World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/01 Melatonin.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/02 Well Thought Out Twinkles.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/03 Checkered Floor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/04 Little Lover's So Polite.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/05 Future Foe Scenarios.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/06 Waste It On.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/07 Lazy Eye.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/08 Rusted Wheel.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/09 Dream At Tempo 119.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/10 Three Seed.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Silversun Pickups/2006 - Carnavas/11 Common Reactor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/01 Angel Of Death.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/02 Piece By Piece.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/03 Necrophobic.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/04 Altar Of Sacrifice.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/05 Jesus Saves.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/06 Criminally Insane.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/07 Reborn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/08 Epidemic.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/09 Postmortem.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/10 Raining Blood.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/11 Aggressive Perfector.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Slayer/1986 - Reign In Blood/12 Criminally Insane (Remix).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Snakadaktal/2011 - Snakadaktal/01 Wake Up.flac
 /home/wynand/wynZFS/Media/Audio/Music/Snakadaktal/2011 - Snakadaktal/02 Chimera.flac
 /home/wynand/wynZFS/Media/Audio/Music/Snakadaktal/2011 - Snakadaktal/03 Air.flac
@@ -1851,6 +3161,73 @@
 /home/wynand/wynZFS/Media/Audio/Music/System Of A Down/2005 - Mezmerize/09 Sad Statue.flac
 /home/wynand/wynZFS/Media/Audio/Music/System Of A Down/2005 - Mezmerize/10 Old School Hollywood.flac
 /home/wynand/wynZFS/Media/Audio/Music/System Of A Down/2005 - Mezmerize/11 Lost In Hollywood.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/01 12th Man Again! 01.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/02 12th Man Again! 02.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/03 12th Man Again! 03.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/04 12th Man Again! 04.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/05 12th Man Again! 05.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/06 12th Man Again! 06.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/07 12th Man Again! 07.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/08 12th Man Again! 08.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/09 12th Man Again! 09.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/10 12th Man Again! 10.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/11 12th Man Again! 11.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1990 - 12th Man Again!/12 England Vs. India.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/01 What's On The Box?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/02 Bill's Surprise.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/03 "...You Were Born...".mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/04 Blind Love!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/05 Bill's Early Careers.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/06 Peter Pollock.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/1997 - Bill Lawry... This Is Your Life/07 Bill Hangs Up His Boots.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-01 The Lunch.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-02 Commentary Team Training.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-03 Richie's Office At Channel 9 #1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-04 Richie's Office At Channel 9 #2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-05 Australia V New Zealand #1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-06 Australia V New Zealand #2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-07 David's Office At Channel 9.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-08 Australia V New Zealand #3.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 1)/1-09 Australia V New Zealand #4.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-01 The Commentators' Office.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-02 The Airport.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-03 On The Plane.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-04 The Hotel Check-In.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-05 David's Home Study.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-06 Australia Vs. South Africa, Part One.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-07 Australia Vs. South Africa, Part Two.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-08 The Announcement.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2001 - The Final Dig_ (Disc 2)/2-09 Just Brilliant!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-01 The Boning!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-02 The Golf Course.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-03 The Dream.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-04 Team Meeting #1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-05 The Shithole #1 (The New Office).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-06 Alan Jones Radio Show.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-07 The Shithole #2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 1)/1-08 The Gabba: Australia V. England First Test.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-01 The Gudinski Meeting.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-02 Martin Place.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-03 Team Meeting #2.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-04 Team Meeting #3.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-05 The WACA: Australia V. England Third Test.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-06 Marvellous!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-07 Sorry Eddie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-08 The Shithole #3.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-09 The Lunch.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The 12th Man/2006 - Boned! (Disc 2)/2-10 Sucked In.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/01 Lithium.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/02 Comfortably Numb.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/03 Fem (Etude No. 8).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/04 Radio Cure.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/05 Long Distance Runaround.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/06 Semi-Simple Variations.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/07 How Deep Is Your Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/08 Barracuda.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/09 Lock, Stock And Teardrops.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/10 Variation D'Apollon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/11 Feeling Yourself Disintegrate.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Bad Plus/2008 - For All I Care/12 Semi-Simple Variations (Alternative Version).mp3
 /home/wynand/wynZFS/Media/Audio/Music/The Beatles/1966 - Revolver/01 Taxman.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Beatles/1966 - Revolver/02 Eleanor Rigby.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Beatles/1966 - Revolver/03 I'm Only Sleeping.flac
@@ -2088,6 +3465,88 @@
 /home/wynand/wynZFS/Media/Audio/Music/Fat White Family/2013 - Champagne Holocaust/09 Heaven On Earth.flac
 /home/wynand/wynZFS/Media/Audio/Music/Fat White Family/2013 - Champagne Holocaust/10 Bomb Disneyland.flac
 /home/wynand/wynZFS/Media/Audio/Music/Fat White Family/2013 - Champagne Holocaust/11 Garden Of The Numb.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/01 Good Vibrations.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/02 Cecilia.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/03 Father To Son.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/04 The Boxer.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/05 Texas Girl At The Funeral Of Her Father.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/06 Seaside Rendezvous.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/07 And So It Goes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/08 American Pie.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/09 Some Folks' Lives Roll Easy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/10 Fifty Ways To Leave Your Lover.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/11 That Lonesome Road.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/12 Freddie Feel-Good.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The King's Singers/1993 - Good Vibrations/13 M. L. K..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/01 Absolutely Cuckoo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/02 I Don't Believe In The Sun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/03 All My Little Words.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/04 A Chicken With Its Head Cut Off.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/05 Reno Dakota.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/06 I Don't Want To Get Over You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/07 Come Back From San Francisco.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/08 The Luckiest Guy On The Lower East Side.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/09 Let's Pretend We're Bunny Rabbits.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/10 The Cactus Where Your Heart Should Be.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/11 I Think I Need A New Heart.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/12 The Book Of Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/13 Fido, Your Leash Is Too Long.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/14 How Fucking Romantic.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/15 The One You Really Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/16 Punk Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/17 Parades Go By.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/18 Boa Constrictor.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/19 A Pretty Girl Is Like....mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/20 My Sentimental Melody.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/21 Nothing Matters When We're Dancing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/22 Sweet-Lovin' Man.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 1/23 The Things We Did And Didn't Do.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/01 Roses.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/02 Love Is Like Jazz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/03 When My Boy Walks Down The Street.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/04 Time Enough For Rocking When We're Old.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/05 Very Funny.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/06 Grand Canyon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/07 No One Will Ever Love You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/08 If You Don't Cry.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/09 You're My Only Home.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/10 (Crazy For You But) Not That Crazy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/11 My Only Friend.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/12 Promises Of Eternity.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/13 World Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/14 Washington, D.C..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/15 Long-Forgotten Fairytale.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/16 Kiss Me Like You Mean It.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/17 Papa Was A Rodeo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/18 Epitaph For My Heart.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/19 Asleep And Dreaming.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/20 The Sun Goes Down And The World Goes Dancing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/21 The Way You Say Good-Night.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/22 Abigail, Belle Of Kilronan.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 2/23 I Shatter.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/01 Underwear.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/02 It's A Crime.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/03 Busby Berkeley Dreams.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/04 I'm Sorry I Love You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/05 Acoustic Guitar.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/06 The Death Of Ferdinand De Saussure.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/07 Love In The Shadows.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/08 Bitter Tears.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/09 Wi' Nae Wee Bairn Ye'll Me Beget.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/10 Yeah! Oh, Yeah!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/11 Experimental Music Love.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/12 Meaningless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/13 Love Is Like A Bottle Of Gin.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/14 Queen Of The Savages.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/15 Blue You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/16 I Can't Touch You Anymore.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/17 Two Kinds Of People.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/18 How To Say Goodbye.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/19 The Night You Can't Remember.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/20 For We Are The King Of The Boudoir.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/21 Strange Eyes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/22 Xylophone Track.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Magnetic Fields/1999 - 69 Love Songs, Volume 3/23 Zebra.mp3
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/01 The Roots - Act Won (Things Fall Apart).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/02 The Roots - Table Of Contents, Parts 1 & 2.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/03 The Roots - The Next Movement.flac
@@ -2102,37 +3561,58 @@
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/12 The Roots - Diedre Vs. Dice.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/13 The Roots - Adrenaline!.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/14 The Roots - 3rd Acts: ? Vs. Scratch 2... Electric Boogaloo.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/15 The Roots Feat. Erykah Badu - You Got Me.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/15 The Roots - You Got Me (Feat. Erykah Badu).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/16 The Roots - Don't See Us.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/17 The Roots - The Return To Innocence Lost.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/01 The Roots Feat. Amber Coffman, Angel Deradoorian & Haley Dekle - A Peace Of Light.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/02 The Roots Feat. Truck North, Greg Porn & Dice Raw - Walk Alone.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/03 The Roots Feat. Monsters Of Folk - Dear God 2.0.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/04 The Roots Feat. Blu, Greg Porn & Dice Raw - Radio Daze.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/05 The Roots Feat. Phonte & Dice Raw - Now Or Never.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/06 The Roots Feat. Dice Raw - How I Got Over.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/01 The Roots - A Peace Of Light (Feat. Amber Coffman, Angel Deradoorian & Haley Dekle).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/02 The Roots - Walk Alone (Feat. Truck North, Greg Porn & Dice Raw).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/03 The Roots - Dear God 2.0 (Feat. Monsters Of Folk).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/04 The Roots - Radio Daze (Feat. Blu, Greg Porn & Dice Raw).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/05 The Roots - Now Or Never (Feat. Phonte & Dice Raw).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/06 The Roots - How I Got Over (Feat. Dice Raw).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/07 The Roots - Dillatude: The Flight Of Titus.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/08 The Roots Feat. Blu, Phonte & Patty Crash - The Day.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/09 The Roots Feat. Joanna Newsom & STS - Right On.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/08 The Roots - The Day (Feat. Blu, Phonte & Patty Crash).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/09 The Roots - Right On (Feat. Joanna Newsom & STS).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/10 The Roots - Doin' It Again.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/11 The Roots Feat. John Legend - The Fire.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/11 The Roots - The Fire (Feat. John Legend).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/12 The Roots - Tunnel Vision.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/13 The Roots Feat. Peedi Peedi & Truck North - Web 20_20.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/14 The Roots Feat. STS - Hustla.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/13 The Roots - Web 20_20 (Feat. Peedi Peedi & Truck North).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2010 - How I Got Over/14 The Roots - Hustla (Feat. STS).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/01 The Roots - Dun.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/02 The Roots - Sleep.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/03 The Roots Feat. Big K.R.I.T. & Dice Raw - Make My.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/04 The Roots Feat. Phonte & Dice Raw - One Time.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/05 The Roots Feat. Greg Porn & Truck North - Kool On.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/06 The Roots Feat. Bilal & Greg Porn - The OtherSide.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/07 The Roots Feat. Greg Porn - Stomp.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/08 The Roots Feat. Dice Raw - Lighthouse.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/03 The Roots - Make My (Feat. Big K.R.I.T. & Dice Raw).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/04 The Roots - One Time (Feat. Phonte & Dice Raw).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/05 The Roots - Kool On (Feat. Greg Porn & Truck North).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/06 The Roots - The OtherSide (Feat. Bilal & Greg Porn).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/07 The Roots - Stomp (Feat. Greg Porn).flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/08 The Roots - Lighthouse (Feat. Dice Raw).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/09 The Roots - I Remember.flac
-/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/10 The Roots Feat. Dice Raw - Tip The Scale.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/10 The Roots - Tip The Scale (Feat. Dice Raw).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/11 Sufjan Stevens - Redford Suite: Redford (For Yia-Yia & Pappou).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/12 The Roots - Redford Suite: Possibility (2nd Movement).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/13 The Roots - Redford Suite: Will To Power (3rd Movement).flac
 /home/wynand/wynZFS/Media/Audio/Music/The Roots/2011 - Undun/14 The Roots - Redford Suite: Finality (4th Movement).flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/01 Caring Is Creepy.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/02 One By One All Day.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/03 Weird Divide.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/04 Know Your Onion!.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/05 Girl Inform Me.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/06 New Slang.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/07 The Celibate Life.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/08 Girl On The Wing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/09 Your Algebra.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/10 Pressed In A Book.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2001 - Oh, Inverted World/11 The Past And Pending.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/01 Kissing The Lipless.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/02 Mine's Not A High Horse.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/03 So Says I.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/04 Young Pilgrims.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/05 Saint Simon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/06 Fighting In A Sack.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/07 Pink Bullets.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/08 Turn A Square.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/09 Gone For Good.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Shins/2003 - Chutes Too Narrow/10 Those To Come.mp3
 /home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1989 - The Stone Roses/The Stone Roses/1989 - The Stone Roses/01 I Wanna Be Adored.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1989 - The Stone Roses/The Stone Roses/1989 - The Stone Roses/02 She Bangs The Drums.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1989 - The Stone Roses/The Stone Roses/1989 - The Stone Roses/03 Elephant Stone.flac
@@ -2159,6 +3639,63 @@
 /home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/11 How Do You Sleep.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/12 Love Spreads.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/90 The Foz.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/01 Is This It.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/02 The Modern Age.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/03 Soma.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/04 Barely Legal.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/05 Someday.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/06 Alone, Together.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/07 Last Nite.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/08 Hard To Explain.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/09 New York City Cops.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/10 Trying Your Luck.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2001 - Is This It/11 Take It Or Leave It.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/01 What Ever Happened?.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/02 Reptilia.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/03 Automatic Stop.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/04 12:51.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/05 You Talk Way Too Much.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/06 Between Love & Hate.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/07 Meet Me In The Bathroom.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/08 Under Control.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/09 The Way It Is.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/10 The End Has No End.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2003 - Room On Fire/11 I Can't Win.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/01 You Only Live Once.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/02 Juicebox.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/03 Heart In A Cage.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/04 Razorblade.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/05 On The Other Side.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/06 Vision Of Division.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/07 Ask Me Anything.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/08 Electricityscape.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/09 Killing Lies.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/10 Fear Of Sleep.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/11 15 Minutes.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/12 Ize Of The World.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/13 Evening Sun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2005 - First Impressions Of Earth/14 Red Light.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/01 Machu Picchu.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/02 Under Cover Of Darkness.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/03 Two Kinds Of Happiness.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/04 You're So Right.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/05 Taken For A Fool.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/06 Games.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/07 Call Me Back.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/08 Gratisfaction.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/09 Metabolism.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2011 - Angles/10 Life Is Simple In The Moonlight.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/01 Tap Out.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/02 All The Time.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/03 One Way Trigger.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/04 Welcome To Japan.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/05 80'S Comedown Machine.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/06 50_50.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/07 Slow Animals.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/08 Partners In Crime.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/09 Chances.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/10 Happy Ending.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/The Strokes/2013 - Comedown Machine/11 Call It Fate, Call It Karma.mp3
 /home/wynand/wynZFS/Media/Audio/Music/The Wombats/2006 - Girls, Boys & Marsupials/01 Moving To New York.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Wombats/2006 - Girls, Boys & Marsupials/02 Lost In The Post.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Wombats/2006 - Girls, Boys & Marsupials/03 Patricia The Stripper.flac
@@ -2210,6 +3747,22 @@
 /home/wynand/wynZFS/Media/Audio/Music/The Wombats/2015 - Glitterbug/11 Curveballs.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Wombats/2015 - Glitterbug/12 Sex And Question Marks.flac
 /home/wynand/wynZFS/Media/Audio/Music/The Wombats/2015 - Glitterbug/13 Flowerball.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2016-All We Didnt Know/Tired Lion - Just Don't See It.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2016-All We Didnt Know/Tired Lion - Are You Listening…Listener_.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2016-All We Didnt Know/Tired Lion - Desperate.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2016-All We Didnt Know/Tired Lion - Too Much of Nothing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2016-All We Didnt Know/Tired Lion - Little Girl.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/01 More Often.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/02 Where Were You.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/03 Cinderella Dracula 1.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/04 Camp.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/05 Fresh.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/06 Dumb Days.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/07 Hawaii Five-0.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/08 Behave.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/09 Cilantro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/10 I've Been Trying.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Tired Lion/2017-Dumb_Days/11 Med Moy.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1991 - 72826/01 Cold And Ugly.flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1991 - 72826/02 Hush.flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1991 - 72826/03 Part Of Me.flac
@@ -2219,7 +3772,7 @@
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/01 Tool - Intolerance.flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/02 Tool - Prison Sex.flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/03 Tool - Sober.flac
-/home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/04 Tool Feat. Henry Rollins - Bottom.flac
+/home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/04 Tool - Bottom (Feat. Henry Rollins).flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/05 Tool - Crawl Away.flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/06 Tool - Swamp Song.flac
 /home/wynand/wynZFS/Media/Audio/Music/Tool/1993 - Undertow/07 Tool - Undertow.flac
@@ -2286,6 +3839,29 @@
 /home/wynand/wynZFS/Media/Audio/Music/Ugly Casanova/2002 - Sharpen Your Teeth/11 Smoke Like Ribbons.flac
 /home/wynand/wynZFS/Media/Audio/Music/Ugly Casanova/2002 - Sharpen Your Teeth/12 Things I Don't Remember.flac
 /home/wynand/wynZFS/Media/Audio/Music/Ugly Casanova/2002 - Sharpen Your Teeth/13 So Long To The Holidays.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/01 Mansard Roof.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/02 Oxford Comma.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/03 A-Punk.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/04 Cape Cod Kwassa Kwassa.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/05 M79.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/06 Campus.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/07 Bryn.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/08 One (Blake's Got A New Face).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/09 I Stand Corrected.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/10 Walcott.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/11 The Kids Don't Stand A Chance.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/12 Ladies Of Cambridge.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2007 - Vampire Weekend/13 Arrows.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/01 Horchata.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/02 White Sky.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/03 Holiday.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/04 California English.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/05 Taxi Cab.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/06 Run.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/07 Cousins.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/08 Giving Up The Gun.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/09 Diplomat's Son.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Vampire Weekend/2010 - Contra/10 I Think Ur A Contra.mp3
 /home/wynand/wynZFS/Media/Audio/Music/Various Artists/2012 - Straight To You_ Triple J's Tribute To Nick Cave (Disc 1)/1-01 Kram - Red Right Hand.flac
 /home/wynand/wynZFS/Media/Audio/Music/Various Artists/2012 - Straight To You_ Triple J's Tribute To Nick Cave (Disc 1)/1-02 Bertie Blackman & Muscles - Do You Love Me?.flac
 /home/wynand/wynZFS/Media/Audio/Music/Various Artists/2012 - Straight To You_ Triple J's Tribute To Nick Cave (Disc 1)/1-03 Muscles - I Let Love In.flac
@@ -2311,6 +3887,48 @@
 /home/wynand/wynZFS/Media/Audio/Music/Various Artists/2012 - Straight To You_ Triple J's Tribute To Nick Cave (Disc 2)/2-10 Lanie Lane - Jack The Ripper.flac
 /home/wynand/wynZFS/Media/Audio/Music/Various Artists/2012 - Straight To You_ Triple J's Tribute To Nick Cave (Disc 2)/2-11 Dan Sultan - Get Ready For Love.flac
 /home/wynand/wynZFS/Media/Audio/Music/Various Artists/2012 - Straight To You_ Triple J's Tribute To Nick Cave (Disc 2)/2-12 Adalita - Papa Won't Leave You, Henry.flac
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-01 Wu-Tang Clan - Wu-Revolution (Feat. Popa Wu & Uncle Pete).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-02 Wu-Tang Clan - Reunited.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-03 Wu-Tang Clan - For Heavens Sake (Feat. Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-04 Wu-Tang Clan - Cash Still Rules_Scary Hours (Still Don't Nothing Move But The Money).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-05 Wu-Tang Clan - Visionz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-06 Wu-Tang Clan - As High As Wu-Tang Get.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-07 Wu-Tang Clan - Severe Punishment.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-08 Wu-Tang Clan - Older Gods.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-09 Wu-Tang Clan - Maria (Feat. Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-10 Wu-Tang Clan - A Better Tomorrow.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 1)/1-11 Wu-Tang Clan - It's Yourz.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-01 Wu-Tang Clan - Intro.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-02 Wu-Tang Clan - Triumph (Feat. Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-03 Wu-Tang Clan - Impossible (Feat. Tekitha).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-04 Wu-Tang Clan - Little Ghetto Boys (Feat. Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-05 Wu-Tang Clan - Deadly Melody (Feat. Streetlife).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-06 Wu-Tang Clan - The City.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-07 Wu-Tang Clan - The Projects.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-08 Wu-Tang Clan - Bells Of War.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-09 Wu-Tang Clan - The M.G.M..mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-10 Wu-Tang Clan - Dog Sh*T.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-11 Wu-Tang Clan - Duck Seazon.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-12 Wu-Tang Clan - Hellz Wind Staff (Feat. Streetlife).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-13 Wu-Tang Clan - Heaterz (Feat. Cappadonna).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-14 Wu-Tang Clan - Black Shampoo.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-15 Wu-Tang Clan - Second Coming (Feat. Tekitha).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-16 Wu-Tang Clan - The Closing.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-17 Wu-Tang Clan - Sunshower.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/1997 - Wu-Tang Forever (Disc 2)/2-18 Wu-Tang Clan - Projects International Remix.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/01 Wu-Tang Clan - Intro (Shaolin Finger Jab) _ Chamber Music.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/02 Wu-Tang Clan - Careful (Click, Click).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/03 Wu-Tang Clan - Hollow Bones.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/04 Wu-Tang Clan - Redbull (Feat. Redman).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/05 Wu-Tang Clan - One Blood Under W (Feat. Junior Reid).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/06 Wu-Tang Clan - Conditioner (Feat. Snoop Dogg).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/07 Wu-Tang Clan - Protect Ya Neck (The Jump Off).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/08 Wu-Tang Clan - Let My Niggas Live (Feat. Nas).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/09 Wu-Tang Clan - I Can't Go To Sleep (Feat. Isaac Hayes).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/10 Wu-Tang Clan - Do You Really (Thang, Thang).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/11 Wu-Tang Clan - The Monument (Feat. Busta Rhymes).mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/12 Wu-Tang Clan - Gravel Pit.mp3
+/home/wynand/wynZFS/Media/Audio/Music (lossy)/Wu-Tang Clan/2000 - The W/13 Wu-Tang Clan - Jah World _ Clap (Feat. Junior Reid).mp3
 /home/wynand/wynZFS/Media/Audio/Music/Wu-Tang Clan/1993 - Enter The Wu-Tang_ 36 Chambers/01 Bring Da Ruckus.flac
 /home/wynand/wynZFS/Media/Audio/Music/Wu-Tang Clan/1993 - Enter The Wu-Tang_ 36 Chambers/02 Shame On A Nigga.flac
 /home/wynand/wynZFS/Media/Audio/Music/Wu-Tang Clan/1993 - Enter The Wu-Tang_ 36 Chambers/03 Clan In Da Front.flac
