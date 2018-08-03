@@ -1,3 +1,5 @@
+add /home/wynand/wynZFS/Media/Audio/Music/
+add /home/wynand/wynZFS/Media/Audio/Music (lossy)/
 bind -f common right seek +5
 set color_win_attr=defaultl
 bind -f common , seek -1mjjjj
