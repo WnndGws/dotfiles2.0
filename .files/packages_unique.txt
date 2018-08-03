@@ -54,6 +54,7 @@ intel-ucode
 ipython
 jsoncpp
 kodi
+libmad
 linux-lts
 linux-lts-headers
 magic-wormhole
