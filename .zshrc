@@ -194,6 +194,7 @@ plugins=(
  zsh-syntax-highlighting\
  alias-tips\
  auto-ls\
+ globalias\
  zsh-interactive-zsh
 )
 #Plugins can be found in ~/.oh-my-zsh/plugins/*
