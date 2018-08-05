@@ -66,7 +66,8 @@ WINDOW_ICONS = {
     'keepassxc': '',
     'firefox': '',
     'scim': '',
-    'aria2c': ''
+    'aria2c': '',
+    'screenshots': ''
 }
 
 # This icon is used for any application not in the list above
