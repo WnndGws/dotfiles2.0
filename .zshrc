@@ -192,7 +192,6 @@ plugins=(
  pip\
  python\
  zsh-syntax-highlighting\
- alias-tips\
  auto-ls\
  globalias\
  zsh-interactive-zsh
@@ -248,7 +247,7 @@ alias calc="gcalcli --monday --detail_length --refresh calw"
 alias calcadd="gcalcli add --calendar 'Personal Calendar'"
 #Add events to calendar
 
-alias clean_latex="fd -e aux -e bbl -e bcf -e blg -e fdb_latexmk -e fls -e log -e out -e xml -e gz -e xdv | xargs -I{} rm -f {}"
+alias clean_latex="find ./ -type f \( -name '*.aux' -o -name '*.bbl' -o -name '*.bcf' -o -name '*.blg' -o -name '*.fdb_latexmk' -o -name '*.fls' -o -name '*.log' -o -name '*.out' -o -name '*.xml' -o -name '*.gz' -o -name '*.xdv' \) | xargs -I{} rm -f {}"
 #Remove lint latex files
 
 alias clip="xclip -o -sel clip | xsel -p"
