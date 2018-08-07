@@ -8,7 +8,7 @@ bat
 beamercolorthemesolarized
 biber
 bind-tools
-black
+black-git
 bluez
 bluez-utils
 brightnessctl
@@ -44,7 +44,7 @@ htop
 hyperfine
 i3-gaps
 i3blocks
-i3ipc-python-git
+i3ipc-python
 i3lock
 i3status
 ibam
@@ -93,6 +93,7 @@ purple-plugin-pack
 pymodoro-git
 python-dateutil
 python-dnspython
+python-fontawesome
 python-google-api-python-client
 python-grip
 python-hypothesis
@@ -118,7 +119,6 @@ screenfetch
 scrot
 simple-mtpfs
 sonarr
-spotify
 syslinux
 tealdeer
 texlive-bibtexextra
