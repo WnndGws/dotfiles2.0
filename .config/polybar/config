@@ -173,7 +173,7 @@ label =  %percentage_used%%
 
 [module/wlan_essid]
 type = internal/network
-interface = wlp0s20u14
+interface = wlp0s20u3
 interval = 10
 accumulate-stats = true
 
@@ -199,7 +199,7 @@ format-underline = ${colors.background-alt}
 type = custom/script
 label = %output%
 interval = 60
-exec = ~/.config/polybar/daily_downloads.sh
+exec = ~/.config/polybar/peak_offpeak_internet.sh
 format-underline = ${colors.background-alt}
 
 [module/vpncheck]
