@@ -39,26 +39,6 @@ fi
 #. ---------------------- #
 # >>>>> END EXPORTS <<<<< #
 #. ---------------------- #
-
-#. ------------------- #
-# >>>>> SOURCING <<<<< #
-#. ------------------- #
-## Init fasd from cache if it exists
-fasd_cache=$XDG_CACHE_HOME/fasd-init-zsh
-if [ "$(command -v fasd)" -nt "$fasd_cache" -o ! -s "$fasd_cache" ]; then
-  fasd --init posix-alias zsh-hook zsh-ccomp zsh-ccomp-install zsh-wcomp zsh-wcomp-install >| $fasd_cache
-fi
-source $fasd_cache
-unset fasd_cache
-#FASD
-
-source /usr/share/fzf/key-bindings.zsh
-source /usr/share/fzf/completion.zsh
-#FZF
-#. ----------------------- #
-# >>>>> END SOURCING <<<<< #
-#. ----------------------- #
-
 #. ------------------- #
 # >>>>> SETTINGS <<<<< #
 #. ------------------- #
@@ -187,6 +167,7 @@ plugins=(
  zsh-completions\
  safe-paste\
  history-substring-search\
+ fzf-zsh\
  zsh-autosuggestions\
  archlinux\
  pip\
@@ -224,7 +205,7 @@ bindkey "^[^M" autosuggest-accept
 #. ------------------ #
 # >>>>> ALIASES <<<<< #
 #. ------------------ #
-alias archdate='pakku -Syyuu; pakku -T; wget -O /etc/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts; cat /etc/hosts.spotify >> /etc/hosts; polybar-msg cmd restart'
+alias archdate='pikaur -Syyuu; pikaur -T; wget -O /etc/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts; cat /etc/hosts.spotify >> /etc/hosts; polybar-msg cmd restart'
 alias ad="archdate"
 #Update command
 
@@ -268,10 +249,6 @@ alias dm='$HOME/Git/dotfiles2.0/.files/dotmake.sh'
 
 alias failed_ctl='systemctl list-units --state=failed'
 #To list any failed systemctl units
-
-alias fo='$BROWSER "$(fzf)"'
-alias fcd='cd "$(fzf)"'
-# Use fuzzy finder
 
 alias gi="cat $HOME/Git/dotfiles2.0/.files/gitignores.txt >> .gitignore"
 #Create a gitignore file
@@ -346,7 +323,7 @@ alias o='fasd -a -e xdg-open'
 
 alias paorph='pacman --query --unrequired --deps --quiet'
 alias po='paorph'
-alias porm='paorph | xargs -I{} pakku -R --noconfirm {}; paorph | xargs -I{} pakku -R --noconfirm {}; paorph | xargs -I{} pakku -R --noconfirm {}'
+alias porm='paorph | xargs -I{} pikaur -R --noconfirm {}; paorph | xargs -I{} pikaur -R --noconfirm {}; paorph | xargs -I{} pikaur -R --noconfirm {}'
 #Pacaur orphans
 
 alias play_DCAU="~/Git/OneOffCodes/Shell/playlistPlay.sh ~/wynZFS/Media/WatchOrders/DCAU.order"
@@ -395,11 +372,11 @@ alias sleep_until="~/Git/OneOffCodes/Shell/sleep_until.sh"
 alias suspend="_ rtcwake --date +1month -m mem; ~/Git/OneOffCodes/Shell/lock.sh; _ systemctl restart openvpn.service"
 #Use rtc wake as suspend
 
-alias p='pakku -Ss'
+alias p='pikaur -Ss'
 #Minimize keystrokes
-alias pare='pakku -R'
+alias pare='pikaur -R'
 #Remove package using pacman
-alias pin='pakku -S --noconfirm'
+alias pin='pikaur -S --noconfirm'
 #Trizen install
 
 alias time='hyperfine'
@@ -448,3 +425,24 @@ alias zt='zsh_time'
 #. -------------------- #
 # >>>>>END ALIASES<<<<< #
 #. -------------------- #
+ 
+#. ------------------- #
+# >>>>> SOURCING <<<<< #
+#. ------------------- #
+## Init fasd from cache if it exists
+fasd_cache=$XDG_CACHE_HOME/fasd-init-zsh
+if [ "$(command -v fasd)" -nt "$fasd_cache" -o ! -s "$fasd_cache" ]; then
+  fasd --init posix-alias zsh-hook zsh-ccomp zsh-ccomp-install zsh-wcomp zsh-wcomp-install >| $fasd_cache
+fi
+source $fasd_cache
+unset fasd_cache
+#FASD
+
+source /usr/share/fzf/key-bindings.zsh
+source /usr/share/fzf/completion.zsh
+#FZF
+#. ----------------------- #
+# >>>>> END SOURCING <<<<< #
+#. ----------------------- #
+
+
