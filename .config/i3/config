@@ -19,7 +19,7 @@ exec --no-startup-id xrandr --output DisplayPort-0 --off --output DVI-1 --primar
 exec_always --no-startup-id ~/Git/dotfiles2.0/.config/i3/i3scripts/autoname_workspaces.py
 # Use pretty icons in i3 workspaces
 
-exec --no-startup-id newsboat -x reload && newsboat -X
+exec --no-startup-id newsboat --execute=reload && newsboat --vacuum
  # updates newsboat cache when i3 starts, so its ready to use when i open it
 
 exec --no-startup-id insync-headless start
@@ -37,7 +37,7 @@ exec --no-startup-id synclient ClickFinger3=2
 exec --no-startup-id xset r rate 500 50
 # Increase key rate
 
-exec --no-startup-id $HOME/Git/OneOffCodes/Expects/bluetooth_connect_nexus6p.exp
+#exec --no-startup-id $HOME/Git/OneOffCodes/Expects/bluetooth_connect_nexus6p.exp
 # Connect my phone if it is available
 
 exec --no-startup-id exec urxvtd --quiet --fork
@@ -55,22 +55,22 @@ exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/wallpaper_maker/wallpa
 exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/i3_alternating_windows/i3_alternating_windows.py
 # Sets my i3 windows to open in alternating order
 
-exec --no-startup-id exec redshift -b 1.0:0.8 -l -33:117 -t 5500:3000
+exec --no-startup-id exec redshift -b 1.0:0.7 -l -33:117 -t 5500:3000
 # Starts redshift
 
 exec --no-startup-id xmodmap -e "clear lock"; xmodmap -e "keysym Caps_Lock = Escape"
 # Makes Caps an Escape
-exec --no-startup-id xmodmap -e "keycode  71 = 5 percent 5 percent"
+#exec --no-startup-id xmodmap -e "keycode  71 = 5 percent 5 percent"
 # Makes F5 a 5
-exec --no-startup-id xmodmap -e "keycode 72 = 6 asciicircum 6 asciicircum"
+#exec --no-startup-id xmodmap -e "keycode 72 = 6 asciicircum 6 asciicircum"
 # Makes F6 a 6
-exec --no-startup-id xmodmap -e "keycode 95 = minus underscore minus underscore"
+#exec --no-startup-id xmodmap -e "keycode 95 = minus underscore minus underscore"
 # Makes F11 a -_
-exec --no-startup-id xmodmap -e "keycode 96 = equal plus equal plus"
+#exec --no-startup-id xmodmap -e "keycode 96 = equal plus equal plus"
 # Makes F12 a plus
-exec --no-startup-id xmodmap -e "keycode 133 = Control_L NoSymbol Control_L"
+#exec --no-startup-id xmodmap -e "keycode 133 = Control_L NoSymbol Control_L"
 # Makes Super a Control
-exec --no-startup-id xmodmap -e "keycode 127 = KP_Insert KP_0 KP_Insert KP_0"
+#exec --no-startup-id xmodmap -e "keycode 127 = KP_Insert KP_0 KP_Insert KP_0"
 # Makes Pause Insert
 exec --no-startup-id xmodmap -pke > ~/.Xmodmap
 ## Sets keys
@@ -326,8 +326,8 @@ bindsym $mod+m exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
 bindsym Print exec --no-startup-id "sleep 0.1; urxvtc -e ~/Git/OneOffCodes/Python/Screenshots/screenshots.py"
 assign [title="screenshots.py"] number 9
 
-bindsym $mod+bracketright exec --no-startup-id pactl set-sink-volume 1 +5%
-bindsym $mod+bracketleft exec --no-startup-id pactl set-sink-volume 1 -5%
+bindsym $mod+bracketright exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000_00_1b.0.analog-stereo +5%
+bindsym $mod+bracketleft exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000_00_1b.0.analog-stereo -5%
 # Set volume with keyboard
 
 bindsym $mod+semicolon exec --no-startup-id brightnessctl s -5%
