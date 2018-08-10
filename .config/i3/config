@@ -55,7 +55,7 @@ exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/wallpaper_maker/wallpa
 exec_always --no-startup-id exec ~/Git/OneOffCodes/Python/i3_alternating_windows/i3_alternating_windows.py
 # Sets my i3 windows to open in alternating order
 
-exec --no-startup-id exec redshift -b 1.0:0.7 -l -33:117 -t 5500:3000
+exec --no-startup-id exec redshift -b 1.0:0.7 -l -33:117 -t 5500:2700
 # Starts redshift
 
 exec --no-startup-id xmodmap -e "clear lock"; xmodmap -e "keysym Caps_Lock = Escape"
