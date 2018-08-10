@@ -60,7 +60,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCh2UY1hxlMr4_7Az_iQ82HQ "Ne
 
 ## Twitter
 https://twitrss.me/twitter_user_to_rss/?user=snowden "Twitter""~Snowden"
-https://twitrss.me/twitter_user_to_rss/?user=realDonaldTrump "Twitter""~realDonaldTrump"
 https://twitrss.me/twitter_user_to_rss/?user=ikenny_ "Twitter""~IanKenny"
 https://twitrss.me/twitter_user_to_rss/?user=melbourneRebels "Twitter""~MelbourneRebels"
 https://twitrss.me/twitter_user_to_rss/?user=DaveWessels "Twitter""~DaveWessels"
@@ -74,6 +73,8 @@ https://twitrss.me/twitter_user_to_rss/?user=dccommonsense "Twitter""~DC Common 
 https://twitrss.me/twitter_user_to_rss/?user=gizmology "Twitter""~Gizmology"
 
 ## Sport
+https://www.youtube.com/channel/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeIOarQkwmGhimim9cDUTng "NFL""49ers"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCj-49LnrWljGJwEJ5LqWLvw "NFL""~Samual Gold"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g "NFL""~Brett Kollmann"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCDVYQ4Zhbm3S2dlz7P1GBDg "NFL""~NFL"
@@ -90,14 +91,13 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC2ss4LwIhvFIyiQ-iNKXQAg "Li
 https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg "Linux""~exurb1a"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "Linux""~gotbleu"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Linux""~Luke Smith"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCzZEwjZEnPFHlMQYIUaByAw "Linux""~Lets Get Serious"
 https://www.archlinux.org/feeds/news/ "Linux""~Arch Linux News"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg "Linux""~Kris Occhipinti"
 
 #Wrestling
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqdTAVGxQvzhkzrN-pp_xuQ "Wrestling""~Wrestling Worldz"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCgcInJTvcYSf807G_m_sqYw "Wrestling""~Wrestling Reality"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0h5dn3zcfhzEywoJ2e6FJQ "Wrestling""~Wrestling Reality II"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCgcInJTvcYSf807G_m_sqYw "Wrestling""~Wrestling Reality"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC0h5dn3zcfhzEywoJ2e6FJQ "Wrestling""~Wrestling Reality II"
 
 ## YouTube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCH5EYEt8Bw-CwP1nTGa2f9g "Youtube""~Karnivool"
@@ -131,7 +131,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "Ed
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A "Education""~Standup Maths"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCLB7AzTwc6VFZrBsO2ucBMg "Education""~Robert Miles"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA "Education""~VSauce"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA "Education""~Veritasium"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCfY8sl5Q6VKndz0nLaGygPw "Education""~The RaspberryPi Guy"
 
 ## Animated Education
