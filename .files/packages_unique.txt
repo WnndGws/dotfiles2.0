@@ -13,14 +13,17 @@ bluez
 bluez-utils
 brightnessctl
 castnow-git
+celt
 centerim5-git
 chromecastize-git
 cmus
 cower
 cpupower
+devtools
 dmenu2
 downgrade
 dpkg
+ell
 exa
 fasd
 fd
@@ -28,10 +31,12 @@ feh
 fetchmirrors
 fetchpkg
 firefox
+freeglut
 fzf
 gallery-dl
 gcalcli
 git
+glu
 goobook-git
 grub
 gvfs
@@ -39,6 +44,7 @@ gvfs-mtp
 gvfs-smb
 gvim
 haxor-news
+hcxdumptool
 headphones
 htop
 hyperfine
@@ -77,10 +83,10 @@ openvpn
 os-prober
 p7zip
 pacman-utils
-pakku
 pandoc
 pavucontrol
 picard
+pikaur
 pkgconf
 polybar
 powertop
@@ -109,6 +115,7 @@ radarr
 ranger
 redshift-minimal
 ripgrep
+rrdtool
 rsync
 rtv
 rxvt-unicode-patched
@@ -119,7 +126,6 @@ screenfetch
 scrot
 simple-mtpfs
 sonarr
-syslinux
 tealdeer
 texlive-bibtexextra
 texlive-fontsextra
@@ -138,6 +144,7 @@ udiskie-dmenu-git
 unclutter
 unzip
 urlscan
+urxvt-vtwheel
 vnstat
 w3m
 wget
