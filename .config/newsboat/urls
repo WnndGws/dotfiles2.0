@@ -1,7 +1,6 @@
 
 ## Jobs
 https://doj-internet-wagov.bigredsky.com/ "Correction Jobs""~WA"
-http://createfeed.fivefilters.org/extract.php?url=www.fremantlefc.com.au%2Fclub%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~Adelaide"
 http://createfeed.fivefilters.org/extract.php?url=www.lions.com.au%2Fclub%2Fabout%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~Brisbane"
 http://createfeed.fivefilters.org/extract.php?url=www.carltonfc.com.au%2Fclub%2Femployment&in_id_or_class=&url_contains=.pdf "AFL Jobs""~Carlton"
 http://createfeed.fivefilters.org/extract.php?url=www.collingwoodfc.com.au%2Fclub%2Fabout-us%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~Collingwood"
@@ -18,7 +17,8 @@ http://createfeed.fivefilters.org/extract.php?url=www.saints.com.au%2Fclub%2Fabo
 http://createfeed.fivefilters.org/extract.php?url=www.sydneyswans.com.au%2Fclub%2Four-people%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~Sydney"
 http://createfeed.fivefilters.org/extract.php?url=www.westernbulldogs.com.au%2Fclub%2Fcareers&in_id_or_class=&url_contains=.pdf "AFL Jobs""~WesternBulldogs"
 http://createfeed.fivefilters.org/extract.php?url=www.westcoasteagles.com.au%2Fthe- club%2Fadministration%2Femployment&in_id_or_class=&url_contains=.pdf "AFL Jobs""~WestCoast"
-#"Soccer,rugby,cricket,unis,govt,AIS,transperth"
+http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.sydneyfc.com%2Fjobs&in_id_or_class=news-block&url_contains= "A-League Jobs""~Sydney FC"
+#"rugby,cricket,unis,govt,AIS,transperth"
 
 ## Funny
 http://www.commitstrip.com/en/feed/ "Funny""~CommitStrip"
