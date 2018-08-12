@@ -60,7 +60,6 @@ intel-ucode
 ipython
 jsoncpp
 kodi
-lazygit
 libmad
 linux-lts
 linux-lts-headers
