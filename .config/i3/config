@@ -326,8 +326,8 @@ bindsym $mod+m exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
 bindsym Print exec --no-startup-id "sleep 0.1; urxvtc -e ~/Git/OneOffCodes/Python/Screenshots/screenshots.py"
 assign [title="screenshots.py"] number 9
 
-bindsym $mod+bracketright exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000_00_1b.0.analog-stereo +5%
-bindsym $mod+bracketleft exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000_00_1b.0.analog-stereo -5%
+bindsym $mod+bracketright exec --no-startup-id ~/.config/i3/i3scripts/set_all_volume_up.sh
+bindsym $mod+bracketleft exec --no-startup-id ~/.config/i3/i3scripts/set_all_volume_down.sh
 # Set volume with keyboard
 
 bindsym $mod+semicolon exec --no-startup-id brightnessctl s -5%
