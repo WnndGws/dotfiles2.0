@@ -205,7 +205,7 @@ format-underline = ${colors.background-alt}
 [module/vpncheck]
 type = custom/script
 interval = 5
-exec = .config/polybar/vpn_check.sh
+exec = ~/.config/polybar/vpn_check.sh
 exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
 
 [module/eth]
