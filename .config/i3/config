@@ -336,9 +336,3 @@ bindsym $mod+apostrophe exec --no-startup-id brightnessctl s +5%
 
 for_window [class="mpv" instance="mpv_youtube"] floating enable sticky enable
 # Set mpv to floating mode
-
-#for_window [instance="urxvt" title="speedread"] floating enable
-# Set feh to floating mode
-
-for_window [class="Peek"] floating enable sticky enable
-# Set peek to floating mode
