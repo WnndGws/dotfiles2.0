@@ -28,12 +28,10 @@ exa
 fasd
 fd
 feh
-fetchmirrors
 fetchpkg
 firefox
 freeglut
 fzf
-gallery-dl
 gcalcli
 git
 glu
@@ -44,7 +42,6 @@ gvfs-mtp
 gvfs-smb
 gvim
 haxor-news
-hcxdumptool
 headphones
 htop
 hyperfine
@@ -122,10 +119,10 @@ rxvt-unicode-patched
 sabnzbd
 samba
 sc-im
-screenfetch
 scrot
 simple-mtpfs
 sonarr
+syncthing
 tealdeer
 texlive-bibtexextra
 texlive-fontsextra
@@ -159,7 +156,6 @@ xsel
 xterm
 xtrlock
 youtube-dl
-youtube-viewer
 zfs-dkms
 zfs-utils
 zsh
