@@ -228,7 +228,7 @@ alias calc="gcalcli --monday --detail_length --refresh calw"
 alias calcadd="gcalcli add --calendar 'Personal Calendar'"
 #Add events to calendar
 
-alias clean_latex="find ./ -type f \( -name '*.aux' -o -name '*.bbl' -o -name '*.bcf' -o -name '*.blg' -o -name '*.fdb_latexmk' -o -name '*.fls' -o -name '*.log' -o -name '*.out' -o -name '*.xml' -o -name '*.gz' -o -name '*.xdv' \) | xargs -I{} rm -f {}"
+alias clean_latex="find ./ -type f \( -name '*.aux' -o -name '*.bbl' -o -name '*.bcf' -o -name '*.blg' -o -name '*.fdb_latexmk' -o -name '*.fls' -o -name '*.log' -o -name '*.out' -o -name '*.xml' -o -name '*.gz' -o -name '*.xdv' \) | xargs -I{} rm -f {} && latexmk -c"
 #Remove lint latex files
 
 alias clip="xclip -o -sel clip | xsel -p"
@@ -241,7 +241,7 @@ alias cm="centerim5"
 alias cammu="bat .centerim5/clogs/Hangouts/wynandgouwswg/104062054821796402056 | urlscan -cn | uniq | tail | urlscan -c"
 #Extract urls itiot sends me
 
-alias cl='$HOME/Git/OneOffCodes/Shell/Compile_Latex.sh'
+alias cl='latexmk -xelatex -pvc -cd'
 #Compile and open latex
 
 alias dm='$HOME/Git/dotfiles2.0/.files/dotmake.sh'
