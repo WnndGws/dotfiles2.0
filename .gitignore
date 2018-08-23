@@ -10,6 +10,10 @@
 .config/configstore
 .config/cmus/cache
 .config/MusicBrainz
+.config/massren
+.config/plex.tv
+.config/QtProject.conf
+.pandoc
 .Xmodmap
 *.pem
 *.db
