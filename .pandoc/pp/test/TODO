@@ -1,9 +1,0 @@
-# Tests TODOs LIST
-
-- [x] `github.css`:
-    - [x] prevent code blocks overflowing --- fixed with:
-        ```css
-        pre.sourceCode {
-          overflow: auto;
-        }
-        ```

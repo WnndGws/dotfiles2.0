@@ -1,2 +1,0 @@
-SET "PP_MACROS_PATH=%~dp0"
-EXIT /B
