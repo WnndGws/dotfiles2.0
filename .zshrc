@@ -231,9 +231,8 @@ alias calcadd="gcalcli add --calendar 'Personal Calendar'"
 alias clean_latex="find ./ -type f \( -name '*.aux' -o -name '*.bbl' -o -name '*.bcf' -o -name '*.blg' -o -name '*.fdb_latexmk' -o -name '*.fls' -o -name '*.log' -o -name '*.out' -o -name '*.xml' -o -name '*.gz' -o -name '*.xdv' \) | xargs -I{} rm -f {} && latexmk -c"
 #Remove lint latex files
 
-alias clip="xclip -o -sel clip | xsel -p"
-alias paste="xclip -o -sel clip"
-#Copies the content of PRIMARY buffer to clipboard so I can paste outside urxvt
+alias compile_latex='latexmk -xelatex -pvc -cd'
+#Compile and open latex
 
 alias cm="centerim5"
 #Saves typing
@@ -241,11 +240,11 @@ alias cm="centerim5"
 alias cammu="bat .centerim5/clogs/Hangouts/wynandgouwswg/104062054821796402056 | urlscan -cn | uniq | tail | urlscan -c"
 #Extract urls itiot sends me
 
-alias cl='latexmk -xelatex -pvc -cd'
-#Compile and open latex
-
 alias dm='$HOME/Git/dotfiles2.0/.files/dotmake.sh'
 #Saves typing
+
+alias du="ncdu --color dark -rr -x"
+#Use a nicer du
 
 alias failed_ctl='systemctl list-units --state=failed'
 #To list any failed systemctl units
@@ -261,7 +260,7 @@ alias git_push='git add -p . && git commit -aS && git pull && git push'
 alias gtp='git add -p . && git commit -aS && git pull && git push'
 #Add, commit, and push git in one command
 
-alias gm='$HOME/Git/OneOffCodes/Python/gifmaker/gifmaker.py make_gif'
+alias gif_make='$HOME/Git/OneOffCodes/Python/gifmaker/gifmaker.py make_gif'
 #Make webms from videos
 
 alias gpg_encrypt="~/Git/OneOffCodes/Shell/gpgEncrypt.sh"
@@ -288,7 +287,7 @@ alias lock="~/Git/OneOffCodes/Shell/lock.sh"
 alias lsa='exa --all --color always --color-scale'
 #List all including hidden
 
-alias lsl='exa --all --color always --color-scale --long'
+alias ll='exa --all --color always --color-scale --long'
 #List all including hidden in a long list
 
 alias ls='exa --color always --color-scale'
@@ -333,10 +332,8 @@ alias playlist_play="~/Git/OneOffCodes/Shell/playlistPlay.sh"
 #Use to play .order files so can watch overlapping shows in correct order. Searches and plays 1st line in a file. If multiples found presents them. Offers choice whether want to move played file to bottom
 #Relys on custom 'lsgrep' function
 
-alias post_lands="~/Git/OneOffCodes/Shell/postLands.sh"
-#Puts computer back into its "normal" state
-alias pre_lands="~/Git/OneOffCodes/Shell/preLands.sh"
-#Gets computer ready for online games
+alias pytest='~/Git/OneOffCodes/Shell/pytest.sh'
+#Watch my coding against the test
 
 alias rcp="~/Git/OneOffCodes/Shell/rcp.sh"
 #Uses rsync to copy, allows me to be able to copy using wildcards
@@ -345,9 +342,6 @@ alias rmv="~/Git/OneOffCodes/Shell/rmv.sh"
 
 alias rm='trash -riv'
 #Prompt when removing files, force recursive
-
-alias rs='rainbowstream'
-#Saves typing
 
 alias rsync="rsync -vrhP"
 #I always use rsync with these flags
@@ -369,7 +363,7 @@ alias shutdown="~/Git/OneOffCodes/Shell/dmenu_yn_prompt.sh 'Do You want to shut 
 alias sleep_until="~/Git/OneOffCodes/Shell/sleep_until.sh"
 #Sleep until a certain time
 
-alias suspend="_ rtcwake --date +1month -m mem; ~/Git/OneOffCodes/Shell/lock.sh; _ systemctl restart openvpn.service"
+alias suspend="sudo rtcwake --date +1month -m mem; ~/Git/OneOffCodes/Shell/lock.sh; sudo systemctl restart openvpn.service"
 #Use rtc wake as suspend
 
 alias p='pikaur -Ss'
@@ -400,14 +394,11 @@ alias vd="_ systemctl stop --now openvpn.service"
 alias vu="_ systemctl restart --now openvpn.service"
 #Aliases for VPN up or down
 
-alias vw="vim \"+VimwikiUISelect\""
-#Opens my Vimwiki
+alias watch="echo 'Use entr instead....'"
+#Remind me to use entr
 
 alias ww="cd $HOME/Git/WnndGws.github.io; fd . -e md -x pandoc -s -f markdown -t html5 -o '{/.}.html' '{/.}.md' -c pandoc.css -c zenburn.css"
 #WynWiki's my markdown files to html
-
-alias y='streamlink --player "mpv --force-seekable=yes --hr-seek=yes --hr-seek-framedrop=yes --speed=1.2 --no-terminal --force-window --demuxer-thread=yes --demuxer-readahead-secs=180"'
-#Plays youtube videos in non-seethrough mpv
 
 alias youtube-ul="~/Git/OneOffCodes/Shell/youtubeUL.sh"
 alias ytul="youtube-ul"
@@ -415,9 +406,6 @@ alias ytul="youtube-ul"
 
 alias ytdl="youtube-dl"
 #Youtube Upload
-
-alias yv='youtube-viewer --results=50 --order=date'
-#Alias for youtube viewer
 
 alias zsh_time='time "zsh -i -c exit"'
 alias zt='zsh_time'
