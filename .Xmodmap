@@ -244,5 +244,5 @@ keycode 250 =
 keycode 251 =
 keycode 252 =
 keycode 253 =
-keycode 254 =
-keycode 255 =
+keycode 254 = XF86WWAN NoSymbol XF86WWAN
+keycode 255 = XF86RFKill NoSymbol XF86RFKill
