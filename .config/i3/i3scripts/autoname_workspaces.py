@@ -67,6 +67,7 @@ WINDOW_ICONS = {
     'firefox': '',
     'scim': '',
     'aria2c': '',
+    'libre': '',
     'screenshots': ''
 }
 
