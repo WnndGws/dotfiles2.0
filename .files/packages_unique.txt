@@ -1,3 +1,4 @@
+0ad
 acpi
 alsa-utils
 aria2
@@ -24,7 +25,9 @@ dmenu2
 downgrade
 dpkg
 ell
+entr
 exa
+exercism-cli
 fasd
 fd
 feh
@@ -58,6 +61,7 @@ ipython
 jsoncpp
 kodi
 libmad
+libreoffice-fresh
 linux-lts
 linux-lts-headers
 magic-wormhole
@@ -65,6 +69,7 @@ massren
 mesa
 mpv
 mupdf
+ncdu
 neofetch
 neomutt
 nerd-fonts-complete-mono-glyphs
@@ -105,6 +110,7 @@ python-nltk
 python-pillow
 python-pip
 python-pipenv
+python-pytest
 python-requests-html
 python-utils
 python-wordcloud
