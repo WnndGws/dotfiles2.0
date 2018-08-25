@@ -13,10 +13,13 @@
 .config/massren
 .config/plex.tv
 .config/QtProject.conf
+.config/0ad
+.config/libreoffice
 .pandoc
 .Xmodmap
 *.pem
 *.db
+*.sqlite
 
 
 # Created by https://www.gitignore.io/api/tex,vim,latex,linux,matlab,django,python,archlinuxpackages
