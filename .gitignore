@@ -15,6 +15,7 @@
 .config/QtProject.conf
 .config/0ad
 .config/libreoffice
+.config/exercism
 .pandoc
 .Xmodmap
 *.pem
