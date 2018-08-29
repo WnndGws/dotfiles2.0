@@ -29,20 +29,20 @@ autocmd FileType markdown let g:indentLine_enabled=0
 inoremap <Space><Space> <Esc>/<++><Enter>"_c4l
 
 """"LATEX
-"autocmd FileType tex inoremap ;em \emph{}<++><Esc>T{i
-"autocmd FileType tex inoremap ;bf \textbf{}<++><Esc>T{i
-"autocmd FileType tex inoremap ;it \textit{}<++><Esc>T{i
-"autocmd FileType tex inoremap ;tc \textcite{}<++><Esc>T{i
-"autocmd FileType tex inoremap ;pc \parencite{}<++><Esc>T{i
-"autocmd FileType tex inoremap ;ol \begin{enumerate}<Enter><Tab>\end{enumerate}<Enter><Tab><++><Esc>2kA<Enter><Tab>\item<Space>
-"autocmd FileType tex inoremap ;ul \begin{itemize}<Enter><Tab>\end{itemize}<Enter><Tab><++><Esc>2kA<Enter><Tab>\item<Space>
-"autocmd FileType tex inoremap ;li \item<Space>
-"autocmd FileType tex inoremap ;chap \chapter{}<Enter><Tab><++><Esc>-f}i
-"autocmd FileType tex inoremap ;sec \section{}<Enter><Tab><++><Esc>-f}i
-"autocmd FileType tex inoremap ;ssec \subsection{}<Enter><Tab><++><Esc>-f}i
-"autocmd FileType tex inoremap ;sssec \subsubsection{}<Enter><Tab><++><Esc>-f}i
-"autocmd FileType tex inoremap ;ques \begin{questions}<Enter><Tab>\end{questions}<Enter><Tab><++><Esc>2kA<Enter><Tab>\newquestion{}<Space>
-"autocmd FileType tex inoremap ;part \begin{parts}<Enter><Tab>\end{parts}<Enter><Tab><++><Esc>2kA<Enter><Tab>\newpart{}<Space>
+autocmd FileType tex inoremap ;em \emph{}<++><Esc>T{i
+autocmd FileType tex inoremap ;bf \textbf{}<++><Esc>T{i
+autocmd FileType tex inoremap ;it \textit{}<++><Esc>T{i
+autocmd FileType tex inoremap ;tc \textcite{}<++><Esc>T{i
+autocmd FileType tex inoremap ;pc \parencite{}<++><Esc>T{i
+autocmd FileType tex inoremap ;ol \begin{enumerate}<Enter><Tab>\end{enumerate}<Enter><Tab><++><Esc>2kA<Enter><Tab>\item<Space>
+autocmd FileType tex inoremap ;ul \begin{itemize}<Enter><Tab>\end{itemize}<Enter><Tab><++><Esc>2kA<Enter><Tab>\item<Space>
+autocmd FileType tex inoremap ;li \item<Space>
+autocmd FileType tex inoremap ;chap \chapter{}<Enter><Tab><++><Esc>-f}i
+autocmd FileType tex inoremap ;sec \section{}<Enter><Tab><++><Esc>-f}i
+autocmd FileType tex inoremap ;ssec \subsection{}<Enter><Tab><++><Esc>-f}i
+autocmd FileType tex inoremap ;sssec \subsubsection{}<Enter><Tab><++><Esc>-f}i
+autocmd FileType tex inoremap ;ques \begin{questions}<Enter><Tab>\end{questions}<Enter><Tab><++><Esc>2kA<Enter><Tab>\newquestion{}<Space>
+autocmd FileType tex inoremap ;part \begin{parts}<Enter><Tab>\end{parts}<Enter><Tab><++><Esc>2kA<Enter><Tab>\newpart{}<Space>
 
 " ---------------------------- "
 " >>>>> GENERAL SETTINGS <<<<< "
