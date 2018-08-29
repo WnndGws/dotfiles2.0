@@ -25,6 +25,7 @@ dmenu2
 downgrade
 dpkg
 ell
+emby-server
 entr
 exa
 exercism-cli
@@ -59,7 +60,6 @@ insync
 intel-ucode
 ipython
 jsoncpp
-kodi
 libmad
 libreoffice-fresh
 linux-lts
@@ -113,7 +113,6 @@ python-pipenv
 python-pytest
 python-requests-html
 python-utils
-python-wordcloud
 radarr
 ranger
 redshift-minimal
@@ -130,6 +129,8 @@ simple-mtpfs
 sonarr
 syncthing
 tealdeer
+tesseract
+tesseract-data-eng
 texlive-bibtexextra
 texlive-fontsextra
 texlive-formatsextra
