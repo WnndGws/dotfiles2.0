@@ -232,12 +232,14 @@ alias clean_latex="find ./ -type f \( -name '*.aux' -o -name '*.bbl' -o -name '*
 #Remove lint latex files
 
 alias compile_latex='latexmk -xelatex -pvc -cd'
+alias cl='compile_latex'
 #Compile and open latex
 
 alias cm="centerim5"
 #Saves typing
 
 alias cammu="bat .centerim5/clogs/Hangouts/wynandgouwswg/104062054821796402056 | urlscan -cn | uniq | tail | urlscan -c"
+alias ccm='cammu'
 #Extract urls itiot sends me
 
 alias dm='$HOME/Git/dotfiles2.0/.files/dotmake.sh'
@@ -325,6 +327,9 @@ alias po='paorph'
 alias porm='paorph | xargs -I{} pikaur -R --noconfirm {}; paorph | xargs -I{} pikaur -R --noconfirm {}; paorph | xargs -I{} pikaur -R --noconfirm {}'
 #Pacaur orphans
 
+alias pdf2ocr="~/Git/OneOffCodes/Shell/ocr_pdf.sh"
+#Convert a pdf to tiff for tesseract and OCR it
+
 alias play_DCAU="~/Git/OneOffCodes/Shell/playlistPlay.sh ~/wynZFS/Media/WatchOrders/DCAU.order"
 #Plays the next episode in the DCAU that I am up to
 
@@ -373,6 +378,9 @@ alias pare='pikaur -R'
 alias pin='pikaur -S --noconfirm'
 #Trizen install
 
+alias ping='~/Git/OneOffCodes/Shell/prettyping --nolegend'
+#Use prettyping
+
 alias time='hyperfine'
 #Use hyperfine to time commands
 
@@ -388,14 +396,12 @@ alias un:pw="cat /dev/urandom | tr -dc 'a-zA-Z0-9-_!@#$%^&*()_+{}|:?=' | fold -w
 #Echo out a 8 char un and 32 char pw
 
 alias v='fasd -f -e vim' 
+alias c='fasd_cd -d -i' 
 #Quick opening files with vim
 
 alias vd="_ systemctl stop --now openvpn.service"
 alias vu="_ systemctl restart --now openvpn.service"
 #Aliases for VPN up or down
-
-alias watch="echo 'Use entr instead....'"
-#Remind me to use entr
 
 alias ww="cd $HOME/Git/WnndGws.github.io; fd . -e md -x pandoc -s -f markdown -t html5 -o '{/.}.html' '{/.}.md' -c pandoc.css -c zenburn.css"
 #WynWiki's my markdown files to html
