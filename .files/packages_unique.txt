@@ -9,9 +9,6 @@ bat
 beamercolorthemesolarized
 biber
 bind-tools
-black-git
-bluez
-bluez-utils
 brightnessctl
 castnow-git
 celt
@@ -21,6 +18,7 @@ cmus
 cower
 cpupower
 devtools
+discord
 dmenu2
 downgrade
 dpkg
@@ -40,6 +38,7 @@ gcalcli
 git
 glu
 goobook-git
+gparted
 grub
 gvfs
 gvfs-mtp
@@ -94,7 +93,6 @@ polybar
 powertop
 pulseaudio
 pulseaudio-alsa
-pulseaudio-bluetooth
 purple-facebook
 purple-hangouts-hg
 purple-plugin-pack
@@ -131,6 +129,7 @@ syncthing
 tealdeer
 tesseract
 tesseract-data-eng
+testdisk
 texlive-bibtexextra
 texlive-fontsextra
 texlive-formatsextra
