@@ -16,6 +16,7 @@
 .config/0ad
 .config/libreoffice
 .config/exercism
+.config/discord
 .pandoc
 .Xmodmap
 *.pem
