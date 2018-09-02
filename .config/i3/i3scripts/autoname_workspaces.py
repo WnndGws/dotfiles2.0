@@ -68,6 +68,7 @@ WINDOW_ICONS = {
     'scim': '',
     'aria2c': '',
     'libre': '',
+    'discord': '',
     'screenshots': ''
 }
 
