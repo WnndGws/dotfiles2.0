@@ -365,6 +365,9 @@ alias shutdown_in="~/Git/OneOffCodes/Shell/shutdownIn.sh"
 alias shutdown="~/Git/OneOffCodes/Shell/dmenu_yn_prompt.sh 'Do You want to shut down?' \"~/Git/OneOffCodes/Shell/shutdownIn.sh 0:05\""
 #Is the same as normal shutdown, except instead of just saying a min it counts down. Much more convenient
 
+convert_to_480p() { ffmpeg -i "$1" -vf scale=-2:480 -crf 20 -vcodec h264 -acodec libvorbis -ac 2 Small_"$1" }
+#Convert a video to 576p
+
 alias sleep_until="~/Git/OneOffCodes/Shell/sleep_until.sh"
 #Sleep until a certain time
 
