@@ -1,3 +1,91 @@
+/home/wynand/wynZFS/Media/Audio/Music/Karnivool/2005 - Themata/11 Omitted For Clarity.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Roots/1999 - Things Fall Apart/18 The Roots - Act Fore... The End?.flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/13 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/14 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/15 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/16 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/17 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/18 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/19 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/20 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/21 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/22 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/23 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/24 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/25 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/26 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/27 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/28 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/29 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/30 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/31 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/32 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/33 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/34 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/35 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/36 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/37 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/38 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/39 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/40 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/41 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/42 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/43 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/44 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/45 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/46 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/47 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/48 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/49 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/50 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/51 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/52 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/53 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/54 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/55 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/56 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/57 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/58 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/59 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/60 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/61 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/62 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/63 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/64 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/65 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/66 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/67 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/68 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/69 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/70 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/71 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/72 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/73 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/74 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/75 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/76 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/77 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/78 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/79 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/80 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/81 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/82 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/83 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/84 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/85 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/86 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/87 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/88 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/89 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/91 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/92 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/93 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/94 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/95 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/96 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/97 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/98 [silence].flac
+/home/wynand/wynZFS/Media/Audio/Music/The Stone Roses/1994 - Second Coming/99 [silence].flac
 /home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/01 Come On, Come Out.mp3
 /home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/02 The Minnow & The Trout.mp3
 /home/wynand/wynZFS/Media/Audio/Music (lossy)/A Fine Frenzy/2007 - One Cell In The Sea/03 Whisper.mp3
@@ -2228,16 +2316,16 @@
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1993 - Live Seeds/11 The Good Son.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1993 - Live Seeds/12 From Her To Eternity.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1993 - Live Seeds/13 New Morning.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/01 Nick Cave & The Bad Seeds - Song Of Joy.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/02 Nick Cave & The Bad Seeds - Stagger Lee.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/03 Nick Cave & The Bad Seeds - Henry Lee (Feat. PJ Harvey).flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/04 Nick Cave & The Bad Seeds - Lovely Creature.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/05 Nick Cave & The Bad Seeds - Where The Wild Roses Grow (Feat. Kylie Minogue).flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/06 Nick Cave & The Bad Seeds - The Curse Of Millhaven.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/07 Nick Cave & The Bad Seeds - The Kindness Of Strangers.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/08 Nick Cave & The Bad Seeds - Crow Jane.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/09 Nick Cave & The Bad Seeds - O'Malley's Bar.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1996 - Murder Ballads/10 Nick Cave & The Bad Seeds - Death Is Not The End.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/01 Nick Cave & The Bad Seeds - Song Of Joy.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/02 Nick Cave & The Bad Seeds - Stagger Lee.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/03 Nick Cave & The Bad Seeds - Henry Lee (Feat. PJ Harvey).flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/04 Nick Cave & The Bad Seeds - Lovely Creature.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/05 Nick Cave & The Bad Seeds - Where The Wild Roses Grow (Feat. Kylie Minogue).flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/06 Nick Cave & The Bad Seeds - The Curse Of Millhaven.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/07 Nick Cave & The Bad Seeds - The Kindness Of Strangers.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/08 Nick Cave & The Bad Seeds - Crow Jane.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/09 Nick Cave & The Bad Seeds - O'Malley's Bar.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1996 - Murder Ballads/10 Nick Cave & The Bad Seeds - Death Is Not The End.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1997 - The Boatman's Call/01 Into My Arms.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1997 - The Boatman's Call/02 Lime Tree Arbour.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1997 - The Boatman's Call/03 People Ain't No Good.flac
@@ -2250,16 +2338,16 @@
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1997 - The Boatman's Call/10 Idiot Prayer.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1997 - The Boatman's Call/11 Far From Me.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1997 - The Boatman's Call/12 Green Eyes.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/01 Wonderful Life.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/02 He Wants You.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/03 Right Out Of Your Hand.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/04 Bring It On.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/05 Dead Man In My Bed.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/06 Still In Love.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/07 There Is A Town.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/08 Rock Of Gibraltar.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/09 She Passed By My Window.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2003 - Nocturama/10 Babe, I'm On Fire.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/01 Wonderful Life.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/02 He Wants You.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/03 Right Out Of Your Hand.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/04 Bring It On.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/05 Dead Man In My Bed.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/06 Still In Love.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/07 There Is A Town.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/08 Rock Of Gibraltar.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/09 She Passed By My Window.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - Nocturama/10 Babe, I'm On Fire.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - God Is In The House/01 Do You Love Me.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - God Is In The House/02 Oh My Lord.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2003 - God Is In The House/03 Lime Tree Arbour.flac
@@ -2421,28 +2509,28 @@
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1986 - Your Funeral... My Trial/06 Hard On For Love.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1986 - Your Funeral... My Trial/07 She Fell Away.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1986 - Your Funeral... My Trial/08 Long Time Man.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/01 Do You Love Me?.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/02 Nobody's Baby Now.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/03 Loverman.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/04 Jangling Jack.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/05 Red Right Hand.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/06 I Let Love In.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/07 Thirsty Dog.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/08 Ain't Gonna Rain Anymore.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/09 Lay Me Low.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/1994 - Let Love In/10 Do You Love Me? Part 2.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/01 As I Sat Sadly By Her Side.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/02 And No More Shall We Part.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/03 Hallelujah.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/04 Love Letter.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/05 Fifteen Feet Of Pure White Snow.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/06 God Is In The House.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/07 Oh My Lord.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/08 Sweetheart Come.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/09 The Sorrowful Wife.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/10 We Came Along This Road.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/11 Gates To The Garden.flac
-/home/wynand/wynZFS/Media/Audio/Music/Nick Cave And The Bad Seeds/2001 - No More Shall We Part/12 Darker With The Day.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/01 Do You Love Me?.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/02 Nobody's Baby Now.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/03 Loverman.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/04 Jangling Jack.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/05 Red Right Hand.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/06 I Let Love In.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/07 Thirsty Dog.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/08 Ain't Gonna Rain Anymore.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/09 Lay Me Low.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/1994 - Let Love In/10 Do You Love Me? Part 2.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/01 As I Sat Sadly By Her Side.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/02 And No More Shall We Part.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/03 Hallelujah.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/04 Love Letter.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/05 Fifteen Feet Of Pure White Snow.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/06 God Is In The House.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/07 Oh My Lord.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/08 Sweetheart Come.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/09 The Sorrowful Wife.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/10 We Came Along This Road.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/11 Gates To The Garden.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2001 - No More Shall We Part/12 Darker With The Day.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/01 We No Who U R.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/02 Wide Lovely Eyes.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/03 Water's Edge.flac
@@ -2452,6 +2540,14 @@
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/07 Finishing Jubilee Street.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/08 Higgs Boson Blues.flac
 /home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2013 - Push The Sky Away/09 Push The Sky Away.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/01 Jesus Alone.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/02 Rings Of Saturn.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/03 Girl In Amber.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/04 Magneto.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/05 Anthrocene.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/06 I Need You.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/07 Distant Sky.flac
+/home/wynand/wynZFS/Media/Audio/Music/Nick Cave & The Bad Seeds/2016 - Skeleton Tree/08 Skeleton Tree.flac
 /home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-01 Mr Self Destruct.mp3
 /home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-02 Piggy.mp3
 /home/wynand/wynZFS/Media/Audio/Music (lossy)/Nine Inch Nails/1994 - The Downward Spiral (Disc 1_ The Downward Spiral)/1-03 Heresy.mp3
