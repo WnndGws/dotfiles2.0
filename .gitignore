@@ -17,6 +17,8 @@
 .config/libreoffice
 .config/exercism
 .config/discord
+.config/QtProject.conf
+.config/mimeapps.list
 .pandoc
 .Xmodmap
 *.pem
