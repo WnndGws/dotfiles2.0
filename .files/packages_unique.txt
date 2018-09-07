@@ -59,6 +59,7 @@ insync
 intel-ucode
 ipython
 jsoncpp
+kitty
 libmad
 libreoffice-fresh
 linux-lts
@@ -75,6 +76,8 @@ nerd-fonts-complete-mono-glyphs
 nethogs
 newsboat
 nim
+noteshrink
+noto-fonts-cjk
 noto-fonts-emoji
 offlineimap
 oh-my-zsh-git
@@ -127,8 +130,10 @@ simple-mtpfs
 sonarr
 syncthing
 tealdeer
-tesseract
-tesseract-data-eng
+tesseract-data-eng-git
+tesseract-data-equ-git
+tesseract-data-osd-git
+tesseract-ocr-git
 testdisk
 texlive-bibtexextra
 texlive-fontsextra
