@@ -107,7 +107,7 @@ font-1 = CodeNewRoman Nerd Font:pixelsize=11;1
 
 modules-left =
 #modules-center = date pomodoro redshift battery-shell memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
-modules-center = date pomodoro redshift pkg memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
+modules-center = date nextevent pomodoro redshift pkg memory cpu temperature pavolume weather vpncheck wlan_essid wlan daily_dl
 modules-right =
 separator = |
 
@@ -318,6 +318,13 @@ label = %output%
 exec = ~/.config/polybar/redshift.sh
 click-left = exec killall redshift
 click-right = exec ~/.config/polybar/startRedshift.sh
+
+[module/nextevent]
+type = custom/script
+interval = 600
+exec = ~/.config/polybar/next_event.sh
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+format-underline = ${colors.background-alt}
 
 [settings]
 screenchange-reload = true
