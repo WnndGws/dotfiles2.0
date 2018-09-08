@@ -22,6 +22,7 @@ discord
 dmenu2
 downgrade
 dpkg
+dtrx
 ell
 emby-server
 entr
@@ -127,6 +128,7 @@ samba
 sc-im
 scrot
 simple-mtpfs
+slic3r-git
 sonarr
 syncthing
 tealdeer
