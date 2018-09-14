@@ -371,6 +371,12 @@ convert_to_480p() { ffmpeg -i "$1" -vf scale=-2:480 -crf 20 -vcodec h264 -acodec
 alias sleep_until="~/Git/OneOffCodes/Shell/sleep_until.sh"
 #Sleep until a certain time
 
+alias sleeptonight='sudo rtcwake -m mem --date tomorrow; shutdown_in 7:00:00'
+#Wake up at midnight, then shutdown at 7am
+
+alias slic3r="slic3r.pl --load ~/.config/slic3r/printrbor.ini"
+#Always load profile
+
 alias suspend="sudo rtcwake --date +1month -m mem; ~/Git/OneOffCodes/Shell/lock.sh; sudo systemctl restart openvpn.service"
 #Use rtc wake as suspend
 
