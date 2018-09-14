@@ -60,3 +60,4 @@ ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCoh_z6QB0AG
 ignore-article "http://feeds.lifehacker.com.au/LifehackerAustralia" "age >= 1"
 ignore-article "https://theconversation.com/au/articles.atom" "age >= 1"
 ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA" "title !~ \"Savage\""
+ignore-article "https://sportscult.org/rss2.php" "title !~ \"NFL\" and title !~ \"Boxing\""
