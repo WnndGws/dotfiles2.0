@@ -8,7 +8,7 @@
 .config/ipython
 .config/spotify
 .config/configstore
-.config/cmus/cache
+.config/cmus
 .config/MusicBrainz
 .config/massren
 .config/plex.tv
