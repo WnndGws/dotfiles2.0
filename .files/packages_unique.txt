@@ -131,6 +131,7 @@ scrot
 simple-mtpfs
 slic3r-git
 sonarr
+stow
 syncthing
 tealdeer
 tesseract-data-eng-git
@@ -166,6 +167,7 @@ wpa_supplicant
 xclip
 xdg-user-dirs
 xdotool
+xprintidle
 xsel
 xterm
 xtrlock
