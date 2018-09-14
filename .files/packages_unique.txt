@@ -171,6 +171,7 @@ xprintidle
 xsel
 xterm
 xtrlock
+yadm-git
 youtube-dl
 zfs-dkms
 zfs-utils
