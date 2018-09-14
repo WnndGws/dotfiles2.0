@@ -61,6 +61,7 @@ intel-ucode
 ipython
 jsoncpp
 kitty
+lftp
 libmad
 libreoffice-fresh
 linux-lts
